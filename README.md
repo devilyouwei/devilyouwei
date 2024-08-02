@@ -1,5 +1,3 @@
-<h2 align="center" style="border: none">🤗 Hello, my name is Youwei Huang</h2>
-
 🌟 Welcome to my little corner of GitHub! I'm Youwei Huang, your friendly neighborhood research engineer and team manager at the Institute of Intelligent Computing Technology in Suzhou, CAS. My playground? Just some tinkering with <b>Large Language Models (LLM)</b>, <b>Blockchain</b>, and <b>Software Engineering</b>.
 <br><br>
 🛠️ When I’m not pretending to be a mad scientist, I’m leading projects that blend academic research with real-world applications. A few patents here, some papers there – casually shaping the future.
@@ -14,5 +12,5 @@
 <br><br>
 
 <p align="right">
-Cheers,</br>Youwei Huang
+🍻 Cheers,</br>Youwei Huang
 </p>
