@@ -1,8 +1,15 @@
+<!-- @format -->
+
 <h1 align="center" style="border: none">
-<img style="border-radius:100%;margin-right:10px" src="./img/ava.jpg" align="center" width=100/>
+<img style="border-radius:100%;margin-right:10px" src="https://raw.githubusercontent.com/devilyouwei/devilyouwei/main/img/ava.jpg" align="center" width=100/>
 </h1>
 
 <h2 align="center" style="border: none">🤗 Hello, my name is Youwei Huang</h2>
+<p align="center">
+<a href="https://www.devil.ren" target="_blank">
+  <img width=150 src="../img/chat-button.png" alt="Chat with Me"/>
+</a>
+</p>
 
 <p align="center">
 I work as a research engineer and team manager at the Institute of Intelligent Computing Technology in Suzhou, CAS.
@@ -16,34 +23,34 @@ I have contributed to these fields through several patents and papers, showing m
 
 ## Basic Info
 
-- **Gender:** Male
-- **Birth Date:** April 23, 1995
-- **Birth Place:** Suzhou, Jiangsu, China
-- **Business Address:** No. 88, Jinjihu Avenue, Suzhou Industrial Park, Jiangsu, China
-- **Phone:** +86 155 0162 2335 (China), +1 (732) 268-0284 (U.S.)
-- **Email:** [devilyouwei@foxmail.com](mailto:devilyouwei@foxmail.com), [huangyw@iict.ac.cn](mailto:huangyw@iict.ac.cn)
+-   **Gender:** Male
+-   **Birth Date:** April 23, 1995
+-   **Birth Place:** Suzhou, Jiangsu, China
+-   **Business Address:** No. 88, Jinjihu Avenue, Suzhou Industrial Park, Jiangsu, China
+-   **Phone:** +86 155 0162 2335 (China), +1 (732) 268-0284 (U.S.)
+-   **Email:** [devilyouwei@foxmail.com](mailto:devilyouwei@foxmail.com), [huangyw@iict.ac.cn](mailto:huangyw@iict.ac.cn)
 
 ## Education
 
 ### Macau University of Science and Technology
 
-- _Ph.D. Candidate in Software Engineering_
-- **Duration:** January 2022 – Quit
-- **Location:** Taipa, Macao SAR
-- **Research Interests:** Deep Learning, Blockchain, Software Engineering
+-   _Ph.D. Candidate in Software Engineering_
+-   **Duration:** January 2022 – Quit
+-   **Location:** Taipa, Macao SAR
+-   **Research Interests:** Deep Learning, Blockchain, Software Engineering
 
 ### Monmouth University
 
-- _Master's Degree in Software Engineering (ABET Accredited)_
-- **Duration:** September 2019 – August 2020
-- **Location:** NJ, U.S.A.
-- **Research Interests:** Software Engineering, Web Development, Blockchain
+-   _Master's Degree in Software Engineering (ABET Accredited)_
+-   **Duration:** September 2019 – August 2020
+-   **Location:** NJ, U.S.A.
+-   **Research Interests:** Software Engineering, Web Development, Blockchain
 
 ### Changshu Institute of Technology
 
-- _Bachelor's Degree in Software Engineering_
-- **Duration:** September 2013 – June 2018
-- **Location:** Suzhou, China
+-   _Bachelor's Degree in Software Engineering_
+-   **Duration:** September 2013 – June 2018
+-   **Location:** Suzhou, China
 
 ## Work Experience
 
@@ -51,24 +58,24 @@ I have contributed to these fields through several patents and papers, showing m
 
 **Institute of Computing Technology, Chinese Academy of Sciences (Suzhou branch)**
 
-- **Position:** Researcher, Team Manager, Project Manager
-- **Duration:** May 2020 – Present
-- **Location:** No. 88, Jinjihu Avenue, Suzhou Industrial Park, Suzhou, Jiangsu, China
-- **Duties:** AI and Blockchain project development, and management of related technical team.
+-   **Position:** Researcher, Team Manager, Project Manager
+-   **Duration:** May 2020 – Present
+-   **Location:** No. 88, Jinjihu Avenue, Suzhou Industrial Park, Suzhou, Jiangsu, China
+-   **Duties:** AI and Blockchain project development, and management of related technical team.
 
 ### Monmouth University
 
-- **Position:** PHP Tutor, Graduate Assistant, President of the Chinese Student Union
-- **Duration:** September 2019 – August 2020
-- **Location:** NJ, U.S.A.
-- **Duties:** Web Development, Graduate Assistant to Prof. Yu
+-   **Position:** PHP Tutor, Graduate Assistant, President of the Chinese Student Union
+-   **Duration:** September 2019 – August 2020
+-   **Location:** NJ, U.S.A.
+-   **Duties:** Web Development, Graduate Assistant to Prof. Yu
 
 ### Shanghai LeMiao Network Technology Company
 
-- **Position:** Software Engineer, Game Developer
-- **Duration:** June 2018 – August 2019
-- **Location:** Shanghai, China
-- **Duties:** Web Development, Game Development
+-   **Position:** Software Engineer, Game Developer
+-   **Duration:** June 2018 – August 2019
+-   **Location:** Shanghai, China
+-   **Duties:** Web Development, Game Development
 
 ## Research & Projects
 
@@ -80,8 +87,8 @@ _Supervisor: Associate Professor Tao Zhang_
 
 The current software engineering models, methods, and tools are no longer suitable for developing Web3 applications on the blockchain. My research focuses on exploring the integration of blockchain technology with deep neural network (DNN) models to address challenges in Web3 development. Key contributions include:
 
-- **SmartIntentNN**: Published two papers on a novel approach to detecting malicious intents in smart contracts.
-- **SmartBERT**: Trained a large language model specifically for smart contract representation, following the paradigms of BERT and RoBERTa to learn spatial representations through pre-training. SmartBERT supports downstream tasks related to smart contracts in software engineering.
+-   **SmartIntentNN**: Published two papers on a novel approach to detecting malicious intents in smart contracts.
+-   **SmartBERT**: Trained a large language model specifically for smart contract representation, following the paradigms of BERT and RoBERTa to learn spatial representations through pre-training. SmartBERT supports downstream tasks related to smart contracts in software engineering.
 
 Project Repository: <https://github.com/web3se-lab/web3-sekit>.
 
