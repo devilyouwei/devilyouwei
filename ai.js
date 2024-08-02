@@ -43,8 +43,8 @@ async function chat(ctx) {
     const temperature = ctx.request.body.temperature
     const top = ctx.request.body.top
     const maxLength = ctx.request.body.maxLength
-    const provider = ChatModelProvider.GLM
-    const model = ChatModel.GLM_9B
+    const provider = ChatModelProvider.Google
+    const model = ChatModel.GEM_FLASH_1_5
 
     if (!Array.isArray(input)) throw new Error('Input is not array')
 
