@@ -1,0 +1,15 @@
+{
+  "name": "devilyouwei",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\" style=\"border: none\"> <img style=\"border-radius:100%;margin-right:10px\" src=\"./img/ava.jpg\" align=\"center\" width=100/> </h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "doc": "markdown-preview --file resume.md --template default --port 8080 --no-opener"
+  },
+  "author": "devilyouwei",
+  "license": "ISC",
+  "dependencies": {
+    "@mryhryki/markdown-preview": "^0.7.0"
+  }
+}
