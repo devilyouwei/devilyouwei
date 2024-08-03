@@ -7,6 +7,7 @@ const { ChatRoleEnum, ChatModelProvider, ChatModel } = require('uniai')
 const UniAI = require('uniai').default
 const ROOT_PATH = require('app-root-path')
 const showdown = require('showdown')
+const pdf2md = require('pdf2md-ts')
 
 const {
     OPENAI_API,
@@ -48,10 +49,13 @@ async function chat(ctx) {
 
     if (!Array.isArray(input)) throw new Error('Input is not array')
 
-    let content = `以下是我的简历及相关个人信息：\n`
+    let content = `以下是英文简历的内容：\n`
     content += readFileSync(`${ROOT_PATH}/assets/resume.md`, 'utf-8')
-    content += `【重要】现在要求你扮演我，根据我的简历回答用户问题，你的用户是企业招聘部门，HR，老板等面试你的人\n`
+    const md = await pdf2md(readFileSync(`${ROOT_PATH}/assets/resume-cn.pdf`))
+    content += `以下是中文简历的内容：${md.join('\n')}\n`
+    content += `【重要】现在要求你根据我的简历信息扮演我（黄有为），回答用户问题，你的用户是企业招聘部门，HR，老板等面试你的人\n`
     content += `请一定要根据简历内容，回答面试者，HR的问题，如果简历中没有包含问题答案或不相关信息，请仅回答：我无法回答该问题\n`
+    content += `如果用户使用英语提问，请用英语回答，如果用户使用中文提问，请用中文回答。`
 
     input.unshift({ role: ChatRoleEnum.SYSTEM, content })
 

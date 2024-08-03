@@ -1,38 +1,39 @@
 {
-  "name": "devilyouwei",
-  "version": "1.0.0",
-  "description": "<h1 align=\"center\" style=\"border: none\"> <img style=\"border-radius:100%;margin-right:10px\" src=\"./img/ava.jpg\" align=\"center\" width=100/> </h1>",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon app.js",
-    "start": "pm2 start app.js --name uniai-imai-koa",
-    "restart": "pm2 restart uniai-imai-koa",
-    "stop": "pm2 stop uniai-imai-koa",
-    "doc": "markdown-preview --file API.md --template default --port 8080 --no-opener"
-  },
-  "author": "devilyouwei",
-  "license": "ISC",
-  "dependencies": {
-    "@koa/cors": "^5.0.0",
-    "@mryhryki/markdown-preview": "^0.7.0",
-    "app-root-path": "^3.1.0",
-    "koa": "^2.15.3",
-    "koa-bodyparser": "^4.4.1",
-    "koa-parameter": "^3.0.1",
-    "markdown": "^0.5.0",
-    "pm2": "^5.4.2",
-    "remark-html": "^16.0.1",
-    "showdown": "^2.1.0",
-    "uniai": "^1.8.2"
-  },
-  "devDependencies": {
-    "@types/json-fixer": "^1.6.2",
-    "dotenv": "^16.4.5",
-    "eslint": "^9.8.0",
-    "eslint-config-prettier": "^9.1.0",
-    "eslint-plugin-prettier": "^5.2.1",
-    "nodemon": "^3.1.4",
-    "prettier": "^3.3.3"
-  }
+    "name": "devilyouwei",
+    "version": "1.0.0",
+    "description": "<h1 align=\"center\" style=\"border: none\"> <img style=\"border-radius:100%;margin-right:10px\" src=\"./img/ava.jpg\" align=\"center\" width=100/> </h1>",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "nodemon app.js",
+        "start": "pm2 start app.js --name uniai-imai-koa",
+        "restart": "pm2 restart uniai-imai-koa",
+        "stop": "pm2 stop uniai-imai-koa",
+        "doc": "markdown-preview --file ./assets/resume.md --template light --port 8080 --no-opener"
+    },
+    "author": "devilyouwei",
+    "license": "ISC",
+    "dependencies": {
+        "@koa/cors": "^5.0.0",
+        "@mryhryki/markdown-preview": "^0.7.0",
+        "app-root-path": "^3.1.0",
+        "koa": "^2.15.3",
+        "koa-bodyparser": "^4.4.1",
+        "koa-parameter": "^3.0.1",
+        "markdown": "^0.5.0",
+        "pdf2md-ts": "^1.1.1",
+        "pm2": "^5.4.2",
+        "remark-html": "^16.0.1",
+        "showdown": "^2.1.0",
+        "uniai": "^1.8.2"
+    },
+    "devDependencies": {
+        "@types/json-fixer": "^1.6.2",
+        "dotenv": "^16.4.5",
+        "eslint": "^9.8.0",
+        "eslint-config-prettier": "^9.1.0",
+        "eslint-plugin-prettier": "^5.2.1",
+        "nodemon": "^3.1.4",
+        "prettier": "^3.3.3"
+    }
 }
