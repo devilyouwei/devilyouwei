@@ -9,27 +9,10 @@ const ROOT_PATH = require('app-root-path')
 const showdown = require('showdown')
 const pdf2md = require('pdf2md-ts')
 
-const {
-    OPENAI_API,
-    OPENAI_KEY,
-    GOOGLE_AI_KEY,
-    GOOGLE_AI_API,
-    MOONSHOT_KEY,
-    ZHIPU_AI_KEY,
-    FLY_APP_ID,
-    FLY_API_KEY,
-    FLY_API_SECRET,
-    BAIDU_API_KEY,
-    BAIDU_SECRET_KEY,
-    GLM_API
-} = process.env
+const { PROVIDER, MODEL, GOOGLE_AI_KEY, ZHIPU_AI_KEY, GLM_API, GOOGLE_AI_API } = process.env
 
 const ai = new UniAI({
-    OpenAI: { key: OPENAI_KEY, proxy: OPENAI_API },
     Google: { key: GOOGLE_AI_KEY.split(','), proxy: GOOGLE_AI_API },
-    MoonShot: { key: MOONSHOT_KEY },
-    Baidu: { apiKey: BAIDU_API_KEY, secretKey: BAIDU_SECRET_KEY },
-    IFlyTek: { appId: FLY_APP_ID, apiKey: FLY_API_KEY, apiSecret: FLY_API_SECRET },
     GLM: { key: ZHIPU_AI_KEY, local: GLM_API },
     Other: { api: GLM_API }
 })
@@ -44,8 +27,8 @@ async function chat(ctx) {
     const temperature = ctx.request.body.temperature
     const top = ctx.request.body.top
     const maxLength = ctx.request.body.maxLength
-    const provider = ChatModelProvider.GLM
-    const model = ChatModel.GLM_9B
+    const provider = PROVIDER
+    const model = MODEL
 
     if (!Array.isArray(input)) throw new Error('Input is not array')
 
