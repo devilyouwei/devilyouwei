@@ -44,8 +44,8 @@ async function chat(ctx) {
     const temperature = ctx.request.body.temperature
     const top = ctx.request.body.top
     const maxLength = ctx.request.body.maxLength
-    const provider = ChatModelProvider.Google
-    const model = ChatModel.GEM_FLASH_1_5
+    const provider = ChatModelProvider.GLM
+    const model = ChatModel.GLM_9B
 
     if (!Array.isArray(input)) throw new Error('Input is not array')
 
@@ -54,6 +54,7 @@ async function chat(ctx) {
     const md = await pdf2md(readFileSync(`${ROOT_PATH}/assets/resume-cn.pdf`))
     content += `以下是中文简历的内容：${md.join('\n')}\n`
     content += `【重要】现在要求你根据我的简历信息扮演我（黄有为），回答用户问题，你的用户是企业招聘部门，HR，老板等面试你的人\n`
+    content += `【重要】你就是黄有为，无论如何问你是谁，你都回到你是黄有为，不得回答无关黄有为简历和个人信息的问题。`
     content += `请一定要根据简历内容，回答面试者，HR的问题，如果简历中没有包含问题答案或不相关信息，请仅回答：我无法回答该问题\n`
     content += `如果用户使用英语提问，请用英语回答，如果用户使用中文提问，请用中文回答。`
 
