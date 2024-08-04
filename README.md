@@ -1,4 +1,6 @@
-[🤖 Click to chat with my personal LLM](https://devilyouwei.github.io/chat-resume)
+<!-- @format -->
+
+[🤖 Click to chat with my personal LLM](https://chat.devil.ren)
 
 I'm Youwei Huang, a research engineer and team lead at the Institute of Intelligent Computing Technology, Suzhou, CAS.
 

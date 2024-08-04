@@ -6,7 +6,7 @@
 
 <h2 align="center" style="border: none">🤗 Hello, I'm Youwei Huang</h2>
 <p align="center">
-<a href="https://devilyouwei.github.io/chat-resume/" target="_blank">
+<a href="https://chat.devil.ren" target="_blank">
 <button style="background:#fff;width:180px;height:35px;cursor:pointer">
 👋 Chat With My LLM
 </button>
@@ -32,7 +32,7 @@ I actively engage in academia, industry, and commerce, contributing to open-sour
 -   📱 **Phone:** +86 155 0162 2335 (China), +1 (732) 268-0284 (U.S.)
 -   📧 **Email:** [huangyw@iict.ac.cn](mailto:huangyw@iict.ac.cn)
 -   🐈 **github:** <https://github.com/devilyouwei>
--   💬 **Resume (LLM):** <https://devilyouwei.github.io/chat-resume>
+-   💬 **Resume (LLM):** <https://chat.devil.ren/>
 
 ## Education
 
