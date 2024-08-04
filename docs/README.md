@@ -1,7 +1,7 @@
 <!-- @format -->
 
 <h1 align="center" style="border: none">
-<img style="border-radius:100%;margin-right:10px" src="https://raw.githubusercontent.com/devilyouwei/devilyouwei/main/img/ava.jpg" align="center" width=100/>
+<img style="border-radius:100%;margin-right:10px" src="./imgs/ava.jpg" align="center" width=100/>
 </h1>
 
 <h2 align="center" style="border: none">🤗 Hello, I'm Youwei Huang</h2>
