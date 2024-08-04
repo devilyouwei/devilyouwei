@@ -1,20 +1,11 @@
-<!-- @format -->
+[🤖 Click to chat with my personal LLM](https://devilyouwei.github.io/chat-resume)
 
-<p align="center">
-<a href="https://www.devil.ren" target="_blank">
-  <img width=150 src="./img/chat-button.png" alt="Chat with Me"/>
-</a>
-</p>
+I'm Youwei Huang, a research engineer and team lead at the Institute of Intelligent Computing Technology, Suzhou, CAS.
 
-🌟 Welcome to my GitHub corner! I'm Youwei Huang, a research engineer and team lead at the Institute of Intelligent Computing Technology in Suzhou, CAS.
+My main areas of interest include **Large Language Models (LLM)**, **Blockchain**, and **Software Engineering**.
 
- I work on **Large Language Models (LLM)**, **Blockchain**, and **Software Engineering**.
+💼 I'm currently leading several innovative open-source projects such as [UniAI](https://github.com/orgs/uniai-lab/repositories), [LeChat](https://lechat.cas-ll.cn), and [SmartIntentNN](https://github.com/web3se-lab/web3-sekit). These projects span various fields including LLM, deep learning, software engineering, web development, and blockchain.
 
-💼 Currently, I'm leading some exciting open-source projects like [UniAI](https://github.com/orgs/uniai-lab/repositories), [LeChat](https://lechat.cas-ll.cn), and [SmartIntentNN](https://github.com/web3se-lab/web3-sekit). They cover LLM, deep learning, software engineering, web development, and blockchain.
+🔬 I actively engage in academia, industry, and commerce, showcasing my expertise by contributing to open-source projects, publishing papers, and filing patents.
 
-🛠️ When I'm not deep in research, I lead projects that combine academic insights with real-world applications. I have a few patents and papers, aiming to push technological boundaries.
-
-🔬 My interests include research, engineering, and business. Whether it's blockchain, Web3, or generative AI, I'm exploring new frontiers.
-
-🤝 If you're passionate about these fields or have amazing ideas, let's collaborate! I'm always open to new and exciting projects. Let's create something awesome together!
-<br><br>
+🤝 If you're passionate about these fields or have exciting ideas, let's collaborate! I'm always open to new and exciting projects. Let's create something great together!

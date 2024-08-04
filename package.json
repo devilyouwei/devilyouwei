@@ -9,7 +9,7 @@
         "start": "pm2 start app.js --name uniai-imai-koa",
         "restart": "pm2 restart uniai-imai-koa",
         "stop": "pm2 stop uniai-imai-koa",
-        "doc": "markdown-preview --file ./assets/resume.md --template light --port 8080 --no-opener"
+        "doc": "docsify serve ./docs"
     },
     "author": "devilyouwei",
     "license": "ISC",
@@ -29,6 +29,7 @@
     },
     "devDependencies": {
         "@types/json-fixer": "^1.6.2",
+        "docsify": "^4.13.1",
         "dotenv": "^16.4.5",
         "eslint": "^9.8.0",
         "eslint-config-prettier": "^9.1.0",

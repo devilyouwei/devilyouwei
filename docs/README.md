@@ -1,50 +1,56 @@
+<!-- @format -->
+
 <h1 align="center" style="border: none">
 <img style="border-radius:100%;margin-right:10px" src="https://raw.githubusercontent.com/devilyouwei/devilyouwei/main/img/ava.jpg" align="center" width=100/>
 </h1>
 
 <h2 align="center" style="border: none">🤗 Hello, I'm Youwei Huang</h2>
 <p align="center">
-<a href="https://www.devil.ren" target="_blank">
-  <img width=150 src="../img/chat-button.png" alt="Chat with Me"/>
+<a href="https://devilyouwei.github.io/chat-resume/" target="_blank">
+<button style="background:#fff;width:180px;height:35px;cursor:pointer">
+👋 Chat With My LLM
+</button>
 </a>
 </p>
 
 <p align="center">
-I work as a research engineer and team manager at the Institute of Intelligent Computing Technology in Suzhou, CAS.
+I work as a research engineer and team manager at the Institute of Intelligent Computing Technology, Suzhou, CAS.
 <br>
-My focus areas are <b>Large Language Models (LLM)</b>, <b>Blockchain</b>, and <b>Software Engineering</b>.
+My focus areas are <b>LLM (Large Language Models)</b>, <b>Blockchain</b>, and <b>Software Engineering</b>.
 <br>
 I lead various projects where I try to bridge the gap between academic research and industrial applications.
 <br>
-I have contributed to these fields through several patents and papers, showing my diverse skills in academia, engineering, and commercial development.
+I actively engage in academia, industry, and commerce, contributing to open-source projects, publishing papers, and filing patents.
 </p>
 
 ## Basic Info
 
--   **Gender:** Male
--   **Birth Date:** April 23, 1995
--   **Birth Place:** Suzhou, Jiangsu, China
--   **Business Address:** No. 88, Jinjihu Avenue, Suzhou Industrial Park, Jiangsu, China
--   **Phone:** +86 155 0162 2335 (China), +1 (732) 268-0284 (U.S.)
--   **Email:** [devilyouwei@foxmail.com](mailto:devilyouwei@foxmail.com), [huangyw@iict.ac.cn](mailto:huangyw@iict.ac.cn)
+-   👨 **Gender:** Male
+-   📅 **Birth Date:** April 23, 1995
+-   🌏 **Birth Place:** Suzhou, Jiangsu, China
+-   🏢 **Business Address:** No. 88, Jinjihu Avenue, Suzhou Industrial Park, Jiangsu, China
+-   📱 **Phone:** +86 155 0162 2335 (China), +1 (732) 268-0284 (U.S.)
+-   📧 **Email:** [huangyw@iict.ac.cn](mailto:huangyw@iict.ac.cn)
+-   🐈 **github:** <https://github.com/devilyouwei>
+-   💬 **Resume (LLM):** <https://devilyouwei.github.io/chat-resume>
 
 ## Education
 
-### Macau University of Science and Technology
+**Macau University of Science and Technology**
 
 -   _Ph.D. Candidate in Software Engineering_
 -   **Duration:** January 2022 – Quit
 -   **Location:** Taipa, Macao SAR
 -   **Research Interests:** Deep Learning, Blockchain, Software Engineering
 
-### Monmouth University
+**Monmouth University**
 
 -   _Master's Degree in Software Engineering (ABET Accredited)_
 -   **Duration:** September 2019 – August 2020
 -   **Location:** NJ, U.S.A.
 -   **Research Interests:** Software Engineering, Web Development, Blockchain
 
-### Changshu Institute of Technology
+**Changshu Institute of Technology**
 
 -   _Bachelor's Degree in Software Engineering_
 -   **Duration:** September 2013 – June 2018
@@ -52,7 +58,7 @@ I have contributed to these fields through several patents and papers, showing m
 
 ## Work Experience
 
-### Institute of Intelligent Computing Technology, Suzhou, CAS
+**Institute of Intelligent Computing Technology, Suzhou, CAS**
 
 **Institute of Computing Technology, Chinese Academy of Sciences (Suzhou branch)**
 
@@ -61,14 +67,14 @@ I have contributed to these fields through several patents and papers, showing m
 -   **Location:** No. 88, Jinjihu Avenue, Suzhou Industrial Park, Suzhou, Jiangsu, China
 -   **Duties:** AI and Blockchain project development, and management of related technical team.
 
-### Monmouth University
+**Monmouth University**
 
 -   **Position:** PHP Tutor, Graduate Assistant, President of the Chinese Student Union
 -   **Duration:** September 2019 – August 2020
 -   **Location:** NJ, U.S.A.
 -   **Duties:** Web Development, Graduate Assistant to Prof. Yu
 
-### Shanghai LeMiao Network Technology Company
+**Shanghai LeMiao Network Technology Company**
 
 -   **Position:** Software Engineer, Game Developer
 -   **Duration:** June 2018 – August 2019
