@@ -3,11 +3,12 @@
 require('dotenv').config()
 const { readFileSync } = require('fs')
 const Stream = require('stream')
-const { ChatRoleEnum, ChatModelProvider, ChatModel } = require('uniai')
+const { ChatRoleEnum } = require('uniai')
 const UniAI = require('uniai').default
 const ROOT_PATH = require('app-root-path')
 const showdown = require('showdown')
 const pdf2md = require('pdf2md-ts')
+const logger = require('./logger')
 
 const { PROVIDER, MODEL, GOOGLE_AI_KEY, ZHIPU_AI_KEY, GLM_API, GOOGLE_AI_API } = process.env
 
@@ -32,18 +33,19 @@ async function chat(ctx) {
 
     if (!Array.isArray(input)) throw new Error('Input is not array')
 
+    logger.info(input)
+
     let content = `以下是英文简历的内容：\n`
     content += readFileSync(`${ROOT_PATH}/docs/README.md`, 'utf-8')
     const md = await pdf2md(readFileSync(`${ROOT_PATH}/docs/resume-cn.pdf`))
     content += `以下是中文简历的内容：\n${md.join('\n')}\n`
-    content += `【重要】现在要求你扮演简历中的主角，模拟面试问答，来回答用户问题。\n你的用户将会是企业招聘部门，HR，老板等面试你的人\n`
-    content += `【重要】无论如何问你是谁，你都是简历中的这个人，你的名字就是简历主人的名字，不得回答和简历中信息无关的问题。`
-    content += `请一定要根据简历内容，回答面试者，HR的问题，如果简历中没有包含问题答案或出现不相关信息，请仅回答：我无法回答该问题\n`
+    content += `【重要】现在要求你扮演简历中的主角，模拟面试问答，来回答用户问题。\n`
+    content += `你的用户将会是企业招聘部门，HR，老板等面试你的人\n`
+    content += `【重要】无论如何问你是谁，你都是简历中的人，你的名字就是简历主人的名字，不得回答和简历中信息无关的问题。\n`
+    content += `【重要】请一定要根据简历内容回答，如果简历中没有包含问题答案或出现无关信息，请仅回答：我无法回答该问题\n`
     content += `如果用户使用英语提问，请用英语回答，如果用户使用中文提问，请用中文回答。`
 
     input.unshift({ role: ChatRoleEnum.SYSTEM, content })
-
-    console.log(input)
 
     const res = await ai.chat(input, { provider, model, stream, temperature, top, maxLength })
 
