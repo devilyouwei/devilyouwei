@@ -6,16 +6,15 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "dev": "nodemon app.js",
-        "start": "pm2 start app.js --name uniai-imai-koa",
-        "restart": "pm2 restart uniai-imai-koa",
-        "stop": "pm2 stop uniai-imai-koa",
+        "start": "pm2 start app.js",
+        "restart": "pm2 restart app",
+        "stop": "pm2 stop",
         "doc": "docsify serve ./docs"
     },
     "author": "devilyouwei",
     "license": "ISC",
     "dependencies": {
         "@koa/cors": "^5.0.0",
-        "@mryhryki/markdown-preview": "^0.7.0",
         "app-root-path": "^3.1.0",
         "koa": "^2.15.3",
         "koa-bodyparser": "^4.4.1",
@@ -25,16 +24,17 @@
         "pm2": "^5.4.2",
         "remark-html": "^16.0.1",
         "showdown": "^2.1.0",
+        "dotenv": "^16.4.5",
+        "nodemon": "^3.1.4",
+        "docsify": "^4.13.1",
         "uniai": "^1.8.2"
     },
     "devDependencies": {
+        "@flydotio/dockerfile": "^0.5.8",
         "@types/json-fixer": "^1.6.2",
-        "docsify": "^4.13.1",
-        "dotenv": "^16.4.5",
         "eslint": "^9.8.0",
         "eslint-config-prettier": "^9.1.0",
         "eslint-plugin-prettier": "^5.2.1",
-        "nodemon": "^3.1.4",
         "prettier": "^3.3.3"
     }
 }

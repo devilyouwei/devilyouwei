@@ -43,6 +43,8 @@ async function chat(ctx) {
 
     input.unshift({ role: ChatRoleEnum.SYSTEM, content })
 
+    console.log(input)
+
     const res = await ai.chat(input, { provider, model, stream, temperature, top, maxLength })
 
     const data = { status: 1, msg: 'Success to chat to model', data: null }
@@ -74,7 +76,7 @@ async function chat(ctx) {
  */
 async function index(ctx) {
     const converter = new showdown.Converter()
-    const text = readFileSync(`${ROOT_PATH}/assets/resume.md`, 'utf-8')
+    const text = readFileSync(`${ROOT_PATH}/docs/README.md`, 'utf-8')
     const html = converter.makeHtml(text)
 
     return html

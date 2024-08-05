@@ -38,21 +38,24 @@ I actively engage in academia, industry, and commerce, contributing to open-sour
 
 **Macau University of Science and Technology**
 
--   _Ph.D. Candidate in Software Engineering_
+_Ph.D. Candidate in Software Engineering_
+
 -   **Duration:** January 2022 – Quit
 -   **Location:** Taipa, Macao SAR
 -   **Research Interests:** Deep Learning, Blockchain, Software Engineering
 
 **Monmouth University**
 
--   _Master's Degree in Software Engineering (ABET Accredited)_
+_Master's Degree in Software Engineering (ABET Accredited)_
+
 -   **Duration:** September 2019 – August 2020
 -   **Location:** NJ, U.S.A.
 -   **Research Interests:** Software Engineering, Web Development, Blockchain
 
 **Changshu Institute of Technology**
 
--   _Bachelor's Degree in Software Engineering_
+_Bachelor's Degree in Software Engineering_
+
 -   **Duration:** September 2013 – June 2018
 -   **Location:** Suzhou, China
 

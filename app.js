@@ -40,4 +40,9 @@ app.use(async ctx => {
     }
 })
 
-app.listen(3000)
+const hostname = '0.0.0.0'
+const port = process.env.port || 3000
+
+app.listen(port, hostname, () => {
+    console.log(`Server running at http://${hostname}:${port}/`)
+})
