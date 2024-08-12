@@ -3094,10 +3094,10 @@ undici-types@~6.13.0:
   resolved "https://registry.yarnpkg.com/undici-types/-/undici-types-6.13.0.tgz#e3e79220ab8c81ed1496b5812471afd7cf075ea5"
   integrity sha512-xtFJHudx8S2DSoujjMd1WeWvn7KKWFRESZTMeL1RptAYERu29D6jphMjjY+vn96jvN3kVPDNxU/E13VTaXj6jg==
 
-uniai@^1.8.2:
-  version "1.8.2"
-  resolved "https://registry.yarnpkg.com/uniai/-/uniai-1.8.2.tgz#f56b8454b66db460f6e7206a51297d56b331368a"
-  integrity sha512-1UyuhDA9ouL5AsIwgKREoGP+iVQ3X5EdDGKNO0K8ekhcss1PbIku3dCMFQLs3SPlkCxA/Qk/yvW4zIwI1Kwmdw==
+uniai@^1.8.3:
+  version "1.8.3"
+  resolved "https://registry.yarnpkg.com/uniai/-/uniai-1.8.3.tgz#fe61f3a543c4ff89725b79cfc45d31d9f10d63d7"
+  integrity sha512-ZUsMwEC7Vb62Ot1VTy57tZcxqdv5FyPep1B1MPCDReFDEaf8I+QK5HAKMRMSf8bIchg+EbtRtzdFcqOz3s8kDA==
   dependencies:
     "@server-sent-stream/node" "^1.0.5"
     "@streamparser/json-node" "^0.0.20"

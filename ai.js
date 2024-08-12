@@ -10,10 +10,29 @@ const showdown = require('showdown')
 const pdf2md = require('pdf2md-ts')
 const logger = require('./logger')
 
-const { PROVIDER, MODEL, GOOGLE_AI_KEY, ZHIPU_AI_KEY, GLM_API, GOOGLE_AI_API } = process.env
+const {
+    OPENAI_API,
+    OPENAI_KEY,
+    GOOGLE_AI_KEY,
+    GOOGLE_AI_API,
+    MOONSHOT_KEY,
+    ZHIPU_AI_KEY,
+    FLY_APP_ID,
+    FLY_API_KEY,
+    FLY_API_SECRET,
+    BAIDU_API_KEY,
+    BAIDU_SECRET_KEY,
+    GLM_API,
+    PROVIDER,
+    MODEL
+} = process.env
 
 const ai = new UniAI({
+    OpenAI: { key: OPENAI_KEY, proxy: OPENAI_API },
     Google: { key: GOOGLE_AI_KEY.split(','), proxy: GOOGLE_AI_API },
+    MoonShot: { key: MOONSHOT_KEY },
+    Baidu: { apiKey: BAIDU_API_KEY, secretKey: BAIDU_SECRET_KEY },
+    IFlyTek: { appId: FLY_APP_ID, apiKey: FLY_API_KEY, apiSecret: FLY_API_SECRET },
     GLM: { key: ZHIPU_AI_KEY, local: GLM_API },
     Other: { api: GLM_API }
 })
@@ -35,12 +54,12 @@ async function chat(ctx) {
 
     logger.info(input)
 
-    let content = `以下是英文简历的内容：\n`
+    let content = `【重要】现在要求你扮演简历中的主角，模拟面试问答，来回答用户问题。\n`
+    content += `你的用户将会是企业招聘部门，HR，老板等面试你的人\n`
+    content += `以下是你的英文简历的内容：\n`
     content += readFileSync(`${ROOT_PATH}/docs/README.md`, 'utf-8')
     const md = await pdf2md(readFileSync(`${ROOT_PATH}/docs/resume-cn.pdf`))
-    content += `以下是中文简历的内容：\n${md.join('\n')}\n`
-    content += `【重要】现在要求你扮演简历中的主角，模拟面试问答，来回答用户问题。\n`
-    content += `你的用户将会是企业招聘部门，HR，老板等面试你的人\n`
+    content += `以下是你的中文简历的内容：\n${md.join('\n')}\n`
     content += `【重要】无论如何问你是谁，你都是简历中的人，你的名字就是简历主人的名字，不得回答和简历中信息无关的问题。\n`
     content += `【重要】请一定要根据简历内容回答，如果简历中没有包含问题答案或出现无关信息，请仅回答：我无法回答该问题\n`
     content += `如果用户使用英语提问，请用英语回答，如果用户使用中文提问，请用中文回答。`
