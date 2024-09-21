@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-I work as a research engineer and team manager at the <b>Institute of Intelligent Computing Technology (IICT), Suzhou, CAS</b>.
+I work as a research engineer and team leader at the <b>Institute of Intelligent Computing Technology (IICT), Suzhou, CAS</b>.
 <br>
 My focus areas are <b>LLM (Large Language Models)</b>, <b>Blockchain</b>, and <b>Software Engineering</b>.
 <br>
@@ -26,7 +26,7 @@ I actively contribute to open-source projects, publish academic papers, and file
 
 -   👨 **Gender:** Male
 -   📅 **Birth Date:** April 23, 1995
--   🌏 **Birth Place:** Suzhou, Jiangsu, China
+-   🌏 **Birth Place:** Suzhou, China
 -   🏢 **Business Address:** No. 88, Jinjihu Avenue, Suzhou Industrial Park, Jiangsu, China
 -   📱 **Phone:** +86 155 0162 2335 (China), +1 (732) 268-0284 (U.S.)
 -   📧 **Email:** [huangyw@iict.ac.cn](mailto:huangyw@iict.ac.cn)
@@ -64,17 +64,10 @@ _Bachelor's Degree in Software Engineering_
 
 **Institute of Computing Technology, Chinese Academy of Sciences (Suzhou branch)**
 
--   **Position:** Researcher, Team Manager, Project Manager
+-   **Position:** Research Engineer, Team Leader, Project Manager
 -   **Duration:** May 2020 – Present
 -   **Location:** No. 88, Jinjihu Avenue, Suzhou Industrial Park, Suzhou, Jiangsu, China
 -   **Duties:** AI and Blockchain project development, and management of related technical team.
-
-**Monmouth University**
-
--   **Position:** PHP Tutor, Graduate Assistant, President of the Chinese Student Union
--   **Duration:** September 2019 – August 2020
--   **Location:** NJ, U.S.A.
--   **Duties:** Web Development, Graduate Assistant to Prof. Yu
 
 **Shanghai LeMiao Network Technology Company**
 
@@ -87,7 +80,7 @@ _Bachelor's Degree in Software Engineering_
 
 **LLM Project - LeChat: The Next Generation Content Platform Based on Hybrid Models and Knowledge Graphs**
 
-_May 2020 – May 2021_  
+_Mar 2023 – Now_  
 _Institute of Intelligent Computing Technology, Suzhou, CAS_
 
 LeChat is a content analysis and generation platform built on large language models and knowledge graphs. Compared to traditional content platforms, LeChat leverages cutting-edge generative AI technology to enhance user efficiency in information acquisition and content creation. LeChat can parse and analyze Office files, image files and text messages. Moreover, it can generate text, images, charts, and document content based on user prompts. To address the limitations of knowledge scope and the divergent nature of large language models, LeChat utilizes knowledge graph RAG techniques to enhance model capabilities and expand its cognitive domain.
@@ -122,15 +115,15 @@ _Supervisor: Professor Peiheng Zhang_
 This project leverages Bluetooth, WiFi, and other wireless signals to analyze regional pandemic situations and anonymously trace social contact networks. We developed data models to quantify regional safety and human health metrics, and visualized real-time analysis results to assist medical workers in epidemic prevention efforts. Our key contributions include:
 
 -   Supported government efforts during the COVID-19 pandemic
--   Published the paper "Precise Epidemic Control based on GeoHash"
--   Obtained three authorized national patents
+-   Published the paper "Precise Epidemic Control based on GeoHash" on DSA2022
+-   Obtained 4 patents (3 authorized)
 -   Selected for the "2021 Suzhou Science and Technology Association Young Science and Technology Talent Support Project"
 
 ---
 
 **Blockchain Project - Application of Blockchain in Medical Health**
 
-_May 2021 - Oct 2022_  
+_May 2021 - Oct 2023_  
 _Institute of Intelligent Computing Technology, Suzhou, CAS_  
 _Supervisor: Professor Xiaofang Zhao_
 
@@ -138,7 +131,7 @@ As project manger of the "Le-chain Commercial Medical Insurance Service Consorti
 
 -   Won the "2022 Jiangsu Province Blockchain Industry Development Pilot Demonstration Project" award
 -   Authored several blockchain technical white papers
--   Completed six invention patents
+-   Completed 5 invention patents
 -   Incubated a blockchain team and company: <https://www.cas-ll.com/team>
 
 ## Publications
