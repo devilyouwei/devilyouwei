@@ -6,8 +6,8 @@
 <h2 align="center" style="border: none">🤗 Hello, I'm Youwei Huang</h2>
 <p align="center">
 <a href="https://chat.devil.ren" target="_blank">
-<button style="background:#fff;width:180px;height:35px;cursor:pointer">
-👋 Chat With My LLM
+<button style="background-color: #4CAF50; color: white; width: 180px; height: 35px; cursor: pointer; border: none; border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: box-shadow 0.3s ease;" onmouseover="this.style.boxShadow='0 6px 8px rgba(0, 0, 0, 0.2)'" onmouseout="this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)'">
+    👋 Chat With My LLM
 </button>
 </a>
 </p>
@@ -28,9 +28,8 @@ I actively contribute to open-source projects, publish academic papers, and file
 -   📅 **Birth Date:** April 23, 1995
 -   🌏 **Birth Place:** Suzhou, China
 -   🏢 **Business Address:** No. 88, Jinjihu Avenue, Suzhou Industrial Park, Jiangsu, China
--   📱 **Phone:** +86 155 0162 2335 (China), +1 (732) 268-0284 (U.S.)
--   📧 **Email:** [huangyw@iict.ac.cn](mailto:huangyw@iict.ac.cn)
--   🐈 **github:** <https://github.com/devilyouwei>
+-   📮 **Email:** [huangyw@iict.ac.cn](mailto:huangyw@iict.ac.cn)
+-   🐈 **Github:** <https://github.com/devilyouwei>
 -   💬 **Resume (LLM):** <https://chat.devil.ren/>
 
 ## Education
@@ -83,7 +82,7 @@ _Bachelor's Degree in Software Engineering_
 _Mar 2023 – Now_  
 _Institute of Intelligent Computing Technology, Suzhou, CAS_
 
-LeChat is a content analysis and generation platform built on large language models and knowledge graphs. Compared to traditional content platforms, LeChat leverages cutting-edge generative AI technology to enhance user efficiency in information acquisition and content creation. LeChat can parse and analyze Office files, image files and text messages. Moreover, it can generate text, images, charts, and document content based on user prompts. To address the limitations of knowledge scope and the divergent nature of large language models, LeChat utilizes knowledge graph RAG techniques to enhance model capabilities and expand its cognitive domain.
+LeChat is a content analysis and generation platform built on large language models and knowledge graphs. Compared to traditional content platforms, LeChat leverages cutting-edge generative AI technology to enhance user efficiency in information acquisition and content creation. LeChat can parse and analyze Office files, image files and text messages. Moreover, it can generate text, images, charts, and document content based on user prompts.
 
 -   The background technique, UniAI, has yielded a comprehensive Gen-AI solution based on knowledge graphs and hybrid LLMs.
 -   Two commercial projects utilizing this technology have already been successfully implemented.
@@ -106,21 +105,6 @@ The current software engineering models, methods, and tools are no longer suitab
 
 ---
 
-**BigData Project - Precise Epidemic Control**
-
-_May 2020 – May 2021_  
-_Institute of Intelligent Computing Technology, Suzhou, CAS_  
-_Supervisor: Professor Peiheng Zhang_
-
-This project leverages Bluetooth, WiFi, and other wireless signals to analyze regional pandemic situations and anonymously trace social contact networks. We developed data models to quantify regional safety and human health metrics, and visualized real-time analysis results to assist medical workers in epidemic prevention efforts. Our key contributions include:
-
--   Supported government efforts during the COVID-19 pandemic
--   Published the paper "Precise Epidemic Control based on GeoHash" on DSA2022
--   Obtained 4 patents (3 authorized)
--   Selected for the "2021 Suzhou Science and Technology Association Young Science and Technology Talent Support Project"
-
----
-
 **Blockchain Project - Application of Blockchain in Medical Health**
 
 _May 2021 - Oct 2023_  
@@ -134,13 +118,36 @@ As project manger of the "Le-chain Commercial Medical Insurance Service Consorti
 -   Completed 5 invention patents
 -   Incubated a blockchain team and company: <https://www.cas-ll.com/team>
 
+---
+
+**BigData Project - Precise Epidemic Control**
+
+_May 2020 – May 2021_  
+_Institute of Intelligent Computing Technology, Suzhou, CAS_  
+_Supervisor: Professor Peiheng Zhang_
+
+This project leverages Bluetooth, WiFi, and other wireless signals to analyze regional pandemic situations and anonymously trace social contact networks. We developed data models to quantify regional safety and human health metrics, and visualized real-time analysis results to assist medical workers in epidemic prevention efforts. Our key contributions include:
+
+-   Supported government efforts during the COVID-19 pandemic
+-   Published the paper "Precise Epidemic Control based on GeoHash" on DSA2022
+-   Obtained 4 patents (3 authorized)
+-   Selected for the "2021 Suzhou Science and Technology Association Young Science and Technology Talent Support Project"
+
 ## Publications
 
 ### Patents
 
+<img src='./imgs/CN118780853A.png' style="float:right">
+
+**[Method and Computer Program Product for Matching Supply and Demand of Scientific and Technological Achievements](http://epub.cnipa.gov.cn/patent/CN118780853A)**
+
+_CN118780853A_
+
+This invention discloses a method and computer program product for matching the supply and demand of scientific and technological achievements, related to the field of big data intelligent recommendation technology. The method includes: obtaining target data by setting an interface, where the target data includes scientific and technological achievements data and market demand data...
+
 <img src='./imgs/CN116662991A.png' style="float:right">
 
-**Smart Contract Intent Detection Method Based on Artificial Intelligence**
+**[Smart Contract Intent Detection Method Based on Artificial Intelligence](http://epub.cnipa.gov.cn/patent/CN116662991A)**
 
 _CN116662991A_
 
@@ -148,7 +155,7 @@ This invention discloses an artificial intelligence-based method for detecting i
 
 <img src='./imgs/CN117709505A.png' style="float:right">
 
-**A Method and System for Analyzing Population and Venue Features based on Geneal Wireless Bases**
+**[A Method and System for Analyzing Population and Venue Features based on Geneal Wireless Bases](http://epub.cnipa.gov.cn/patent/CN117709505A)**
 
 _CN117709505A_
 
@@ -156,7 +163,7 @@ This invention discloses a method and system for population and venue features a
 
 <img src='./imgs/CN114201735A.png' style="float:right">
 
-**NFT-based E-certificate Issuance and Verification Approach**
+**[NFT-based E-certificate Issuance and Verification Approach](http://epub.cnipa.gov.cn/patent/CN114201735A)**
 
 _CN114201735A_
 
@@ -164,7 +171,7 @@ This invention discloses a technology for the e-certificate issuance and verific
 
 <img src='./imgs/CN112037924B.png' style="float:right">
 
-**A Quantitative Method for Medium to Long Distance Epidemic Monitoring and Safety Metrics**
+**[A Quantitative Method for Medium to Long Distance Epidemic Monitoring and Safety Metrics](http://epub.cnipa.gov.cn/patent/CN112037924B)**
 
 _CN112037924B_
 
@@ -172,7 +179,7 @@ This innovation introduces a GeoHash-based method for analyzing medium to long-r
 
 <img src='./imgs/CN113163336B.png' style="float:right">
 
-**Contact Tracing Method based on Constructing a Time-series Directed Relationship Network Using General Bases**
+**[Contact Tracing Method based on Constructing a Time-series Directed Relationship Network Using General Bases](http://epub.cnipa.gov.cn/patent/CN113163336B)**
 
 _CN113163336B_
 
@@ -180,7 +187,7 @@ This invention discloses a contact tracing method based on the construction of a
 
 <img src='./imgs/CN112203229B.png' style="float:right">
 
-**Method for Constructing a Short-range Epidemic Transmission Network Based on Bluetooth Scanning**
+**[Method for Constructing a Short-range Epidemic Transmission Network Based on Bluetooth Scanning](http://epub.cnipa.gov.cn/patent/CN112203229B)**
 
 _CN112203229B_
 
