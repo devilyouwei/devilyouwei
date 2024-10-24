@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://chat.devil.ren" target="_blank">
 <button style="background-color: #4CAF50; color: white; width: 180px; height: 35px; cursor: pointer; border: none; border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: box-shadow 0.3s ease;" onmouseover="this.style.boxShadow='0 6px 8px rgba(0, 0, 0, 0.2)'" onmouseout="this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)'">
-    👋 Chat With My LLM
+    👋 Ask My LLM
 </button>
 </a>
 </p>
@@ -63,10 +63,10 @@ _Bachelor's Degree in Software Engineering_
 
 **Institute of Computing Technology, Chinese Academy of Sciences (Suzhou branch)**
 
--   **Position:** Research Engineer, Team Leader, Project Manager
+-   **Position:** Research Engineer, Team Lead, Project Manager
 -   **Duration:** May 2020 – Present
 -   **Location:** No. 88, Jinjihu Avenue, Suzhou Industrial Park, Suzhou, Jiangsu, China
--   **Duties:** AI and Blockchain project development, and management of related technical team.
+-   **Duties:** AI and Blockchain project development, and management of related technical teams.
 
 **Shanghai LeMiao Network Technology Company**
 
@@ -136,6 +136,12 @@ This project leverages Bluetooth, WiFi, and other wireless signals to analyze re
 ## Publications
 
 ### Patents
+
+<img src='./imgs/CN118821849A.png' style="float:right">
+
+**[A Model Approach for Representing Smart Contracts](http://epub.cnipa.gov.cn/patent/CN118821849A)**
+
+This invention introduces a method to model and represent smart contracts. It involves collecting and cleaning open-source smart contract codes, creating a structured code tree, and designing a pre-trained neural network model. This model is broken down into input, encoding, and output layers to form the SmartBERT model, which, when provided with the input smart contract code, generates the embedding vectors that accurately represents the contract's context and structure, supporting various downstream tasks.
 
 <img src='./imgs/CN118780853A.png' style="float:right">
 
