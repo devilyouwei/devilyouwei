@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-I work as a research engineer and team leader at the <b>Institute of Intelligent Computing Technology (IICT), Suzhou, CAS</b>.
+I work as a research engineer and team lead at the <b>Institute of Intelligent Computing Technology (IICT), Suzhou, CAS</b>.
 <br>
-My focus areas are <b>LLM (Large Language Models)</b>, <b>Blockchain</b>, and <b>Software Engineering</b>.
+My focus areas are <b>LLM (Large Language Model)</b>, <b>Blockchain</b>, and <b>Software Engineering</b>.
 <br>
 I lead various projects where I try to bridge the gap between academic research and industrial applications.
 <br>
@@ -29,7 +29,7 @@ I actively contribute to open-source projects, publish academic papers, and file
 -   🌏 **Birth Place:** Suzhou, China
 -   🏢 **Business Address:** No. 88, Jinjihu Avenue, Suzhou Industrial Park, Jiangsu, China
 -   📮 **Email:** [huangyw@iict.ac.cn](mailto:huangyw@iict.ac.cn)
--   🐈 **Github:** <https://github.com/devilyouwei>
+-   🐱 **Github:** <https://github.com/devilyouwei>
 -   💬 **Resume (LLM):** <https://chat.devil.ren/>
 
 ## Education
@@ -47,7 +47,7 @@ _Ph.D. Candidate in Software Engineering_
 _Master's Degree in Software Engineering (ABET Accredited)_
 
 -   **Duration:** September 2019 – August 2020
--   **Location:** NJ, U.S.A.
+-   **Location:** NJ, USA
 -   **Research Interests:** Software Engineering, Web Development, Blockchain
 
 **Changshu Institute of Technology**
@@ -85,9 +85,10 @@ _Institute of Intelligent Computing Technology, Suzhou, CAS_
 LeChat is a content analysis and generation platform built on large language models and knowledge graphs. Compared to traditional content platforms, LeChat leverages cutting-edge generative AI technology to enhance user efficiency in information acquisition and content creation. LeChat can parse and analyze Office files, image files and text messages. Moreover, it can generate text, images, charts, and document content based on user prompts.
 
 -   The background technique, UniAI, has yielded a comprehensive Gen-AI solution based on knowledge graphs and hybrid LLMs.
--   Two commercial projects utilizing this technology have already been successfully implemented.
--   **UniAI** open-source repositories: <https://github.com/orgs/uniai-lab/repositories>
--   **LeChat Pro** website: <https://lechat.cas-ll.cn>
+-   Three commercial projects utilizing this technology have already been successfully implemented.
+-   **UniAI** open-source repositories: <https://github.com/orgs/uniai-lab/repositories>.
+-   **LeChat Pro** website: <https://lechat.cas-ll.cn>.
+-   Won the "2024 Artificial Intelligence Applications Conference (AIAC) Distinguished Talent Award".
 
 ---
 
@@ -99,9 +100,9 @@ _Supervisor: Associate Professor Tao Zhang_
 
 The current software engineering models, methods, and tools are no longer suitable for developing Web3 applications on the blockchain. My research focuses on exploring the integration of blockchain technology with deep neural network (DNN) models to address challenges in Web3 development. Key contributions include:
 
--   **SmartIntentNN**: Published two papers on a novel approach to detecting malicious intents in smart contracts
--   **SmartBERT**: Trained a large language model specifically for smart contract representation, following the paradigms of BERT and RoBERTa to learn spatial representations through pre-training. SmartBERT supports downstream tasks related to smart contracts in software engineering
--   Project Repository: <https://github.com/web3se-lab/web3-sekit>
+-   **SmartIntentNN**: Published two papers on a novel approach to detecting unsafe intents in smart contracts.
+-   **SmartBERT**: Trained a language model specifically for smart contract representation, following the paradigms of BERT and RoBERTa to learn spatial representations through pre-training. SmartBERT supports downstream tasks related to smart contracts in software engineering.
+-   Project Repository: <https://github.com/web3se-lab/web3-sekit>.
 
 ---
 
@@ -113,10 +114,10 @@ _Supervisor: Professor Xiaofang Zhao_
 
 As project manger of the "Le-chain Commercial Medical Insurance Service Consortium Blockchain System and Application", I significantly advanced blockchain technology in healthcare. This project created a secure and trustworthy medical data exchange platform, integrating patients, hospitals, commercial insurance companies, and government health committees through a consortium blockchain network (Le-chain). It significantly enhanced medical insurance reimbursement efficiency, resolved data trust issues among various medical entities, prevented data tampering, and protected patient privacy with blockchain encryption algorithms, allowing data access only to authorized institutions.
 
--   Won the "2022 Jiangsu Province Blockchain Industry Development Pilot Demonstration Project" award
--   Authored several blockchain technical white papers
--   Completed 5 invention patents
--   Incubated a blockchain team and company: <https://www.cas-ll.com/team>
+-   Won the "2022 Jiangsu Province Blockchain Industry Development Pilot Demonstration Project" award.
+-   Authored several blockchain technical white papers.
+-   Completed 5 invention patents.
+-   Incubated a blockchain team and company: <https://www.cas-ll.com/team>.
 
 ---
 
@@ -128,10 +129,10 @@ _Supervisor: Professor Peiheng Zhang_
 
 This project leverages Bluetooth, WiFi, and other wireless signals to analyze regional pandemic situations and anonymously trace social contact networks. We developed data models to quantify regional safety and human health metrics, and visualized real-time analysis results to assist medical workers in epidemic prevention efforts. Our key contributions include:
 
--   Supported government efforts during the COVID-19 pandemic
--   Published the paper "Precise Epidemic Control based on GeoHash" on DSA2022
--   Obtained 4 patents (3 authorized)
--   Selected for the "2021 Suzhou Science and Technology Association Young Science and Technology Talent Support Project"
+-   Supported government efforts during the COVID-19 pandemic.
+-   Published the paper "Precise Epidemic Control based on GeoHash" on DSA2022.
+-   Obtained 4 patents (3 authorized).
+-   Selected for the "2021 Suzhou Youth Science and Technology Talent Support Program".
 
 ## Publications
 
@@ -140,6 +141,8 @@ This project leverages Bluetooth, WiFi, and other wireless signals to analyze re
 <img src='./imgs/CN118821849A.png' style="float:right">
 
 **[A Model Approach for Representing Smart Contracts](http://epub.cnipa.gov.cn/patent/CN118821849A)**
+
+_CN118821849A_
 
 This invention introduces a method to model and represent smart contracts. It involves collecting and cleaning open-source smart contract codes, creating a structured code tree, and designing a pre-trained neural network model. This model is broken down into input, encoding, and output layers to form the SmartBERT model, which, when provided with the input smart contract code, generates the embedding vectors that accurately represents the contract's context and structure, supporting various downstream tasks.
 
