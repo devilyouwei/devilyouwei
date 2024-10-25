@@ -22,6 +22,23 @@ I lead various projects where I try to bridge the gap between academic research 
 I actively contribute to open-source projects, publish academic papers, and file patents.
 </p>
 
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
+  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
+  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />
+  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+</p>
+
 ## About
 
 -   👨 **Gender:** Male
@@ -31,6 +48,7 @@ I actively contribute to open-source projects, publish academic papers, and file
 -   📮 **Email:** [huangyw@iict.ac.cn](mailto:huangyw@iict.ac.cn)
 -   🐱 **Github:** <https://github.com/devilyouwei>
 -   💬 **Resume (LLM):** <https://chat.devil.ren/>
+-   🧑‍💻 **TechStack:** Linux, Vim, NodeJS, Vue, Python, Tensorflow, Solidity, Java, PHP, Docker, SQL, _etc._
 
 ## Education
 
