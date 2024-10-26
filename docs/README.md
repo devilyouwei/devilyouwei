@@ -1,43 +1,43 @@
 <!-- @format -->
 
-<h1 align="center" style="border: none">
-<img style="border-radius:100%" src="./imgs/ava.jpg" align="center" width=100/>
-</h1>
-<h2 align="center" style="border: none">🤗 Hello, I'm Youwei Huang</h2>
-<p align="center">
-<a href="https://chat.devil.ren" target="_blank">
-<button style="background-color: #4CAF50; color: white; width: 180px; height: 35px; cursor: pointer; border: none; border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: box-shadow 0.3s ease;" onmouseover="this.style.boxShadow='0 6px 8px rgba(0, 0, 0, 0.2)'" onmouseout="this.style.boxShadow='0 4px 6px rgba(0, 0, 0, 0.1)'">
-    👋 Ask My LLM
-</button>
-</a>
-</p>
+<div align="center">
+  <img class="avatar" src="./imgs/ava.jpg" />
+</div>
+<h2 class="name">🤗 Hello, I'm Youwei Huang</h2>
 
 <p align="center">
-I work as a research engineer and team lead at the <b>Institute of Intelligent Computing Technology (IICT), Suzhou, CAS</b>.
-<br>
-My focus areas are <b>LLM (Large Language Model)</b>, <b>Blockchain</b>, and <b>Software Engineering</b>.
-<br>
-I lead various projects where I try to bridge the gap between academic research and industrial applications.
-<br>
-I actively contribute to open-source projects, publish academic papers, and file patents.
+  <a href="https://chat.devil.ren" target="_blank">
+    <button class="button"> 👋 Ask My LLM </button>
+  </a>
 </p>
 
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
-  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
-  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
-  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />
-  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-  <img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-</p>
+<div class="intro" align="center">
+<p>I work as a research engineer and team lead at the <strong>Institute of Intelligent Computing Technology (IICT), Suzhou, CAS</strong>.</p>
+<p>My focus areas are <strong>LLM (Large Language Model)</strong>, <strong>Blockchain</strong>, and <strong>Software Engineering</strong>.</p>
+<p>I lead various projects where I try to bridge the gap between academic research and industrial applications.</p>
+<p>I actively contribute to open-source projects, publish academic papers, and file patents.</p>
+</div>
+
+<div align="center">
+  <img class="floating" src="./imgs/techstack.png">
+</div>
+<div class="tech">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+</div>
 
 ## About
 
@@ -102,7 +102,7 @@ _Institute of Intelligent Computing Technology, Suzhou, CAS_
 
 LeChat is a content analysis and generation platform built on large language models and knowledge graphs. Compared to traditional content platforms, LeChat leverages cutting-edge generative AI technology to enhance user efficiency in information acquisition and content creation. LeChat can parse and analyze Office files, image files and text messages. Moreover, it can generate text, images, charts, and document content based on user prompts.
 
--   The background technique, UniAI, has yielded a comprehensive Gen-AI solution based on knowledge graphs and hybrid LLMs.
+-   The background technique, **UniAI**, has yielded a comprehensive Gen-AI solution based on knowledge graphs and hybrid LLMs.
 -   Three commercial projects utilizing this technology have already been successfully implemented.
 -   **UniAI** open-source repositories: <https://github.com/orgs/uniai-lab/repositories>.
 -   **LeChat Pro** website: <https://lechat.cas-ll.cn>.
@@ -118,9 +118,10 @@ _Supervisor: Associate Professor Tao Zhang_
 
 The current software engineering models, methods, and tools are no longer suitable for developing Web3 applications on the blockchain. My research focuses on exploring the integration of blockchain technology with deep neural network (DNN) models to address challenges in Web3 development. Key contributions include:
 
--   **SmartIntentNN**: Published two papers on a novel approach to detecting unsafe intents in smart contracts.
--   **SmartBERT**: Trained a language model specifically for smart contract representation, following the paradigms of BERT and RoBERTa to learn spatial representations through pre-training. SmartBERT supports downstream tasks related to smart contracts in software engineering.
--   Project Repository: <https://github.com/web3se-lab/web3-sekit>.
+-   **SmartIntentNN**: Published two papers on a novel approach to detecting unsafe development intents in smart contracts.
+-   **SmartBERT**: Trained a programming language model for smart contract representation, initialized with BERT/RoBERTa models. This pre-trained model aids downstream tasks in smart contract software engineering.
+-   HuggiingFace: <https://huggingface.co/web3se/SmartBERT-v2>
+-   Github Repo: <https://github.com/web3se-lab/web3-sekit>.
 
 ---
 
@@ -166,7 +167,7 @@ This invention introduces a method to model and represent smart contracts. It in
 
 <img src='./imgs/CN118780853A.png' style="float:right">
 
-**[Method and Computer Program Product for Matching Supply and Demand of Scientific and Technological Achievements](http://epub.cnipa.gov.cn/patent/CN118780853A)**
+**[A Method of Supply and Demand Matching for Technological Achievements and Computer Program Product](http://epub.cnipa.gov.cn/patent/CN118780853A)**
 
 _CN118780853A_
 

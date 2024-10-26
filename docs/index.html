@@ -6,7 +6,7 @@
   <title>Youwei Huang - HomePage</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description"
-    content="A research engineer and team lead at the Institute of Intelligent Computing Technology (IICT), Suzhou, CAS">
+    content="Research Engineer and Team Lead at the Institute of Intelligent Computing Technology (IICT), Suzhou, CAS">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
   <!-- SEO Enhancements -->
@@ -15,24 +15,24 @@
     content="Youwei Huang, research engineer, ICT, IICT, CAS, LLM, Deep Learning, Blockchain, Web3, Software Engineering">
   <meta property="og:title" content="Youwei Huang - HomePage">
   <meta property="og:description"
-    content="A research engineer and team lead at the Institute of Intelligent Computing Technology (IICT), Suzhou, CAS">
+    content="Research Engineer and Team Lead at the Institute of Intelligent Computing Technology (IICT), Suzhou, CAS">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.devil.ren">
   <meta property="og:image" content="https://www.devil.ren/imgs/ava.jpg">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Youwei Huang - HomePage">
   <meta name="twitter:description"
-    content="A research engineer and team lead at the Institute of Intelligent Computing Technology (IICT), Suzhou, CAS">
+    content="Research Engineer and Team Lead at the Institute of Intelligent Computing Technology (IICT), Suzhou, CAS">
   <meta name="twitter:image" content="https://www.devil.ren/imgs/ava.jpg">
   <link rel="canonical" href="https://www.devil.ren">
 
   <link rel="icon" href="/favicon.ico">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-  <!-- Fonts -->
+  <link href="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/themes/vue.min.css" rel="stylesheet">
+  <!-- 
   <link
     href="https://fonts.googleapis.com/css2?family=Georgia:ital,wght@0,400;0,700;1,400;1,700&family=Palatino+Linotype&family=Times+New+Roman:ital,wght@0,400;0,700;1,400;1,700&family=Arial:wght@400;700&family=Verdana:wght@400;700&family=Roboto:wght@300;400;700&family=Merriweather:wght@300;400;700&display=swap"
     rel="stylesheet">
-
+  Fonts -->
   <style>
     /*
     body {
@@ -50,10 +50,93 @@
       max-width: 920px;
       padding: 50px 28px;
     }
+
+    .markdown-section h1,
+    .markdown-section h2,
+    .markdown-section p {
+      margin: 20px 0;
+    }
+
+    .avatar {
+      border-radius: 100%;
+      width: 80px;
+      height: 80px;
+    }
+
+
+    .button {
+      background-color: #4CAF50;
+      color: white;
+      padding: 8px 22px;
+      cursor: pointer;
+      border: none;
+      border-radius: 5px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      transition: box-shadow 0.3s ease, transform 0.3s ease;
+    }
+
+    .button:hover {
+      box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+      transform: translateY(-2px) scale(1.1);
+    }
+
+    .button:active {
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      transform: translateY(0);
+    }
+
+    .name {
+      text-align: center;
+      border: none;
+    }
+
+    .intro {
+      margin: 20px 0 10px 0;
+    }
+
+    .intro p {
+      margin: 0;
+      padding: 0;
+    }
+
+    .floating {
+      height: 50px;
+      transition: transform 0.3s ease;
+      animation: floating 1.5s ease-in-out infinite;
+    }
+
+    @keyframes floating {
+      0% {
+        transform: scale(1);
+        /* 初始状态，大小为1倍 */
+      }
+
+      50% {
+        transform: scale(1.1);
+        /* 中间状态，放大为1.1倍 */
+      }
+
+      100% {
+        transform: scale(1);
+        /* 最终状态，恢复原大小 */
+      }
+    }
+
+    .tech {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      overflow: auto;
+      flex-wrap: wrap;
+    }
+
+    .tech img {
+      height: 32px;
+    }
   </style>
 </head>
 
-<body>
+<body id="particles-js">
   <div id="app"></div>
   <script>
     window.$docsify = {
@@ -63,8 +146,40 @@
     }
   </script>
   <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <div style="width:68px;position: fixed; right:10px; bottom:10px;">
+  <script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/docsify.min.js"></script>
+  <!--
+  <script src="https://cdn.bootcdn.net/ajax/libs/typed.js/2.1.0/typed.umd.min.js"></script>
+  <script>
+    window.onload = (event) => {
+      var typed = new Typed('#typed', {
+        stringsElement: '#typed-strings',
+        typeSpeed: 50,
+        loop: true,
+        smartBackspace: true,
+        showCursor: false
+      });
+    };
+  </script>
+  <script src="https://cdn.bootcdn.net/ajax/libs/particles.js/2.0.0/particles.min.js"></script>
+  <script>
+    window.onload = function () {
+
+      particlesJS('app', {
+        particles: {
+          number: { value: 100000, density: { enable: true, } },
+          color: { value: "#000" },
+          shape: { type: "circle", stroke: { width: 0, color: "#000000" } },
+          opacity: { value: 0.5, random: false, anim: { enable: false, speed: 1, opacity_min: 0.1, sync: false } },
+          size: { value: 3, random: true, anim: { enable: false, speed: 40, size_min: 0.1, sync: false } },
+          line_linked: { enable: false },
+          move: { enable: true, speed: 2, direction: "bottom", random: true, straight: false, out_mode: "out" }
+        },
+        retina_detect: true
+      });
+    }
+  </script>
+  -->
+  <div style="width:60px;position: fixed; right:10px; bottom:10px;">
     <script type="text/javascript" id="clstr_globe"
       src="//clustrmaps.com/globe.js?d=Cfir_0OQwh7fhjJrvjzKfRSSpJN3A04HYMjiMxkT6NU"></script>
   </div>
