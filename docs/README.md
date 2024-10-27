@@ -1,9 +1,10 @@
 <!-- @format -->
 
+<header>
 <div align="center">
   <img class="avatar" src="./imgs/ava.jpg" />
 </div>
-<h2 class="name">🤗 Hello, I'm Youwei Huang</h2>
+<h2 class="name"> 🤗 Hello, I'm Youwei Huang </h2>
 
 <p align="center">
   <a href="https://chat.devil.ren" target="_blank">
@@ -38,6 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 </div>
+</header>
 
 ## About
 
@@ -47,7 +49,7 @@
 -   🏢 **Business Address:** No. 88, Jinjihu Avenue, Suzhou Industrial Park, Jiangsu, China
 -   📮 **Email:** [huangyw@iict.ac.cn](mailto:huangyw@iict.ac.cn)
 -   🐱 **Github:** <https://github.com/devilyouwei>
--   💬 **Resume (LLM):** <https://chat.devil.ren/>
+-   💬 **Resume (LLM):** <https://chat.devil.ren>
 -   🧑‍💻 **TechStack:** Linux, Vim, NodeJS, Vue, Python, Tensorflow, Solidity, Java, PHP, Docker, SQL, _etc._
 
 ## Education
@@ -84,7 +86,7 @@ _Bachelor's Degree in Software Engineering_
 -   **Position:** Research Engineer, Team Lead, Project Manager
 -   **Duration:** May 2020 – Present
 -   **Location:** No. 88, Jinjihu Avenue, Suzhou Industrial Park, Suzhou, Jiangsu, China
--   **Duties:** AI and Blockchain project development, and management of related technical teams.
+-   **Duties:** AI and Blockchain project development, and management of related technical teams
 
 **Shanghai LeMiao Network Technology Company**
 
@@ -102,11 +104,11 @@ _Institute of Intelligent Computing Technology, Suzhou, CAS_
 
 LeChat is a content analysis and generation platform built on large language models and knowledge graphs. Compared to traditional content platforms, LeChat leverages cutting-edge generative AI technology to enhance user efficiency in information acquisition and content creation. LeChat can parse and analyze Office files, image files and text messages. Moreover, it can generate text, images, charts, and document content based on user prompts.
 
--   The background technique, **UniAI**, has yielded a comprehensive Gen-AI solution based on knowledge graphs and hybrid LLMs.
--   Three commercial projects utilizing this technology have already been successfully implemented.
--   **UniAI** open-source repositories: <https://github.com/orgs/uniai-lab/repositories>.
--   **LeChat Pro** website: <https://lechat.cas-ll.cn>.
--   Won the "2024 Artificial Intelligence Applications Conference (AIAC) Distinguished Talent Award".
+-   The background technique, **UniAI**, has yielded a comprehensive Gen-AI solution based on knowledge graphs and hybrid LLMs
+-   Three commercial projects utilizing this technology have already been successfully implemented
+-   **UniAI** open-source repositories: <https://github.com/orgs/uniai-lab/repositories>
+-   **LeChat Pro** website: <https://lechat.cas-ll.cn>
+-   Won the "2024 Artificial Intelligence Applications Conference (AIAC) Distinguished Talent Award"
 
 ---
 
@@ -118,10 +120,10 @@ _Supervisor: Associate Professor Tao Zhang_
 
 The current software engineering models, methods, and tools are no longer suitable for developing Web3 applications on the blockchain. My research focuses on exploring the integration of blockchain technology with deep neural network (DNN) models to address challenges in Web3 development. Key contributions include:
 
--   **SmartIntentNN**: Published two papers on a novel approach to detecting unsafe development intents in smart contracts.
--   **SmartBERT**: Trained a programming language model for smart contract representation, initialized with BERT/RoBERTa models. This pre-trained model aids downstream tasks in smart contract software engineering.
+-   **SmartIntentNN**: Published two papers on a novel approach to detecting unsafe development intents in smart contracts
+-   **SmartBERT**: Trained a programming language model for smart contract representation, initialized with BERT/RoBERTa models. Support downstream tasks in smart contract software engineering
 -   HuggiingFace: <https://huggingface.co/web3se/SmartBERT-v2>
--   Github Repo: <https://github.com/web3se-lab/web3-sekit>.
+-   Github Repo: <https://github.com/web3se-lab/web3-sekit>
 
 ---
 
@@ -131,7 +133,7 @@ _May 2021 - Oct 2023_
 _Institute of Intelligent Computing Technology, Suzhou, CAS_  
 _Supervisor: Professor Xiaofang Zhao_
 
-As project manger of the "Le-chain Commercial Medical Insurance Service Consortium Blockchain System and Application", I significantly advanced blockchain technology in healthcare. This project created a secure and trustworthy medical data exchange platform, integrating patients, hospitals, commercial insurance companies, and government health committees through a consortium blockchain network (Le-chain). It significantly enhanced medical insurance reimbursement efficiency, resolved data trust issues among various medical entities, prevented data tampering, and protected patient privacy with blockchain encryption algorithms, allowing data access only to authorized institutions.
+As project manger of the "Le-chain Commercial Medical Insurance Service Consortium Blockchain System and Application", I significantly advanced blockchain technology in healthcare. This project created a secure and trustworthy medical data exchange platform, integrating patients, hospitals, commercial insurance companies, and government health committees through a consortium blockchain network (Le-chain). It enhanced medical insurance reimbursement efficiency, resolved data trust issues among various medical entities, prevented data tampering, and protected patient privacy with blockchain encryption algorithms, allowing data access only to authorized institutions.
 
 -   Won the "2022 Jiangsu Province Blockchain Industry Development Pilot Demonstration Project" award.
 -   Authored several blockchain technical white papers.
