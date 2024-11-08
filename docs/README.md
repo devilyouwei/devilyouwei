@@ -54,24 +54,21 @@
 
 ## Education
 
-**Macau University of Science and Technology**
-
+**Macau University of Science and Technology**  
 _Ph.D. Candidate in Software Engineering_
 
 -   **Duration:** January 2022 – Quit
 -   **Location:** Taipa, Macao SAR
 -   **Research Interests:** Deep Learning, Blockchain, Software Engineering
 
-**Monmouth University**
-
+**Monmouth University**  
 _Master's Degree in Software Engineering (ABET Accredited)_
 
 -   **Duration:** September 2019 – August 2020
 -   **Location:** NJ, USA
 -   **Research Interests:** Software Engineering, Web Development, Blockchain
 
-**Changshu Institute of Technology**
-
+**Changshu Institute of Technology**  
 _Bachelor's Degree in Software Engineering_
 
 -   **Duration:** September 2013 – June 2018
@@ -79,8 +76,7 @@ _Bachelor's Degree in Software Engineering_
 
 ## Work Experience
 
-**Institute of Intelligent Computing Technology, Suzhou, CAS**
-
+**Institute of Intelligent Computing Technology, Suzhou, CAS**  
 **Institute of Computing Technology, Chinese Academy of Sciences (Suzhou branch)**
 
 -   **Position:** Research Engineer, Team Lead, Project Manager
@@ -97,28 +93,26 @@ _Bachelor's Degree in Software Engineering_
 
 ## Research & Projects
 
-**LLM Project - LeChat: The Next Generation Content Platform Based on Hybrid Models and Knowledge Graphs**
-
+**LLM Project - LeChat: The Next Generation Content Platform Based on Hybrid Models and Knowledge Graphs**  
 _Mar 2023 – Now_  
 _Institute of Intelligent Computing Technology, Suzhou, CAS_
 
-LeChat is a content analysis and generation platform built on large language models and knowledge graphs. Compared to traditional content platforms, LeChat leverages cutting-edge generative AI technology to enhance user efficiency in information acquisition and content creation. LeChat can parse and analyze Office files, image files and text messages. Moreover, it can generate text, images, charts, and document content based on user prompts.
+LeChat is a content analysis and generation platform built on large language models and knowledge graphs. Compared to traditional content platforms, LeChat leverages cutting-edge generative AI technology to enhance user efficiency in information acquisition and content creation. LeChat can parse and analyze Office files, image files and text messages. Moreover, it can generate text, images, charts, and document content based on user prompts and interests.
 
 -   The background technique, **UniAI**, has yielded a comprehensive Gen-AI solution based on knowledge graphs and hybrid LLMs
 -   Three commercial projects utilizing this technology have already been successfully implemented
 -   **UniAI** open-source repositories: <https://github.com/orgs/uniai-lab/repositories>
--   **LeChat Pro** website: <https://lechat.cas-ll.cn>
--   Won the "2024 Artificial Intelligence Applications Conference (AIAC) Distinguished Talent Award"
+-   **LeChat Pro** application: <https://lechat.cas-ll.cn>
+-   Won the **"2024 Artificial Intelligence Applications Conference (AIAC) Distinguished Talent Award"**
 
 ---
 
-**AI for SE Research - Software Engineering of Web3**
-
+**AI for SE Research - Software Engineering of Web3**  
 _Jan 2022 – Present_  
 _Macau University of Science and Technology_  
 _Supervisor: Associate Professor Tao Zhang_
 
-The current software engineering models, methods, and tools are no longer suitable for developing Web3 applications on the blockchain. My research focuses on exploring the integration of blockchain technology with deep neural network (DNN) models to address challenges in Web3 development. Key contributions include:
+The current software engineering models, methods, and tools are no longer suitable for developing Web3 applications on the blockchain. My research focuses on exploring the integration of blockchain technology with deep neural network (DNN) models to address challenges in Web3 development.
 
 -   **SmartIntentNN**: Published two papers on a novel approach to detecting unsafe development intents in smart contracts
 -   **SmartBERT**: Trained a programming language model for smart contract representation, initialized with BERT/RoBERTa models. Support downstream tasks in smart contract software engineering
@@ -127,33 +121,31 @@ The current software engineering models, methods, and tools are no longer suitab
 
 ---
 
-**Blockchain Project - Application of Blockchain in Medical Health**
-
+**Blockchain Project - Application of Blockchain in Medical Health**  
 _May 2021 - Oct 2023_  
 _Institute of Intelligent Computing Technology, Suzhou, CAS_  
 _Supervisor: Professor Xiaofang Zhao_
 
 As project manger of the "Le-chain Commercial Medical Insurance Service Consortium Blockchain System and Application", I significantly advanced blockchain technology in healthcare. This project created a secure and trustworthy medical data exchange platform, integrating patients, hospitals, commercial insurance companies, and government health committees through a consortium blockchain network (Le-chain). It enhanced medical insurance reimbursement efficiency, resolved data trust issues among various medical entities, prevented data tampering, and protected patient privacy with blockchain encryption algorithms, allowing data access only to authorized institutions.
 
--   Won the "2022 Jiangsu Province Blockchain Industry Development Pilot Demonstration Project" award.
+-   Won the **"2022 Jiangsu Province Blockchain Industry Development Pilot Demonstration Project"** award.
 -   Authored several blockchain technical white papers.
 -   Completed 5 invention patents.
--   Incubated a blockchain team and company: <https://www.cas-ll.com/team>.
+-   Incubated a blockchain technology team and company: <https://www.cas-ll.com/team>.
 
 ---
 
-**BigData Project - Precise Epidemic Control**
-
+**BigData Project - Precise Epidemic Control**  
 _May 2020 – May 2021_  
 _Institute of Intelligent Computing Technology, Suzhou, CAS_  
 _Supervisor: Professor Peiheng Zhang_
 
-This project leverages Bluetooth, WiFi, and other wireless signals to analyze regional pandemic situations and anonymously trace social contact networks. We developed data models to quantify regional safety and human health metrics, and visualized real-time analysis results to assist medical workers in epidemic prevention efforts. Our key contributions include:
+This project leverages Bluetooth, WiFi, and other general wireless signals to analyze regional pandemic situations and anonymously trace social contact networks. We developed data models to quantify regional safety and human health metrics, and visualized real-time analysis results to assist medical workers in epidemic prevention efforts.
 
 -   Supported government efforts during the COVID-19 pandemic.
 -   Published the paper "Precise Epidemic Control based on GeoHash" on DSA2022.
--   Obtained 4 patents (3 authorized).
--   Selected for the "2021 Suzhou Youth Science and Technology Talent Support Program".
+-   Obtained 4 patents (3 granted).
+-   Selected for the **"2021 Suzhou Youth Science and Technology Talent Support Program"**.
 
 ## Publications
 
@@ -165,7 +157,7 @@ This project leverages Bluetooth, WiFi, and other wireless signals to analyze re
 
 _CN118821849A_
 
-This invention introduces a method to model and represent smart contracts. It involves collecting and cleaning open-source smart contract codes, creating a structured code tree, and designing a pre-trained neural network model. This model is broken down into input, encoding, and output layers to form the SmartBERT model, which, when provided with the input smart contract code, generates the embedding vectors that accurately represents the contract's context and structure, supporting various downstream tasks.
+This invention introduces a method for modeling smart contracts that converts the function code of smart contracts into embedding vectors. The process involves several steps: collecting a large dataset of smart contract codes, structuring the code into a tree format, and performing unsupervised training on the function-level code using a masked language model (MLM). The final model is named SmartBERT.
 
 <img src='./imgs/CN118780853A.png' style="float:right">
 
@@ -173,7 +165,7 @@ This invention introduces a method to model and represent smart contracts. It in
 
 _CN118780853A_
 
-This invention discloses a method and computer program product for matching the supply and demand of scientific and technological achievements, related to the field of big data intelligent recommendation technology. The method includes: obtaining target data by setting an interface, where the target data includes scientific and technological achievements data and market demand data...
+This invention presents a method and a computer program product for matching the supply and demand of scientific and technological achievements in the industry. It is related to the field of big data and intelligent recommendation technology.
 
 <img src='./imgs/CN116662991A.png' style="float:right">
 
@@ -181,7 +173,7 @@ This invention discloses a method and computer program product for matching the 
 
 _CN116662991A_
 
-This invention discloses an artificial intelligence-based method for detecting intents in smart contracts. It includes: preprocessing and cleaning the code of smart contracts, and labeling risky code and intent tags. By transforming the smart contract context into embedding representations, and inputting them into a K-means model, unsupervised training is conducted to classify and highlight the code representations with strong intents in the smart contracts...
+This invention introduces an artificial intelligence-based method for detecting intents in smart contracts. The process involves preprocessing and cleaning the smart contract code, as well as labeling risky code segments and intent tags. It utilizes a smart contract code encoder, a K-means-based intent highlighting model, and a multi-label classification deep learning model to identify unsafe intents within the smart contracts.
 
 <img src='./imgs/CN117709505A.png' style="float:right">
 
@@ -189,7 +181,7 @@ This invention discloses an artificial intelligence-based method for detecting i
 
 _CN117709505A_
 
-This invention discloses a method and system for population and venue features analysis based on general-base stations. The method comprises: acquiring historical communication data, manually labeling the historical communication data based on population and venues to obtain corresponding characteristic labeled data; training a pre-trained model using the historical communication data and the characteristic labeled data...
+This invention presents a method and system for analyzing population and venue features based on general wireless technologies such as WiFi and Bluetooth. The method involves collecting historical communication data between people and wireless bases, labeling and classifying the characteristics of individuals and venues, and pre-training a model using sequences of historical communication data. The model is then fine-tuned with labels for downstream tasks.
 
 <img src='./imgs/CN114201735A.png' style="float:right">
 
@@ -197,7 +189,7 @@ This invention discloses a method and system for population and venue features a
 
 _CN114201735A_
 
-This invention discloses a technology for the e-certificate issuance and verification system based on the design and implementation of blockchain smart contracts. It uses smart contracts carried by Ethereum to create and operate institutional units, which create and issue e-certificates through smart contracts. Institutions send e-certificates to designated wallet addresses through transfers to grant e-certificates...
+This invention introduces a technology for the issuance and verification of e-certificates based on the design and implementation of blockchain smart contracts. It enables the creation of institutional units on the blockchain that generate and issue e-certificates through smart contracts. Institutions can send e-certificates to designated wallet addresses, granting users the ability to securely store and verify their certificates.
 
 <img src='./imgs/CN112037924B.png' style="float:right">
 
@@ -205,7 +197,7 @@ This invention discloses a technology for the e-certificate issuance and verific
 
 _CN112037924B_
 
-This innovation introduces a GeoHash-based method for analyzing medium to long-range epidemics. It involves dynamically dividing regions into blocks and conducting quantitative assessments of these blocks to derive health and safety indices for both the areas and their inhabitants. This approach offers robust data backing and informational support to enhance epidemic prevention and control initiatives...
+This innovation introduces a GeoHash-based method for analyzing medium- to long-term epidemics. The technique involves dynamically dividing a map into GeoHash blocks and performing quantitative analysis on these blocks to evaluate health and safety metrics for the area and its population.
 
 <img src='./imgs/CN113163336B.png' style="float:right">
 
@@ -225,6 +217,16 @@ This invention offers a Bluetooth-based tracking system for monitoring epidemics
 
 ### Papers
 
+<a style="float:right" href="https://arxiv.org/abs/2211.10724" target="_blank">Link</a>
+**Deep Smart Contract Intent Detection**  
+_**Youwei Huang**, Sen Fang, Jianwen Li, Jiachun Tao, Bin Hu, Tao Zhang_  
+_arXiv preprint, 2022, arXiv:2211.10724_
+
+<a style="float:right" href="https://arxiv.org/abs/2211.13670" target="_blank">Link</a>
+**SmartIntentNN: Towards Smart Contract Intent Detection**  
+_**Youwei Huang**, Sen Fang, Jianwen Li, Bin Hu, Tao Zhang_  
+_arXiv preprint, 2022, arXiv:2211.13670_
+
 **A Chain Division-based Vertical Scalability Method of Hyperledger Fabric**  
 _Bin Hu, **Youwei Huang**, Xiaolong Sang_  
 _Chinese High Technology Letters, 2025, Issue 5_
@@ -235,11 +237,11 @@ _**Youwei Huang**, Feng Lu, Xiaolong Sang, Bin Hu, Jiachun Tao_
 _IEEE, 2022 9th International Conference on Dependable Systems and Their Applications (DSA), Page 1040-1048_
 
 <a style="float:right" href="https://wf.pub/perios/article:rjdk201901007" target="_blank">Link</a>
-**Financial Data Forecasting System Based on Recurrent Neural Network**  
+**Financial Data Predicting System Based on Recurrent Neural Network**  
 _**Youwei Huang**, Yan Gao_  
-_Software Guide, 2019_
+_Software Guide, 2019, Page 28-33_
 
 <a style="float:right" href="https://wf.pub/perios/article:jsjyyyj201508049" target="_blank">Link</a>
 **Hidden Markov Model-based Multi-node Fusion Decision Concurrent Troubleshooting**  
 _Jian Zhou, Genlin Zhao, **Youwei Huang**_  
-_Application Research of Computers, 2015_
+_Application Research of Computers, 2015, Page 2447-2449,2453_
