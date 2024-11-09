@@ -103,7 +103,7 @@ LeChat is a content analysis and generation platform built on large language mod
 -   Three commercial projects utilizing this technology have already been successfully implemented
 -   **UniAI** open-source repositories: <https://github.com/orgs/uniai-lab/repositories>
 -   **LeChat Pro** application: <https://lechat.cas-ll.cn>
--   Won the **"2024 Artificial Intelligence Applications Conference (AIAC) Distinguished Talent Award"**
+-   Won the **"AIAC 2024 Outstanding Individual in Artificial Intelligence"** in Beijing.
 
 ---
 
@@ -126,7 +126,7 @@ _May 2021 - Oct 2023_
 _Institute of Intelligent Computing Technology, Suzhou, CAS_  
 _Supervisor: Professor Xiaofang Zhao_
 
-As project manger of the "Le-chain Commercial Medical Insurance Service Consortium Blockchain System and Application", I significantly advanced blockchain technology in healthcare. This project created a secure and trustworthy medical data exchange platform, integrating patients, hospitals, commercial insurance companies, and government health committees through a consortium blockchain network (Le-chain). It enhanced medical insurance reimbursement efficiency, resolved data trust issues among various medical entities, prevented data tampering, and protected patient privacy with blockchain encryption algorithms, allowing data access only to authorized institutions.
+As project manger of the "LeChain Commercial Health Insurance Service Consortium Blockchain System and Application Demonstration", I significantly advanced blockchain technology in healthcare. This project created a secure and trustworthy medical data exchange platform, integrating patients, hospitals, commercial insurance companies, and government health committees through a consortium blockchain network (Le-chain). It enhanced medical insurance reimbursement efficiency, resolved data trust issues among various medical entities, prevented data tampering, and protected patient privacy with blockchain encryption algorithms, allowing data access only to authorized institutions.
 
 -   Won the **"2022 Jiangsu Province Blockchain Industry Development Pilot Demonstration Project"** award.
 -   Authored several blockchain technical white papers.
@@ -143,9 +143,9 @@ _Supervisor: Professor Peiheng Zhang_
 This project leverages Bluetooth, WiFi, and other general wireless signals to analyze regional pandemic situations and anonymously trace social contact networks. We developed data models to quantify regional safety and human health metrics, and visualized real-time analysis results to assist medical workers in epidemic prevention efforts.
 
 -   Supported government efforts during the COVID-19 pandemic.
--   Published the paper "Precise Epidemic Control based on GeoHash" on DSA2022.
+-   Published the paper **"Precise Epidemic Control based on GeoHash"** on DSA2022.
 -   Obtained 4 patents (3 granted).
--   Selected for the **"2021 Suzhou Youth Science and Technology Talent Support Program"**.
+-   selected for the **"2021 Youth Talent Support Project of the Suzhou Association for Science and Technology"**.
 
 ## Publications
 
@@ -193,7 +193,7 @@ This invention introduces a technology for the issuance and verification of e-ce
 
 <img src='./imgs/CN112037924B.png' style="float:right">
 
-**[A Quantitative Method for Medium to Long Distance Epidemic Monitoring and Safety Metrics](http://epub.cnipa.gov.cn/patent/CN112037924B)**
+**[A Method for Medium and Long-Range Epidemic Monitoring and Safety Index Quantification](http://epub.cnipa.gov.cn/patent/CN112037924B)**
 
 _CN112037924B_
 
@@ -201,7 +201,7 @@ This innovation introduces a GeoHash-based method for analyzing medium- to long-
 
 <img src='./imgs/CN113163336B.png' style="float:right">
 
-**[Contact Tracing Method based on Constructing a Time-series Directed Relationship Network Using General Bases](http://epub.cnipa.gov.cn/patent/CN113163336B)**
+**[Contact Tracing Method for Constructing the Time-sequenced Directed Graph Based on Generic Base Stations](http://epub.cnipa.gov.cn/patent/CN113163336B)**
 
 _CN113163336B_
 
@@ -209,7 +209,7 @@ This invention discloses a contact tracing method based on the construction of a
 
 <img src='./imgs/CN112203229B.png' style="float:right">
 
-**[Method for Constructing a Short-range Epidemic Transmission Network Based on Bluetooth Scanning](http://epub.cnipa.gov.cn/patent/CN112203229B)**
+**[Method for Constructing a Short-Range Epidemic Transmission Network Based on Bluetooth Scanning](http://epub.cnipa.gov.cn/patent/CN112203229B)**
 
 _CN112203229B_
 
@@ -237,7 +237,7 @@ _**Youwei Huang**, Feng Lu, Xiaolong Sang, Bin Hu, Jiachun Tao_
 _IEEE, 2022 9th International Conference on Dependable Systems and Their Applications (DSA), Page 1040-1048_
 
 <a style="float:right" href="https://wf.pub/perios/article:rjdk201901007" target="_blank">Link</a>
-**Financial Data Predicting System Based on Recurrent Neural Network**  
+**Financial Data Prediction System Based on Recurrent Neural Networks**  
 _**Youwei Huang**, Yan Gao_  
 _Software Guide, 2019, Page 28-33_
 
