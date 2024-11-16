@@ -14,7 +14,7 @@
 
 <div class="intro" align="center">
 <p>I work as a research engineer and team lead at the <strong>Institute of Intelligent Computing Technology (IICT), Suzhou, CAS</strong>.</p>
-<p>My focus areas are <strong>LLM (Large Language Model)</strong>, <strong>Blockchain</strong>, and <strong>Software Engineering</strong>.</p>
+<p>My focus interests are <strong>LLM (Large Language Model)</strong>, <strong>Blockchain</strong>, and <strong>Software Engineering</strong>.</p>
 <p>I lead various projects where I try to bridge the gap between academic research and industrial applications.</p>
 <p>I actively contribute to open-source projects, publish academic papers, and file patents.</p>
 </div>
@@ -59,14 +59,14 @@ _Ph.D. Candidate in Software Engineering_
 
 -   **Duration:** January 2022 – Quit
 -   **Location:** Taipa, Macao SAR
--   **Research Interests:** Deep Learning, Blockchain, Software Engineering
+-   **Interests:** Deep Learning, Blockchain, Software Engineering
 
 **Monmouth University**  
 _Master's Degree in Software Engineering (ABET Accredited)_
 
 -   **Duration:** September 2019 – August 2020
 -   **Location:** NJ, USA
--   **Research Interests:** Software Engineering, Web Development, Blockchain
+-   **Interests:** Software Engineering, Web Development, Blockchain
 
 **Changshu Institute of Technology**  
 _Bachelor's Degree in Software Engineering_
@@ -79,7 +79,7 @@ _Bachelor's Degree in Software Engineering_
 **Institute of Intelligent Computing Technology, Suzhou, CAS**  
 **Institute of Computing Technology, Chinese Academy of Sciences (Suzhou branch)**
 
--   **Position:** Research Engineer, Team Lead, Project Manager
+-   **Position:** Research Engineer, Project Manager, Team Lead
 -   **Duration:** May 2020 – Present
 -   **Location:** No. 88, Jinjihu Avenue, Suzhou Industrial Park, Suzhou, Jiangsu, China
 -   **Duties:** AI and Blockchain project development, and management of related technical teams
@@ -97,7 +97,7 @@ _Bachelor's Degree in Software Engineering_
 _Mar 2023 – Now_  
 _Institute of Intelligent Computing Technology, Suzhou, CAS_
 
-LeChat is a content analysis and generation platform built on large language models and knowledge graphs. Compared to traditional content platforms, LeChat leverages cutting-edge generative AI technology to enhance user efficiency in information acquisition and content creation. LeChat can parse and analyze Office files, image files and text messages. Moreover, it can generate text, images, charts, and document content based on user prompts and interests.
+LeChat is a document parsing and content generation platform built on LLMs and knowledge graphs. It utilizes generative AI to help users efficiently acquire knowledge and create content. LeChat can read Office documents, image files, and text messages. It can also generate text, images, charts, and document content based on user prompts and interests.
 
 -   The background technique, **UniAI**, has yielded a comprehensive Gen-AI solution based on knowledge graphs and hybrid LLMs
 -   Three commercial projects utilizing this technology have already been successfully implemented
@@ -107,7 +107,7 @@ LeChat is a content analysis and generation platform built on large language mod
 
 ---
 
-**AI for SE Research - Software Engineering of Web3**  
+**AI for SE Research - Web3 Software Engineering**  
 _Jan 2022 – Present_  
 _Macau University of Science and Technology_  
 _Supervisor: Associate Professor Tao Zhang_
@@ -126,7 +126,7 @@ _May 2021 - Oct 2023_
 _Institute of Intelligent Computing Technology, Suzhou, CAS_  
 _Supervisor: Professor Xiaofang Zhao_
 
-As project manger of the "LeChain Commercial Health Insurance Service Consortium Blockchain System and Application Demonstration", I significantly advanced blockchain technology in healthcare. This project created a secure and trustworthy medical data exchange platform, integrating patients, hospitals, commercial insurance companies, and government health committees through a consortium blockchain network (Le-chain). It enhanced medical insurance reimbursement efficiency, resolved data trust issues among various medical entities, prevented data tampering, and protected patient privacy with blockchain encryption algorithms, allowing data access only to authorized institutions.
+We developed LeChain, a consortium blockchain designed for medical health applications, creating a trustable network among hospitals, patients, insurance companies, and health committees. It enhanced medical insurance reimbursement efficiency, resolved data trust issues among various medical entities, prevented data tampering, and protected patient privacy with blockchain encryption algorithms, allowing data access only to authorized institutions.
 
 -   Won the **"2022 Jiangsu Province Blockchain Industry Development Pilot Demonstration Project"** award.
 -   Authored several blockchain technical white papers.
@@ -140,7 +140,7 @@ _May 2020 – May 2021_
 _Institute of Intelligent Computing Technology, Suzhou, CAS_  
 _Supervisor: Professor Peiheng Zhang_
 
-This project leverages Bluetooth, WiFi, and other general wireless signals to analyze regional pandemic situations and anonymously trace social contact networks. We developed data models to quantify regional safety and human health metrics, and visualized real-time analysis results to assist medical workers in epidemic prevention efforts.
+This project leverages Bluetooth, WiFi, and other generic wireless signals to analyze regional pandemic situations and anonymously trace social contact networks. We developed data models to quantify regional safety and human health metrics, and visualized real-time analysis results to assist medical workers in epidemic prevention efforts.
 
 -   Supported government efforts during the COVID-19 pandemic.
 -   Published the paper **"Precise Epidemic Control based on GeoHash"** on DSA2022.
@@ -153,64 +153,64 @@ This project leverages Bluetooth, WiFi, and other general wireless signals to an
 
 <img src='./imgs/CN118821849A.png' style="float:right">
 
-**[A Model Approach for Representing Smart Contracts](http://epub.cnipa.gov.cn/patent/CN118821849A)**
-
+**[A Model Approach for Representing Smart Contracts](http://epub.cnipa.gov.cn/patent/CN118821849A)**  
+_**Youwei Huang**, Xiaofang Zhao_  
 _CN118821849A_
 
 This invention introduces a method for modeling smart contracts that converts the function code of smart contracts into embedding vectors. The process involves several steps: collecting a large dataset of smart contract codes, structuring the code into a tree format, and performing unsupervised training on the function-level code using a masked language model (MLM). The final model is named SmartBERT.
 
 <img src='./imgs/CN118780853A.png' style="float:right">
 
-**[A Method of Supply and Demand Matching for Technological Achievements and Computer Program Product](http://epub.cnipa.gov.cn/patent/CN118780853A)**
-
+**[A Method of Supply and Demand Matching for Technological Achievements and Computer Program Product](http://epub.cnipa.gov.cn/patent/CN118780853A)**  
+_Peng Yang, **Youwei Huang**, Yingying Cheng, Runze Chen, Fangbin Ling, Xiang Ao_  
 _CN118780853A_
 
 This invention presents a method and a computer program product for matching the supply and demand of scientific and technological achievements in the industry. It is related to the field of big data and intelligent recommendation technology.
 
 <img src='./imgs/CN116662991A.png' style="float:right">
 
-**[Smart Contract Intent Detection Method Based on Artificial Intelligence](http://epub.cnipa.gov.cn/patent/CN116662991A)**
-
+**[Smart Contract Intent Detection Method Based on Artificial Intelligence](http://epub.cnipa.gov.cn/patent/CN116662991A)**  
+_**Youwei Huang**, Xiaofang Zhao_  
 _CN116662991A_
 
 This invention introduces an artificial intelligence-based method for detecting intents in smart contracts. The process involves preprocessing and cleaning the smart contract code, as well as labeling risky code segments and intent tags. It utilizes a smart contract code encoder, a K-means-based intent highlighting model, and a multi-label classification deep learning model to identify unsafe intents within the smart contracts.
 
 <img src='./imgs/CN117709505A.png' style="float:right">
 
-**[A Method and System for Analyzing Population and Venue Features based on Geneal Wireless Bases](http://epub.cnipa.gov.cn/patent/CN117709505A)**
-
+**[A Method and System for Analyzing Population and Venue Features based on Geneal Wireless Bases](http://epub.cnipa.gov.cn/patent/CN117709505A)**  
+_**Youwei Huang**, Peiheng Zhang, Xiaofang Zhao, Hongjie Wang, Long Xu_  
 _CN117709505A_
 
 This invention presents a method and system for analyzing population and venue features based on general wireless technologies such as WiFi and Bluetooth. The method involves collecting historical communication data between people and wireless bases, labeling and classifying the characteristics of individuals and venues, and pre-training a model using sequences of historical communication data. The model is then fine-tuned with labels for downstream tasks.
 
 <img src='./imgs/CN114201735A.png' style="float:right">
 
-**[NFT-based E-certificate Issuance and Verification Approach](http://epub.cnipa.gov.cn/patent/CN114201735A)**
-
+**[NFT-based E-certificate Issuance and Verification Approach](http://epub.cnipa.gov.cn/patent/CN114201735A)**  
+_**Youwei Huang**_  
 _CN114201735A_
 
 This invention introduces a technology for the issuance and verification of e-certificates based on the design and implementation of blockchain smart contracts. It enables the creation of institutional units on the blockchain that generate and issue e-certificates through smart contracts. Institutions can send e-certificates to designated wallet addresses, granting users the ability to securely store and verify their certificates.
 
 <img src='./imgs/CN112037924B.png' style="float:right">
 
-**[A Method for Medium and Long-Range Epidemic Monitoring and Safety Index Quantification](http://epub.cnipa.gov.cn/patent/CN112037924B)**
-
+**[A Method for Medium and Long-Range Epidemic Monitoring and Safety Index Quantification](http://epub.cnipa.gov.cn/patent/CN112037924B)**  
+_**Youwei Huang**, Ze Zhou, Feng Lu, Huijuan Zhang, Peiheng Zhang_  
 _CN112037924B_
 
 This innovation introduces a GeoHash-based method for analyzing medium- to long-term epidemics. The technique involves dynamically dividing a map into GeoHash blocks and performing quantitative analysis on these blocks to evaluate health and safety metrics for the area and its population.
 
 <img src='./imgs/CN113163336B.png' style="float:right">
 
-**[Contact Tracing Method for Constructing the Time-sequenced Directed Graph Based on Generic Base Stations](http://epub.cnipa.gov.cn/patent/CN113163336B)**
-
+**[Contact Tracing Method for Constructing the Time-sequenced Directed Graph Based on Generic Base Stations](http://epub.cnipa.gov.cn/patent/CN113163336B)**  
+_**Youwei Huang**, Peiheng Zhang, Liuyi Zhang, Mengli Dang_  
 _CN113163336B_
 
 This invention discloses a contact tracing method based on the construction of a time-series directed relationship network of general base stations. Through the scanning, connection, and access of surrounding general bases such as WiFi, Bluetooth, Personal Hotpot by the user's mobile phone, the contact relationship between users based on time nodes can be traced by processing the association between record bases and users.
 
 <img src='./imgs/CN112203229B.png' style="float:right">
 
-**[Method for Constructing a Short-Range Epidemic Transmission Network Based on Bluetooth Scanning](http://epub.cnipa.gov.cn/patent/CN112203229B)**
-
+**[Method for Constructing a Short-Range Epidemic Transmission Network Based on Bluetooth Scanning](http://epub.cnipa.gov.cn/patent/CN112203229B)**  
+_Peiheng Zhang, **Youwei Huang**, Liuyi Zhang, Liyuan Liang, Feng Lu, Maolei Huang_  
 _CN112203229B_
 
 This invention offers a Bluetooth-based tracking system for monitoring epidemics within short ranges. It uses app-bound devices to collect contact data, which is then processed on a server and visualized as a network graph. This tool helps health organizations like the CDC to track and monitor the spread of infectious diseases, including COVID-19, in real-time.
