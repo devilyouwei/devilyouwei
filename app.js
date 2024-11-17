@@ -33,21 +33,18 @@ app.use(async ctx => {
         if (ctx.method.toLowerCase() === 'get') ctx.request.body = ctx.query
 
         const res = await ai[action](ctx)
+
         if (typeof res === 'string') ctx.body = res
         else if (res instanceof Stream) {
-            ctx.set({
-                'Content-Type': 'text/event-stream',
-                'Cache-Control': 'no-cache',
-                Connection: 'keep-alive'
-            })
+            ctx.set({ 'Content-Type': 'text/event-stream', 'Cache-Control': 'no-cache', Connection: 'keep-alive' })
             ctx.body = res
         } else ctx.body = { status: 1, msg: res.msg, data: res.data }
     } catch (e) {
-        logger.error(e.message)
         ctx.body = { status: 0, msg: e.message, data: null }
+        logger.error(e.toString())
     }
 })
 
 const hostname = '0.0.0.0'
 const port = process.env.port || 3000
-app.listen(port, hostname, () => console.log(`Server running at http://${hostname}:${port}/`))
+app.listen(port, hostname, () => console.log(`Server running at http://${hostname}:${port}`))

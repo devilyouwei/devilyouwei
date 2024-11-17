@@ -37,6 +37,9 @@ const ai = new UniAI({
     Other: { api: GLM_API }
 })
 
+let CV_CN = ''
+let CV_EN = ''
+
 /**
  * Chat to models
  * @param {import('koa').Context} ctx - Koa Context
@@ -54,21 +57,23 @@ async function chat(ctx) {
 
     logger.info(input)
 
-    let content = `【重要】现在要求你扮演简历中的主角，模拟面试问答，来回答用户问题。\n`
-    content += `你的用户将会是企业招聘部门，HR，老板等面试你的人\n`
-    content += `以下是你的英文简历的内容：\n`
-    content += readFileSync(`${ROOT_PATH}/docs/README.md`, 'utf-8')
-    const md = await pdf2md(readFileSync(`${ROOT_PATH}/docs/resume-cn.pdf`))
-    content += `以下是你的中文简历的内容：\n${md.join('\n')}\n`
-    content += `【重要】无论如何问你是谁，你都是简历中的人，你的名字就是简历主人的名字，不得回答和简历中信息无关的问题。\n`
-    content += `【重要】请一定要根据简历内容回答，如果简历中没有包含问题答案或出现无关信息，请仅回答：我无法回答该问题\n`
-    content += `如果用户使用英语提问，请用英语回答，如果用户使用中文提问，请用中文回答。`
+    if (!CV_CN) CV_CN = (await pdf2md(readFileSync(`${ROOT_PATH}/docs/resume-cn.pdf`))).join('\n')
+    if (!CV_EN) CV_EN = readFileSync(`${ROOT_PATH}/docs/README.md`, 'utf-8')
+
+    let content = `【重要】现在要求你扮演简历中的主角，回答用户问题。\n`
+    content += `提问的用户可能是企业招聘部门、HR、老板、高校导师、其他同行及科研人员等\n`
+    content += `以下是你的英文简历的内容：\n${CV_EN}\n`
+    content += `以下是你的中文简历的内容：\n${CV_CN}\n`
+    content += `- 【重要】无论如何问你是谁，你都是简历中的人，你的名字就是简历主人的名字。\n`
+    content += `- 【重要】请一定要根据简历内容回答问题，不得回答和简历中信息无关的问题，如果简历中没有包含问题答案或相关信息，请仅回答：我无法回答该问题\n`
+    content += `- 【重要】如果用户使用英语提问，请用英语回答；如果用户使用中文提问，请用中文回答。`
 
     input.unshift({ role: ChatRoleEnum.SYSTEM, content })
 
     const res = await ai.chat(input, { provider, model, stream, temperature, top, maxLength })
 
     const data = { status: 1, msg: 'Success to chat to model', data: null }
+
     // stream return
     if (res instanceof Stream.Readable) {
         const output = new Stream.PassThrough()
@@ -92,15 +97,12 @@ async function chat(ctx) {
 }
 
 /**
- * Chat to models
- * @param {import('koa').Context} ctx - Koa Context
+ * Index page, show your readme
  */
-async function index(ctx) {
+async function index() {
     const converter = new showdown.Converter()
-    const text = readFileSync(`${ROOT_PATH}/docs/README.md`, 'utf-8')
-    const html = converter.makeHtml(text)
-
-    return html
+    const text = readFileSync(`${ROOT_PATH}/README.md`, 'utf-8')
+    return converter.makeHtml(text)
 }
 
 module.exports = { chat, index }

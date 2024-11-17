@@ -1,13 +1,18 @@
 <!-- @format -->
 
-[🤖 Click to chat with my personal LLM](https://chat.devil.ren)
+# 🤗 Youwei Huang
 
-I'm Youwei Huang, a research engineer and team lead at the Institute of Intelligent Computing Technology, Suzhou, CAS.
+🏠 **Visit my home page:** <https://www.devil.ren>  
+🤖 **Ask my LLM avatar:** <https://chat.devil.ren>
 
-My main areas of interest include **Large Language Models (LLM)**, **Blockchain**, and **Software Engineering**.
+🏛️ **Affiliation:** Institute of Intelligent Computing Technology, Suzhou, CAS  
+👨‍💻 **Title:** Research Engineer, Team Lead  
+👨‍🔬 **Research:** LLM, Blockchain, Software Engineering
 
-💼 I'm currently leading several innovative open-source projects such as [UniAI](https://github.com/orgs/uniai-lab/repositories), [LeChat](https://lechat.cas-ll.cn), and [SmartIntentNN](https://github.com/web3se-lab/web3-sekit). These projects span various fields including LLM, deep learning, software engineering, web development, and blockchain.
+💼 Currently, I lead innovative projects like [UniAI](https://github.com/uniai-lab/uniai), [LeChat](https://github.com/uniai-lab/lechat-pro), and [Web3SE Kit](https://github.com/web3se-lab/web3-sekit).
 
-🔬 I actively engage in academia, industry, and commerce, showcasing my expertise by contributing to open-source projects, publishing papers, and filing patents.
+🔬 I engage actively in academic, industrial, and business domains, leveraging my diverse skills.
 
-🤝 If you're passionate about these fields or have exciting ideas, let's collaborate! I'm always open to new and exciting projects. Let's create something great together!
+🤝 If you're interested in LLM and Web3 technologies, let's collaborate on open-source projects.
+
+🎓 I am also seeking PhD and RA opportunities and eager to co-author papers with fellow researchers.
