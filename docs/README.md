@@ -1,10 +1,8 @@
-<!-- @format -->
-
 <header>
 <div align="center">
   <img class="avatar" src="./imgs/ava.jpg" />
 </div>
-<h2 class="name"> 🤗 Hello, I'm Youwei Huang </h2>
+<h2 class="name"> 🤗 Hello, I am Youwei Huang </h2>
 
 <p align="center">
   <a href="https://chat.devil.ren" target="_blank">
@@ -14,9 +12,9 @@
 
 <div class="intro" align="center">
 <p>I work as a research engineer and team lead at the <strong>Institute of Intelligent Computing Technology (IICT), Suzhou, CAS</strong>.</p>
-<p>My focus interests are <strong>LLM (Large Language Model)</strong>, <strong>Blockchain</strong>, and <strong>Software Engineering</strong>.</p>
-<p>I lead various projects where I try to bridge the gap between academic research and industrial applications.</p>
-<p>I actively contribute to open-source projects, publish academic papers, and file patents.</p>
+<p>My primary research interests are <strong>Large Language Models (LLMs)</strong>, <strong>Blockchain</strong>, and <strong>Software Engineering</strong>.</p>
+<p>I lead various projects aimed at bridging the gap between academic research and industrial applications.</p>
+<p>I actively contribute to open-source projects, publish academic papers, and file innovation patents.</p>
 </div>
 
 <div align="center">
@@ -45,12 +43,12 @@
 
 -   👨 **Gender:** Male
 -   📅 **Birth Date:** April 23, 1995
--   🌏 **Birth Place:** Suzhou, China
--   🏢 **Business Address:** No. 88, Jinjihu Avenue, Suzhou Industrial Park, Jiangsu, China
--   📮 **Email:** [huangyw@iict.ac.cn](mailto:huangyw@iict.ac.cn)
--   🐱 **Github:** <https://github.com/devilyouwei>
--   💬 **Resume (LLM):** <https://chat.devil.ren>
--   🧑‍💻 **TechStack:** Linux, Vim, NodeJS, Vue, Python, Tensorflow, Solidity, Java, PHP, Docker, SQL, _etc._
+-   🌏 **Place of Birth:** Suzhou, China
+-   🏛️ **Business Address:** No. 88, Jinjihu Avenue, Suzhou Industrial Park, Jiangsu, China
+-   📧 **Email:** [huangyw@iict.ac.cn](mailto:huangyw@iict.ac.cn)
+-   😺 **GitHub:** <https://github.com/devilyouwei>
+-   💬 **LLM Avatar:** <https://chat.devil.ren>
+-   🧑‍💻 **Tech Stack:** Linux, Vim, Node.js, Vue.js, Python, TensorFlow, Solidity, Java, PHP, Docker, SQL, _etc._
 
 ## Education
 
@@ -82,28 +80,28 @@ _Bachelor's Degree in Software Engineering_
 -   **Position:** Research Engineer, Project Manager, Team Lead
 -   **Duration:** May 2020 – Present
 -   **Location:** No. 88, Jinjihu Avenue, Suzhou Industrial Park, Suzhou, Jiangsu, China
--   **Duties:** AI and Blockchain project development, and management of related technical teams
+-   **Duties:** Conduct research in deep learning and blockchain; manage projects and teams
 
 **Shanghai LeMiao Network Technology Company**
 
--   **Position:** Software Engineer, Game Developer
+-   **Position:** Software Engineer
 -   **Duration:** June 2018 – August 2019
 -   **Location:** Shanghai, China
--   **Duties:** Web Development, Game Development
+-   **Duties:** Developed web applications and games; implemented DevOps practices
 
 ## Research & Projects
 
-**LLM Project - LeChat: The Next Generation Content Platform Based on Hybrid Models and Knowledge Graphs**  
-_Mar 2023 – Now_  
+**LLM Project - LeChat: Document Parsing and Chat Platform**  
+_Mar 2023 – Present_  
 _Institute of Intelligent Computing Technology, Suzhou, CAS_
 
-LeChat is a document parsing and content generation platform built on LLMs and knowledge graphs. It utilizes generative AI to help users efficiently acquire knowledge and create content. LeChat can read Office documents, image files, and text messages. It can also generate text, images, charts, and document content based on user prompts and interests.
+LeChat is an AI-driven document parsing and chat platform utilizing multiple LLMs and knowledge graphs. It helps users comprehend document contexts efficiently and generate relevant content. LeChat features include parsing Office files, recognizing images, interpreting semantics, and generating text, images, and charts based on user prompts.
 
--   The background technique, **UniAI**, has yielded a comprehensive Gen-AI solution based on knowledge graphs and hybrid LLMs
--   Three commercial projects utilizing this technology have already been successfully implemented
--   **UniAI** open-source repositories: <https://github.com/orgs/uniai-lab/repositories>
--   **LeChat Pro** application: <https://lechat.cas-ll.cn>
--   Won the **"AIAC 2024 Outstanding Individual in Artificial Intelligence"** in Beijing.
+-   Launched **UniAI**, the backend technology of LeChat, integrating hybrid LLMs and knowledge graphs
+-   Transformed foundational technologies into three commercial projects
+-   Honored with the **"AIAC 2024 Outstanding Individual in Artificial Intelligence"** award in Beijing
+-   **UniAI** repositories: <https://github.com/orgs/uniai-lab/repositories>
+-   **LeChat Pro** website: <https://lechat.cas-ll.cn>
 
 ---
 
@@ -112,40 +110,41 @@ _Jan 2022 – Present_
 _Macau University of Science and Technology_  
 _Supervisor: Associate Professor Tao Zhang_
 
-The current software engineering models, methods, and tools are no longer suitable for developing Web3 applications on the blockchain. My research focuses on exploring the integration of blockchain technology with deep neural network (DNN) models to address challenges in Web3 development.
+Traditional software engineering (SE) models, methods, and tools are increasingly inadequate for developing blockchain-based Web3 applications. Our research focuses on AI for Web3 SE, applying deep learning techniques to address challenges in Web3 development. We have just started our research on Web3 SE, currently focusing on the detection, repair, and generation of smart contracts.
 
--   **SmartIntentNN**: Published two papers on a novel approach to detecting unsafe development intents in smart contracts
--   **SmartBERT**: Trained a programming language model for smart contract representation, initialized with BERT/RoBERTa models. Support downstream tasks in smart contract software engineering
--   HuggiingFace: <https://huggingface.co/web3se/SmartBERT-v2>
--   Github Repo: <https://github.com/web3se-lab/web3-sekit>
+-   **SmartIntentNN:** A DNN-based approach for detecting unsafe development intents in smart contracts
+-   **SmartBERT:** A pre-trained programming language model for learning representations of smart contracts
+-   Hugging Face: <https://huggingface.co/web3se/SmartBERT-v2>
+-   GitHub Repository: <https://github.com/web3se-lab/web3-sekit>
+-   Online Demo: <https://www.web3-se.com>
 
 ---
 
 **Blockchain Project - Application of Blockchain in Medical Health**  
-_May 2021 - Oct 2023_  
+_May 2021 – Oct 2023_  
 _Institute of Intelligent Computing Technology, Suzhou, CAS_  
 _Supervisor: Professor Xiaofang Zhao_
 
-We developed LeChain, a consortium blockchain designed for medical health applications, creating a trustable network among hospitals, patients, insurance companies, and health committees. It enhanced medical insurance reimbursement efficiency, resolved data trust issues among various medical entities, prevented data tampering, and protected patient privacy with blockchain encryption algorithms, allowing data access only to authorized institutions.
+We developed LeChain, a consortium blockchain specifically designed for healthcare applications. It establishes a trusted network among hospitals, patients, insurance companies, and health commissions. LeChain leverages blockchain's immutable and traceable features to ensure secure and reliable verification of medical data exchange.
 
--   Won the **"2022 Jiangsu Province Blockchain Industry Development Pilot Demonstration Project"** award.
--   Authored several blockchain technical white papers.
--   Completed 5 invention patents.
--   Incubated a blockchain technology team and company: <https://www.cas-ll.com/team>.
+-   Won the **"2022 Jiangsu Province Blockchain Industry Development Pilot Demonstration Project"** award
+-   Published several technical white papers
+-   Secured five invention patents
+-   Incubated a blockchain technology team and company: <https://www.cas-ll.com/team>
 
 ---
 
-**BigData Project - Precise Epidemic Control**  
+**Big Data Project - Precise Epidemic Prevention and Control**  
 _May 2020 – May 2021_  
 _Institute of Intelligent Computing Technology, Suzhou, CAS_  
 _Supervisor: Professor Peiheng Zhang_
 
-This project leverages Bluetooth, WiFi, and other generic wireless signals to analyze regional pandemic situations and anonymously trace social contact networks. We developed data models to quantify regional safety and human health metrics, and visualized real-time analysis results to assist medical workers in epidemic prevention efforts.
+This project applied big data to epidemic prevention efforts. We developed two core technologies: First, we employed GeoHash to dynamically segment regions and quantify health and safety metrics for both areas and individuals. Second, we utilized Generic Wireless Base technologies, such as Bluetooth and WiFi, to construct anonymous contact networks for tracing virus transmission paths.
 
--   Supported government efforts during the COVID-19 pandemic.
--   Published the paper **"Precise Epidemic Control based on GeoHash"** on DSA2022.
--   Obtained 4 patents (3 granted).
--   selected for the **"2021 Youth Talent Support Project of the Suzhou Association for Science and Technology"**.
+-   Supported government efforts during the COVID-19 pandemic
+-   Published the paper **"Precise Epidemic Control based on GeoHash"** at DSA2022
+-   Secured four patents, with three granted
+-   Selected for the **"2021 Youth Talent Support Project of the Suzhou Association for Science and Technology"**
 
 ## Publications
 
@@ -157,7 +156,7 @@ This project leverages Bluetooth, WiFi, and other generic wireless signals to an
 _**Youwei Huang**, Xiaofang Zhao_  
 _CN118821849A_
 
-This invention introduces a method for modeling smart contracts that converts the function code of smart contracts into embedding vectors. The process involves several steps: collecting a large dataset of smart contract codes, structuring the code into a tree format, and performing unsupervised training on the function-level code using a masked language model (MLM). The final model is named SmartBERT.
+This invention introduces a method for representing smart contracts by converting their function codes into embedding vectors. The process involves several steps: collecting a large dataset of smart contracts, structuring the code into a tree format, and performing unsupervised training on the function-level code using a masked language model (MLM). The final model is named SmartBERT.
 
 <img src='./imgs/CN118780853A.png' style="float:right">
 
@@ -165,7 +164,7 @@ This invention introduces a method for modeling smart contracts that converts th
 _Peng Yang, **Youwei Huang**, Yingying Cheng, Runze Chen, Fangbin Ling, Xiang Ao_  
 _CN118780853A_
 
-This invention presents a method and a computer program product for matching the supply and demand of scientific and technological achievements in the industry. It is related to the field of big data and intelligent recommendation technology.
+The invention discloses a method and computer program for matching technology supply and demand, involving big data intelligent recommendation techniques. It includes obtaining target data, preprocessing it, extracting relevant technology and entity keywords, matching these with preset technical labels, and calculating the similarity between resulting tags to generate a recommendation report.
 
 <img src='./imgs/CN116662991A.png' style="float:right">
 
@@ -173,15 +172,15 @@ This invention presents a method and a computer program product for matching the
 _**Youwei Huang**, Xiaofang Zhao_  
 _CN116662991A_
 
-This invention introduces an artificial intelligence-based method for detecting intents in smart contracts. The process involves preprocessing and cleaning the smart contract code, as well as labeling risky code segments and intent tags. It utilizes a smart contract code encoder, a K-means-based intent highlighting model, and a multi-label classification deep learning model to identify unsafe intents within the smart contracts.
+This invention introduces an AI-based method for detecting intents in smart contracts. The process involves preprocessing and cleaning the smart contracts, as well as labeling risky code snippets and intent tags. It utilizes a smart contract encoder, a K-means-based intent highlighting model, and a multi-label classification deep neural network (DNN) to identify unsafe intents within the smart contracts.
 
 <img src='./imgs/CN117709505A.png' style="float:right">
 
-**[A Method and System for Analyzing Population and Venue Features based on Geneal Wireless Bases](http://epub.cnipa.gov.cn/patent/CN117709505A)**  
+**[A Method and System for Analyzing Population and Venue Features based on Generic Wireless Bases](http://epub.cnipa.gov.cn/patent/CN117709505A)**  
 _**Youwei Huang**, Peiheng Zhang, Xiaofang Zhao, Hongjie Wang, Long Xu_  
 _CN117709505A_
 
-This invention presents a method and system for analyzing population and venue features based on general wireless technologies such as WiFi and Bluetooth. The method involves collecting historical communication data between people and wireless bases, labeling and classifying the characteristics of individuals and venues, and pre-training a model using sequences of historical communication data. The model is then fine-tuned with labels for downstream tasks.
+This invention presents a method and system for analyzing population and venue features using generic wireless technologies such as WiFi and Bluetooth. The method involves collecting historical communication data between individuals and wireless bases, labeling and classifying features of both, pre-training a model with sequences of historical data, and fine-tuning the model for downstream tasks.
 
 <img src='./imgs/CN114201735A.png' style="float:right">
 
@@ -189,7 +188,7 @@ This invention presents a method and system for analyzing population and venue f
 _**Youwei Huang**_  
 _CN114201735A_
 
-This invention introduces a technology for the issuance and verification of e-certificates based on the design and implementation of blockchain smart contracts. It enables the creation of institutional units on the blockchain that generate and issue e-certificates through smart contracts. Institutions can send e-certificates to designated wallet addresses, granting users the ability to securely store and verify their certificates.
+This invention introduces a technology for the issuance and verification of e-certificates based on the design and implementation of blockchain smart contracts. It allows organizations to create units on the blockchain that generate and issue e-certificates through these contracts. Institutions can send e-certificates to designated wallet addresses, enabling users to securely store and verify their certificates.
 
 <img src='./imgs/CN112037924B.png' style="float:right">
 
@@ -197,7 +196,7 @@ This invention introduces a technology for the issuance and verification of e-ce
 _**Youwei Huang**, Ze Zhou, Feng Lu, Huijuan Zhang, Peiheng Zhang_  
 _CN112037924B_
 
-This innovation introduces a GeoHash-based method for analyzing medium- to long-term epidemics. The technique involves dynamically dividing a map into GeoHash blocks and performing quantitative analysis on these blocks to evaluate health and safety metrics for the area and its population.
+This innovation presents a GeoHash-based method for analyzing medium- and long-range epidemic conditions. It dynamically divides a map into GeoHash blocks and conducts quantitative analyses to assess health and safety metrics for both the area and individuals in it.
 
 <img src='./imgs/CN113163336B.png' style="float:right">
 
@@ -205,7 +204,7 @@ This innovation introduces a GeoHash-based method for analyzing medium- to long-
 _**Youwei Huang**, Peiheng Zhang, Liuyi Zhang, Mengli Dang_  
 _CN113163336B_
 
-This invention discloses a contact tracing method based on the construction of a time-series directed relationship network of general base stations. Through the scanning, connection, and access of surrounding general bases such as WiFi, Bluetooth, Personal Hotpot by the user's mobile phone, the contact relationship between users based on time nodes can be traced by processing the association between record bases and users.
+This invention introduces a contact tracing method that constructs a time-sequenced directed relationship network of generic bases. By accessing surrounding base stations, such as WiFi and Bluetooth, with a user's mobile phone, the method traces user contact relationships at specific time points by processing the associations between record bases and users.
 
 <img src='./imgs/CN112203229B.png' style="float:right">
 
@@ -213,7 +212,7 @@ This invention discloses a contact tracing method based on the construction of a
 _Peiheng Zhang, **Youwei Huang**, Liuyi Zhang, Liyuan Liang, Feng Lu, Maolei Huang_  
 _CN112203229B_
 
-This invention offers a Bluetooth-based tracking system for monitoring epidemics within short ranges. It uses app-bound devices to collect contact data, which is then processed on a server and visualized as a network graph. This tool helps health organizations like the CDC to track and monitor the spread of infectious diseases, including COVID-19, in real-time.
+This invention offers a Bluetooth-based tracking system for monitoring short-range epidemics. It utilizes app-bound devices to collect contact data through Bluetooth scanning, which is then processed on a server and visualized as a network graph. This method assists health organizations such as the CDC in tracking and monitoring the spread of infectious diseases, including COVID-19.
 
 ### Papers
 
