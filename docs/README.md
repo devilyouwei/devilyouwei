@@ -1,3 +1,5 @@
+<!-- @format -->
+
 <header>
 <div align="center">
   <img class="avatar" src="./imgs/ava.jpg" />
@@ -10,11 +12,17 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="resume-cn.pdf" target="_blank">中文简历</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="resume-simple.pdf" target="_blank">English CV</a>
+</p>
+
 <div class="intro" align="center">
 <p>I work as a research engineer and team lead at the <strong>Institute of Intelligent Computing Technology (IICT), Suzhou, CAS</strong>.</p>
 <p>My primary research interests are <strong>Large Language Models (LLMs)</strong>, <strong>Blockchain</strong>, and <strong>Software Engineering</strong>.</p>
 <p>I lead various projects aimed at bridging the gap between academic research and industrial applications.</p>
-<p>I actively contribute to open-source projects, publish academic papers, and file innovation patents.</p>
+<p>I actively contribute to open-source projects, publish academic papers, and file invention patents.</p>
 </div>
 
 <div align="center">
@@ -44,7 +52,7 @@
 -   👨 **Gender:** Male
 -   📅 **Birth Date:** April 23, 1995
 -   🌏 **Place of Birth:** Suzhou, China
--   🏛️ **Business Address:** No. 88, Jinjihu Avenue, Suzhou Industrial Park, Jiangsu, China
+-   🏛️ **Business Address:** D1, 88 Jinji Lake Avenue, Suzhou Industrial Park, Suzhou, Jiangsu, China
 -   📧 **Email:** [huangyw@iict.ac.cn](mailto:huangyw@iict.ac.cn)
 -   😺 **GitHub:** <https://github.com/devilyouwei>
 -   💬 **LLM Avatar:** <https://chat.devil.ren>
@@ -53,38 +61,39 @@
 ## Education
 
 **Macau University of Science and Technology**  
-_Ph.D. Candidate in Software Engineering_
+_Ph.D. Candidate_
 
 -   **Duration:** January 2022 – Quit
 -   **Location:** Taipa, Macao SAR
 -   **Interests:** Deep Learning, Blockchain, Software Engineering
 
 **Monmouth University**  
-_Master's Degree in Software Engineering (ABET Accredited)_
+_Master of Science in Software Engineering (ABET Accredited Program)_
 
 -   **Duration:** September 2019 – August 2020
 -   **Location:** NJ, USA
 -   **Interests:** Software Engineering, Web Development, Blockchain
 
 **Changshu Institute of Technology**  
-_Bachelor's Degree in Software Engineering_
+_Bachelor of Engineering in Software Engineering_
 
 -   **Duration:** September 2013 – June 2018
 -   **Location:** Suzhou, China
+-   One-year gap for **entrepreneurship**
 
 ## Work Experience
 
 **Institute of Intelligent Computing Technology, Suzhou, CAS**  
-**Institute of Computing Technology, Chinese Academy of Sciences (Suzhou branch)**
+**Suzhou, Institute of Computing Technology, Chinese Academy of Sciences**
 
--   **Position:** Research Engineer, Project Manager, Team Lead
+-   **Title:** Research Engineer & Team Lead
 -   **Duration:** May 2020 – Present
--   **Location:** No. 88, Jinjihu Avenue, Suzhou Industrial Park, Suzhou, Jiangsu, China
--   **Duties:** Conduct research in deep learning and blockchain; manage projects and teams
+-   **Location:** D1, 88, Jinji Lake Avenue, Suzhou Industrial Park, Suzhou, Jiangsu, China
+-   **Duties:** Conduct research in AI and blockchain; manage projects and teams
 
 **Shanghai LeMiao Network Technology Company**
 
--   **Position:** Software Engineer
+-   **Title:** Software Engineer
 -   **Duration:** June 2018 – August 2019
 -   **Location:** Shanghai, China
 -   **Duties:** Developed web applications and games; implemented DevOps practices
@@ -108,7 +117,7 @@ LeChat is an AI-driven document parsing and chat platform utilizing multiple LLM
 **AI for SE Research - Web3 Software Engineering**  
 _Jan 2022 – Present_  
 _Macau University of Science and Technology_  
-_Supervisor: Associate Professor Tao Zhang_
+_Supervisor: [Associate Professor Tao Zhang](https://cszhangtao.github.io)_
 
 Traditional software engineering (SE) models, methods, and tools are increasingly inadequate for developing blockchain-based Web3 applications. Our research focuses on AI for Web3 SE, applying deep learning techniques to address challenges in Web3 development. We have just started our research on Web3 SE, currently focusing on the detection, repair, and generation of smart contracts.
 
@@ -123,27 +132,27 @@ Traditional software engineering (SE) models, methods, and tools are increasingl
 **Blockchain Project - Application of Blockchain in Medical Health**  
 _May 2021 – Oct 2023_  
 _Institute of Intelligent Computing Technology, Suzhou, CAS_  
-_Supervisor: Professor Xiaofang Zhao_
+_Supervisor: [Professor Xiaofang Zhao](http://english.ict.cas.cn/people/scien/bln/202303/t20230314_328168.html)_
 
 We developed LeChain, a consortium blockchain specifically designed for healthcare applications. It establishes a trusted network among hospitals, patients, insurance companies, and health commissions. LeChain leverages blockchain's immutable and traceable features to ensure secure and reliable verification of medical data exchange.
 
 -   Won the **"2022 Jiangsu Province Blockchain Industry Development Pilot Demonstration Project"** award
 -   Published several technical white papers
 -   Secured five invention patents
--   Incubated a blockchain technology team and company: <https://www.cas-ll.com/team>
+-   Incubated a blockchain technology company: [Suzhou Zhongke Lelian Information Technology Co., Ltd](https://www.cas-ll.com/team)
 
 ---
 
 **Big Data Project - Precise Epidemic Prevention and Control**  
 _May 2020 – May 2021_  
 _Institute of Intelligent Computing Technology, Suzhou, CAS_  
-_Supervisor: Professor Peiheng Zhang_
+_Supervisor: [Professor Peiheng Zhang](https://scholar.google.com/citations?user=U022_aEAAAAJ&hl=en)_
 
 This project applied big data to epidemic prevention efforts. We developed two core technologies: First, we employed GeoHash to dynamically segment regions and quantify health and safety metrics for both areas and individuals. Second, we utilized Generic Wireless Base technologies, such as Bluetooth and WiFi, to construct anonymous contact networks for tracing virus transmission paths.
 
 -   Supported government efforts during the COVID-19 pandemic
 -   Published the paper **"Precise Epidemic Control based on GeoHash"** at DSA2022
--   Secured four patents, with three granted
+-   Secured four invention patents, with three granted
 -   Selected for the **"2021 Youth Talent Support Project of the Suzhou Association for Science and Technology"**
 
 ## Publications
