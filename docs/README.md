@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="resume-cn.pdf" target="_blank">中文简历</a>
+  <a href="https://devilyouwei.github.io/resume-cn.pdf" target="_blank">中文简历</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="resume-simple.pdf" target="_blank">English CV</a>
+  <a href="https://devilyouwei.github.io/resume-en.pdf" target="_blank">English CV</a>
 </p>
 
 <div class="intro" align="center">
