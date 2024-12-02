@@ -53,9 +53,9 @@
 -   📅 **Birth Date:** April 23, 1995
 -   🌏 **Place of Birth:** Suzhou, China
 -   🏛️ **Business Address:** D1, 88 Jinji Lake Avenue, Suzhou Industrial Park, Suzhou, Jiangsu, China
--   📧 **Email:** [huangyw@iict.ac.cn](mailto:huangyw@iict.ac.cn)
+-   📧 **Email:** [devilyouwei@foxmail.com](mailto:devilyouwei@foxmail.com)
 -   😺 **GitHub:** <https://github.com/devilyouwei>
--   💬 **LLM Avatar:** <https://chat.devil.ren>
+-   🤖 **LLM Avatar:** <https://chat.devil.ren>
 -   🧑‍💻 **Tech Stack:** Linux, Vim, Node.js, Vue.js, Python, TensorFlow, Solidity, Java, PHP, Docker, SQL, _etc._
 
 ## Education
@@ -139,7 +139,7 @@ We developed LeChain, a consortium blockchain specifically designed for healthca
 -   Won the **"2022 Jiangsu Province Blockchain Industry Development Pilot Demonstration Project"** award
 -   Published several technical white papers
 -   Secured five invention patents
--   Incubated a blockchain technology company: [Suzhou Zhongke Lelian Information Technology Co., Ltd](https://www.cas-ll.com/team)
+-   Incubated an developed a technology company: [Suzhou Zhongke Lelian Information Technology Co., Ltd](https://www.cas-ll.com/team)
 
 ---
 
