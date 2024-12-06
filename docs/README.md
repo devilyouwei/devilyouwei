@@ -19,7 +19,7 @@
 </p>
 
 <div class="intro" align="center">
-<p>I work as a research engineer and team lead at the <strong>Institute of Intelligent Computing Technology (IICT), Suzhou, CAS</strong>.</p>
+<p>I work as a research engineer & team lead at the <strong>Institute of Intelligent Computing Technology (IICT), Suzhou, CAS</strong>.</p>
 <p>My primary research interests are <strong>Large Language Models (LLMs)</strong>, <strong>Blockchain</strong>, and <strong>Software Engineering</strong>.</p>
 <p>I lead various projects aimed at bridging the gap between academic research and industrial applications.</p>
 <p>I actively contribute to open-source projects, publish academic papers, and file invention patents.</p>
@@ -63,7 +63,7 @@
 **Macau University of Science and Technology**  
 _Ph.D. Candidate_
 
--   **Duration:** January 2022 – Quit
+-   **Duration:** January 2022 – Withdrawn
 -   **Location:** Taipa, Macao SAR
 -   **Interests:** Deep Learning, Blockchain, Software Engineering
 
@@ -84,11 +84,11 @@ _Bachelor of Engineering in Software Engineering_
 ## Work Experience
 
 **Institute of Intelligent Computing Technology, Suzhou, CAS**  
-**Suzhou, Institute of Computing Technology, Chinese Academy of Sciences**
+**Suzhou Branch, Institute of Computing Technology, Chinese Academy of Sciences**
 
 -   **Title:** Research Engineer & Team Lead
 -   **Duration:** May 2020 – Present
--   **Location:** D1, 88, Jinji Lake Avenue, Suzhou Industrial Park, Suzhou, Jiangsu, China
+-   **Location:** D1, 88 Jinji Lake Avenue, Suzhou Industrial Park, Suzhou, Jiangsu, China
 -   **Duties:** Conduct research in AI and blockchain; manage projects and teams
 
 **Shanghai LeMiao Network Technology Company**
@@ -106,7 +106,7 @@ _Institute of Intelligent Computing Technology, Suzhou, CAS_
 
 LeChat is an AI-driven document parsing and chat platform utilizing multiple LLMs and knowledge graphs. It helps users comprehend document contexts efficiently and generate relevant content. LeChat features include parsing Office files, recognizing images, interpreting semantics, and generating text, images, and charts based on user prompts.
 
--   Launched **UniAI**, the backend technology of LeChat, integrating hybrid LLMs and knowledge graphs
+-   Launched **UniAI**, the backend technology of LeChat, integrating multiple LLMs and knowledge graphs
 -   Transformed foundational technologies into three commercial projects
 -   Honored with the **"AIAC 2024 Outstanding Individual in Artificial Intelligence"** award in Beijing
 -   **UniAI** repositories: <https://github.com/orgs/uniai-lab/repositories>
@@ -139,7 +139,7 @@ We developed LeChain, a consortium blockchain specifically designed for healthca
 -   Won the **"2022 Jiangsu Province Blockchain Industry Development Pilot Demonstration Project"** award
 -   Published several technical white papers
 -   Secured five invention patents
--   Incubated an developed a technology company: [Suzhou Zhongke Lelian Information Technology Co., Ltd](https://www.cas-ll.com/team)
+-   Incubated and developed a technology company: [Suzhou Zhongke Lelian Information Technology Co., Ltd](https://www.cas-ll.com/team)
 
 ---
 
@@ -228,7 +228,7 @@ This invention offers a Bluetooth-based tracking system for monitoring short-ran
 <a style="float:right" href="https://arxiv.org/abs/2211.10724" target="_blank">Link</a>
 **Deep Smart Contract Intent Detection**  
 _**Youwei Huang**, Sen Fang, Jianwen Li, Jiachun Tao, Bin Hu, Tao Zhang_  
-_arXiv preprint, 2022, arXiv:2211.10724_
+_Accepted, IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER), 2025_
 
 <a style="float:right" href="https://arxiv.org/abs/2211.13670" target="_blank">Link</a>
 **SmartIntentNN: Towards Smart Contract Intent Detection**  
@@ -237,12 +237,12 @@ _arXiv preprint, 2022, arXiv:2211.13670_
 
 **A Chain Division-based Vertical Scalability Method of Hyperledger Fabric**  
 _Bin Hu, **Youwei Huang**, Xiaolong Sang_  
-_Chinese High Technology Letters, 2025, Issue 5_
+_Accepted, Chinese High Technology Letters, 2025_
 
 <a style="float:right" href="https://ieeexplore.ieee.org/document/9914539" target="_blank">Link</a>
 **Precise Epidemic Control based on GeoHash**  
 _**Youwei Huang**, Feng Lu, Xiaolong Sang, Bin Hu, Jiachun Tao_  
-_IEEE, 2022 9th International Conference on Dependable Systems and Their Applications (DSA), Page 1040-1048_
+_IEEE 9th International Conference on Dependable Systems and Their Applications (DSA), 2022, Page 1040-1048_
 
 <a style="float:right" href="https://wf.pub/perios/article:rjdk201901007" target="_blank">Link</a>
 **Financial Data Prediction System Based on Recurrent Neural Networks**  
