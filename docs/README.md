@@ -121,7 +121,7 @@ _Supervisor: [Associate Professor Tao Zhang](https://cszhangtao.github.io)_
 
 Traditional software engineering (SE) models, methods, and tools are increasingly inadequate for developing blockchain-based Web3 applications. Our research focuses on AI for Web3 SE, applying deep learning techniques to address challenges in Web3 development. We have just started our research on Web3 SE, currently focusing on the detection, repair, and generation of smart contracts.
 
--   **SmartIntentNN:** A DNN-based approach for detecting unsafe development intents in smart contracts
+-   **SmartIntentNN:** A deep learning model for detecting unsafe development intents in smart contracts
 -   **SmartBERT:** A pre-trained programming language model for learning representations of smart contracts
 -   Hugging Face: <https://huggingface.co/web3se/SmartBERT-v2>
 -   GitHub Repository: <https://github.com/web3se-lab/web3-sekit>
@@ -197,7 +197,7 @@ This invention presents a method and system for analyzing population and venue f
 _**Youwei Huang**_  
 _CN114201735A_
 
-This invention introduces a technology for the issuance and verification of e-certificates based on the design and implementation of blockchain smart contracts. It allows organizations to create units on the blockchain that generate and issue e-certificates through these contracts. Institutions can send e-certificates to designated wallet addresses, enabling users to securely store and verify their certificates.
+This invention introduces a technology for the issuance and verification of e-certificates based on the design and implementation of blockchain smart contracts. It allows organizations to create units on the blockchain that generate and issue e-certificates through these contracts. Institutions can send e-certificates to designated wallet addresses. Users can securely store and verify their certificates.
 
 <img src='./imgs/CN112037924B.png' style="float:right">
 
@@ -245,11 +245,31 @@ _**Youwei Huang**, Feng Lu, Xiaolong Sang, Bin Hu, Jiachun Tao_
 _IEEE 9th International Conference on Dependable Systems and Their Applications (DSA), 2022, Page 1040-1048_
 
 <a style="float:right" href="https://wf.pub/perios/article:rjdk201901007" target="_blank">Link</a>
-**Financial Data Prediction System Based on Recurrent Neural Networks**  
+**Financial Data Forecasting System Based on Recurrent Neural Network**  
 _**Youwei Huang**, Yan Gao_  
-_Software Guide, 2019, Page 28-33_
+_Software Guide, 2019, Volume 18, Issue 1, Page 28-33_
 
 <a style="float:right" href="https://wf.pub/perios/article:jsjyyyj201508049" target="_blank">Link</a>
 **Hidden Markov Model-based Multi-node Fusion Decision Concurrent Troubleshooting**  
 _Jian Zhou, Genlin Zhao, **Youwei Huang**_  
-_Application Research of Computers, 2015, Page 2447-2449,2453_
+_Application Research of Computers, 2015, Volume 32, Issue 8, Page 2447-2449_
+
+# Awards & Certificates
+
+<a style="float:right" href="https://baijiahao.baidu.com/s?id=1810948120571847856" target="_blank">Link</a>
+**AIAC AI Excellence Award** - 2024 Outstanding Individual in Artificial Intelligence  
+_Individual Award, Sep 2024_  
+Organizing Committee of Artificial Intelligence Application Conference (AIAC)
+
+**Intermediate Professional Technical Qualification Certificate** - Engineer at IICT (eq. to Assistant Professor)  
+_Individual Certificate, Aug 2024_  
+Suzhou Municipal Bureau of Human Resources and Social Security
+
+**2022 Jiangsu Province Blockchain Industry Development Pilot Demonstration Project**  
+LeChain Commercial Health Insurance Service Consortium Blockchain System and Application Demonstration  
+ _Team Award, Aug 2022_  
+ Industry and Information Technology Department of Jiangsu Province
+
+**2021 Youth Talent Support Project of the Suzhou Association for Science and Technology**  
+_Individual Award, Dec 2021_  
+Suzhou Association for Science and Technology
