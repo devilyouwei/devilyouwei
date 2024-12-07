@@ -1,5 +1,3 @@
-<!-- @format -->
-
 <header>
 <div align="center">
   <img class="avatar" src="./imgs/ava.jpg" />
@@ -254,22 +252,61 @@ _Software Guide, 2019, Volume 18, Issue 1, Page 28-33_
 _Jian Zhou, Genlin Zhao, **Youwei Huang**_  
 _Application Research of Computers, 2015, Volume 32, Issue 8, Page 2447-2449_
 
-# Awards & Certificates
+## Honors & Credentials
 
-<a style="float:right" href="https://baijiahao.baidu.com/s?id=1810948120571847856" target="_blank">Link</a>
+### Professional
+
+<a style="float:right" href="https://www.sohu.com/a/810347808_121345555" target="_blank">Link</a>
 **AIAC AI Excellence Award** - 2024 Outstanding Individual in Artificial Intelligence  
 _Individual Award, Sep 2024_  
-Organizing Committee of Artificial Intelligence Application Conference (AIAC)
+Organizing Committee of the Artificial Intelligence Application Conference (AIAC)
 
-**Intermediate Professional Technical Qualification Certificate** - Engineer at IICT (eq. to Assistant Professor)  
+**Jiangsu Province Intermediate Professional Technical Qualification Certificate**  
+**Engineer (eq. to Assistant Professor)** at the Institute of Intelligent Computing Technology, Suzhou, CAS  
 _Individual Certificate, Aug 2024_  
 Suzhou Municipal Bureau of Human Resources and Social Security
 
 **2022 Jiangsu Province Blockchain Industry Development Pilot Demonstration Project**  
 LeChain Commercial Health Insurance Service Consortium Blockchain System and Application Demonstration  
- _Team Award, Aug 2022_  
- Industry and Information Technology Department of Jiangsu Province
+_Team Award, Aug 2022_  
+Industry and Information Technology Department of Jiangsu Province
 
 **2021 Youth Talent Support Project of the Suzhou Association for Science and Technology**  
 _Individual Award, Dec 2021_  
 Suzhou Association for Science and Technology
+
+### College
+
+<a style="float:right" href="https://www.monmouth.edu/news/computer-science-students-win-monmouths-techpitch-competition-with-sailing-app/" target="_blank">Link</a>
+**Monmouth University "TechPitch" Competition Second Place** - "Quick Bytes"  
+_Team Award, Oct 2019_  
+Leon Hess Business School at Monmouth University
+
+**Second Prize for Outstanding Undergraduate Graduation Project (Thesis)**  
+Design and Implementation of a Price Trend Forecasting System Based on E-commerce Big Data  
+_Individual Award, Jun 2018_  
+Changshu Institute of Technology
+
+**The 5th National Undergraduate E-commerce "Innovation, Creativity and Entrepreneurship" Challenge Competition Grand Prize**  
+Jiangsu Provincial Selection Competition - "Bright Career"  
+_Team Award, 2015_  
+Organizing Committee of the 5th China National Undergraduate E-commerce "Innovation, Creativity and Entrepreneurship" Challenge Jiangsu Provincial Selection Competition
+
+<a style="float:right" href="https://www.jsenews.com/news/gx/201511/t20151123_2528810.shtml" target="_blank">Link</a>
+**First Prize in the 2015 College Students' Entrepreneurship and Innovation Competition (Eastern Division)** - "Bright Career"  
+_Team Award, Sep 2015_  
+Suzhou Municipal Bureau of Human Resources and Social Security
+
+**Outstanding Project Award in the "Wealth Creation Zhenjiang" Entrepreneurship Competition** - "Bright Career"  
+_Team Award, Aug 2015_  
+Office of Zhenjiang Entrepreneurial City Construction Leading Group
+
+**Third Prize in the 2015 (8th) China College Student Computer Design Competition** - "Public Crowdfunding Website"  
+_Team Award, Aug 2015_  
+Jointly organized by: Steering Committee for Computer Majors in Higher Education, Ministry of Education; Steering Committee for Software Engineering Majors in Higher Education, Ministry of Education; Steering Committee for University Computer Courses in Higher Education, Ministry of Education; Sub-steering Committee for Basic Computer Education in the Liberal Arts, Ministry of Education; China Educational Television  
+Organizing Committee of the China College Student Computer Design Competition
+
+**China Students Service Outsourcing Innovation and Entrepreneurship Competition Team Excellence Award** - "Open Theme Group"  
+_Team Award, Sep 2014_  
+Jointly hosted by the Ministry of Education of the People's Republic of China, the Ministry of Commerce of the People's Republic of China, and the People's Government of Wuxi  
+Organizing Committee of the China Students Service Outsourcing Innovation and Entrepreneurship Competition
