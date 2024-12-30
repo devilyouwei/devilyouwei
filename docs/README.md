@@ -1,3 +1,5 @@
+<!-- @format -->
+
 <header>
 <div align="center">
   <img class="avatar" src="./imgs/ava.jpg" />
@@ -156,6 +158,22 @@ This project applied big data to epidemic prevention efforts. We developed two c
 ## Publications
 
 ### Patents
+
+<img src='./imgs/CN119210677A.png' style="float:right">
+
+**[A Blockchain-Based Method and System for Evidence Preservation](http://epub.cnipa.gov.cn/patent/CN119210677A)**  
+_**Youwei Huang**, Bin Hu, Xiaolong Sang, Xiaofang Zhao, zhong Zeng_  
+_CN119210677A_
+
+This invention presents a blockchain method for evidence preservation by encrypting data with a random password and then encrypting that password with a public key. Encrypted data and keys are stored on the blockchain using a smart contract. The authorized party obtains and decrypts these to access the original data, ensuring privacy and controlled sharing.
+
+<img src='./imgs/CN119205357A.png' style="float:right">
+
+**[A Blockchain-Based Medical Commercial Insurance Claim Method](http://epub.cnipa.gov.cn/patent/CN119205357A)**  
+_Bin Hu, **Youwei Huang**, Xiaofang Zhao, zhong Zeng, Xiaolong Sang_  
+_CN119205357A_
+
+This invention uses blockchain to streamline medical insurance claims by deploying specialized nodes for all participants. It enhances security and credibility with encryption cards and supervisory nodes. Smart contracts ensure traceable processes and immutable medical records.
 
 <img src='./imgs/CN118821849A.png' style="float:right">
 
