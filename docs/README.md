@@ -162,7 +162,7 @@ This project applied big data to epidemic prevention efforts. We developed two c
 <img src='./imgs/CN119204179A.png' style="float:right">
 
 **[A Method, System, and Storage Medium for Enterprise Industry Chain Association](http://epub.cnipa.gov.cn/patent/CN119204179A)**  
-_**Yingying Cheng**, Peng Yang, Xiang Ao, Youwei Huang, Chaochao Lu, Qing Lyu_  
+_Yingying Cheng, Peng Yang, Xiang Ao, **Youwei Huang**, Chaochao Lu, Qing Lyu_  
 _CN119204179A_
 
 This invention provides a method for enterprise industry chain association by defining a basic industry chain graph and expanding it using a large language model to form an ultimate industry chain graph. It extracts enterprise labels from text data and associates them with the ultimate graph to identify relevant industry chain links, enabling precise and rapid enterprise industry chain association.
