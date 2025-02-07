@@ -49,54 +49,54 @@
 
 ## About
 
--   👨 **Gender:** Male
--   📅 **Birth Date:** April 23, 1995
--   🌏 **Place of Birth:** Suzhou, China
--   🏛️ **Business Address:** D1, 88 Jinji Lake Avenue, Suzhou Industrial Park, Suzhou, Jiangsu, China
--   📧 **Email:** [devilyouwei@foxmail.com](mailto:devilyouwei@foxmail.com)
--   😺 **GitHub:** <https://github.com/devilyouwei>
--   🤖 **LLM Avatar:** <https://chat.devil.ren>
--   🧑‍💻 **Tech Stack:** Linux, Vim, Node.js, Vue.js, Python, TensorFlow, Solidity, Java, PHP, Docker, SQL, _etc._
+- 👨 **Gender:** Male
+- 📅 **Birth Date:** April 23, 1995
+- 🌏 **Place of Birth:** Suzhou, China
+- 🏛️ **Business Address:** D1, 88 Jinji Lake Avenue, Suzhou Industrial Park, Suzhou, Jiangsu, China
+- 📧 **Email:** [devilyouwei@foxmail.com](mailto:devilyouwei@foxmail.com)
+- 😺 **GitHub:** <https://github.com/devilyouwei>
+- 🤖 **LLM Avatar:** <https://chat.devil.ren>
+- 🧑‍💻 **Tech Stack:** Linux, Vim, Node.js, Vue.js, Python, TensorFlow, Solidity, Java, PHP, Docker, SQL, _etc._
 
 ## Education
 
 **Macau University of Science and Technology**  
 _Ph.D. Candidate_
 
--   **Duration:** January 2022 – Withdrawn
--   **Location:** Taipa, Macao SAR
--   **Interests:** Deep Learning, Blockchain, Software Engineering
+- **Duration:** January 2022 – Withdrawn
+- **Location:** Taipa, Macao SAR
+- **Interests:** Deep Learning, Blockchain, Software Engineering
 
 **Monmouth University**  
 _Master of Science in Software Engineering (ABET Accredited Program)_
 
--   **Duration:** September 2019 – August 2020
--   **Location:** NJ, USA
--   **Interests:** Software Engineering, Web Development, Blockchain
+- **Duration:** September 2019 – August 2020
+- **Location:** NJ, USA
+- **Interests:** Software Engineering, Web Development, Blockchain
 
 **Changshu Institute of Technology**  
 _Bachelor of Engineering in Software Engineering_
 
--   **Duration:** September 2013 – June 2018
--   **Location:** Suzhou, China
--   One-year gap for **entrepreneurship**
+- **Duration:** September 2013 – June 2018
+- **Location:** Suzhou, China
+- One-year gap for **entrepreneurship**
 
 ## Work Experience
 
 **Institute of Intelligent Computing Technology, Suzhou, CAS**  
 **Suzhou Branch, Institute of Computing Technology, Chinese Academy of Sciences**
 
--   **Title:** Research Engineer & Team Lead
--   **Duration:** May 2020 – Present
--   **Location:** D1, 88 Jinji Lake Avenue, Suzhou Industrial Park, Suzhou, Jiangsu, China
--   **Duties:** Conduct research in AI and blockchain; manage projects and teams
+- **Title:** Research Engineer & Team Lead
+- **Duration:** May 2020 – Present
+- **Location:** D1, 88 Jinji Lake Avenue, Suzhou Industrial Park, Suzhou, Jiangsu, China
+- **Duties:** Conduct research in AI and blockchain; manage projects and teams
 
 **Shanghai LeMiao Network Technology Company**
 
--   **Title:** Software Engineer
--   **Duration:** June 2018 – August 2019
--   **Location:** Shanghai, China
--   **Duties:** Developed web applications and games; implemented DevOps practices
+- **Title:** Software Engineer
+- **Duration:** June 2018 – August 2019
+- **Location:** Shanghai, China
+- **Duties:** Developed web applications and games; implemented DevOps practices
 
 ## Research & Projects
 
@@ -106,11 +106,11 @@ _Institute of Intelligent Computing Technology, Suzhou, CAS_
 
 LeChat is an AI-driven document parsing and chat platform utilizing multiple LLMs and knowledge graphs. It helps users comprehend document contexts efficiently and generate relevant content. LeChat features include parsing Office files, recognizing images, interpreting semantics, and generating text, images, and charts based on user prompts.
 
--   Launched **UniAI**, the backend technology of LeChat, integrating multiple LLMs and knowledge graphs
--   Transformed foundational technologies into three commercial projects
--   Honored with the **"AIAC 2024 Outstanding Individual in Artificial Intelligence"** award in Beijing
--   **UniAI** repositories: <https://github.com/orgs/uniai-lab/repositories>
--   **LeChat Pro** website: <https://lechat.cas-ll.cn>
+- Launched **UniAI**, the backend technology of LeChat, integrating multiple LLMs and knowledge graphs
+- Transformed foundational technologies into three commercial projects
+- Honored with the **"AIAC 2024 Outstanding Individual in Artificial Intelligence"** award in Beijing
+- **UniAI** repositories: <https://github.com/orgs/uniai-lab/repositories>
+- **LeChat Pro** website: <https://lechat.cas-ll.cn>
 
 ---
 
@@ -121,11 +121,11 @@ _Supervisor: [Associate Professor Tao Zhang](https://cszhangtao.github.io)_
 
 Traditional software engineering (SE) models, methods, and tools are increasingly inadequate for developing blockchain-based Web3 applications. Our research focuses on AI for Web3 SE, applying deep learning techniques to address challenges in Web3 development. We have just started our research on Web3 SE, currently focusing on the detection, repair, and generation of smart contracts.
 
--   **SmartIntentNN:** A deep learning model for detecting unsafe development intents in smart contracts
--   **SmartBERT:** A pre-trained programming language model for learning representations of smart contracts
--   Hugging Face: <https://huggingface.co/web3se/SmartBERT-v2>
--   GitHub Repository: <https://github.com/web3se-lab/web3-sekit>
--   Online Demo: <https://www.web3-se.com>
+- **SmartIntentNN:** A deep learning model for detecting unsafe development intents in smart contracts
+- **SmartBERT:** A pre-trained programming language model for learning representations of smart contracts
+- Hugging Face: <https://huggingface.co/web3se/SmartBERT-v2>
+- GitHub Repository: <https://github.com/web3se-lab/web3-sekit>
+- Online Demo: <https://www.web3-se.com>
 
 ---
 
@@ -136,10 +136,10 @@ _Supervisor: [Professor Xiaofang Zhao](http://english.ict.cas.cn/people/scien/bl
 
 We developed LeChain, a consortium blockchain specifically designed for healthcare applications. It establishes a trusted network among hospitals, patients, insurance companies, and health commissions. LeChain leverages blockchain's immutable and traceable features to ensure secure and reliable verification of medical data exchange.
 
--   Won the **"2022 Jiangsu Province Blockchain Industry Development Pilot Demonstration Project"** award
--   Published several technical white papers
--   Secured five invention patents
--   Incubated and developed a technology company: [Suzhou Zhongke Lelian Information Technology Co., Ltd](https://www.cas-ll.com/team)
+- Won the **"2022 Jiangsu Province Blockchain Industry Development Pilot Demonstration Project"** award
+- Published several technical white papers
+- Secured five invention patents
+- Incubated and developed a technology company: [Suzhou Zhongke Lelian Information Technology Co., Ltd](https://www.cas-ll.com/team)
 
 ---
 
@@ -150,14 +150,22 @@ _Supervisor: [Professor Peiheng Zhang](https://scholar.google.com/citations?user
 
 This project applied big data to epidemic prevention efforts. We developed two core technologies: First, we employed GeoHash to dynamically segment regions and quantify health and safety metrics for both areas and individuals. Second, we utilized Generic Wireless Base technologies, such as Bluetooth and WiFi, to construct anonymous contact networks for tracing virus transmission paths.
 
--   Supported government efforts during the COVID-19 pandemic
--   Published the paper **"Precise Epidemic Control based on GeoHash"** at DSA2022
--   Secured four invention patents, with three granted
--   Selected for the **"2021 Youth Talent Support Project of the Suzhou Association for Science and Technology"**
+- Supported government efforts during the COVID-19 pandemic
+- Published the paper **"Precise Epidemic Control based on GeoHash"** at DSA2022
+- Secured four invention patents, with three granted
+- Selected for the **"2021 Youth Talent Support Project of the Suzhou Association for Science and Technology"**
 
 ## Publications
 
 ### Patents
+
+<img src='./imgs/CN119204179A.png' style="float:right">
+
+**[A Method, System, and Storage Medium for Enterprise Industry Chain Association](http://epub.cnipa.gov.cn/patent/CN119204179A)**  
+_**Yingying Cheng**, Peng Yang, Xiang Ao, Youwei Huang, Chaochao Lu, Qing Lyu_  
+_CN119204179A_
+
+This invention provides a method for enterprise industry chain association by defining a basic industry chain graph and expanding it using a large language model to form an ultimate industry chain graph. It extracts enterprise labels from text data and associates them with the ultimate graph to identify relevant industry chain links, enabling precise and rapid enterprise industry chain association.
 
 <img src='./imgs/CN119210677A.png' style="float:right">
 
