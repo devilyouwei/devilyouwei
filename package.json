@@ -17,24 +17,24 @@
         "@koa/cors": "^5.0.0",
         "app-root-path": "^3.1.0",
         "dotenv": "^16.4.7",
-        "koa": "^2.15.3",
+        "koa": "^2.15.4",
         "koa-bodyparser": "^4.4.1",
         "koa-ip": "^2.1.3",
         "koa-parameter": "^3.0.1",
         "pdf2md-ts": "^1.1.1",
         "showdown": "^2.1.0",
-        "uniai": "^1.10.1",
+        "uniai": "^1.12.3",
         "winston": "^3.17.0"
     },
     "devDependencies": {
         "docsify": "^4.13.1",
         "pm2": "^5.4.3",
-        "@flydotio/dockerfile": "^0.7.4",
+        "@flydotio/dockerfile": "^0.7.8",
         "@types/json-fixer": "^1.6.2",
-        "eslint": "^9.19.0",
+        "eslint": "^9.20.1",
         "nodemon": "^3.1.9",
         "eslint-config-prettier": "^10.0.1",
         "eslint-plugin-prettier": "^5.2.3",
-        "prettier": "^3.4.2"
+        "prettier": "^3.5.1"
     }
 }

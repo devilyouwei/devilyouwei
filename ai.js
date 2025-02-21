@@ -29,11 +29,11 @@ const {
 
 const ai = new UniAI({
     OpenAI: { key: OPENAI_KEY, proxy: OPENAI_API },
-    Google: { key: GOOGLE_AI_KEY.split(','), proxy: GOOGLE_AI_API },
+    Google: { key: GOOGLE_AI_KEY, proxy: GOOGLE_AI_API },
     MoonShot: { key: MOONSHOT_KEY },
     Baidu: { apiKey: BAIDU_API_KEY, secretKey: BAIDU_SECRET_KEY },
     IFlyTek: { appId: FLY_APP_ID, apiKey: FLY_API_KEY, apiSecret: FLY_API_SECRET },
-    GLM: { key: ZHIPU_AI_KEY, local: GLM_API },
+    GLM: { key: ZHIPU_AI_KEY },
     Other: { api: GLM_API }
 })
 
@@ -60,7 +60,7 @@ async function chat(ctx) {
     if (!CV_CN) CV_CN = (await pdf2md(readFileSync(`${ROOT_PATH}/docs/resume-cn.pdf`))).join('\n')
     if (!CV_EN) CV_EN = readFileSync(`${ROOT_PATH}/docs/README.md`, 'utf-8')
 
-    let content = `【重要】现在要求你扮演简历中的主角，回答用户问题。\n`
+    let content = `【重要】请你扮演简历中的主角，回答用户问题。\n`
     content += `提问的用户可能是企业招聘部门、HR、老板、高校导师、其他同行及科研人员等\n`
     content += `以下是你的英文简历的内容：\n${CV_EN}\n`
     content += `以下是你的中文简历的内容：\n${CV_CN}\n`

@@ -19,8 +19,8 @@
 </p>
 
 <div class="intro" align="center">
-<p>I work as a research engineer & team lead at the <strong>Institute of Intelligent Computing Technology (IICT), Suzhou, CAS</strong>.</p>
-<p>My primary research interests are <strong>Large Language Models (LLMs)</strong>, <strong>Blockchain</strong>, and <strong>Software Engineering</strong>.</p>
+<p>I work as an <strong>AI Specialist & Scientist</strong> at <strong>Shenzhen Yuewa Innovation Technology LTD.</strong></p>
+<p>My primary research interests are <strong>Large Language Models (LLMs)</strong>, <strong>Robotics</strong>, and <strong>Software Engineering</strong>.</p>
 <p>I lead various projects aimed at bridging the gap between academic research and industrial applications.</p>
 <p>I actively contribute to open-source projects, publish academic papers, and file invention patents.</p>
 </div>
@@ -52,7 +52,7 @@
 - 👨 **Gender:** Male
 - 📅 **Birth Date:** April 23, 1995
 - 🌏 **Place of Birth:** Suzhou, China
-- 🏛️ **Business Address:** D1, 88 Jinji Lake Avenue, Suzhou Industrial Park, Suzhou, Jiangsu, China
+- 🏛️ **Business Address:**
 - 📧 **Email:** [devilyouwei@foxmail.com](mailto:devilyouwei@foxmail.com)
 - 😺 **GitHub:** <https://github.com/devilyouwei>
 - 🤖 **LLM Avatar:** <https://chat.devil.ren>
@@ -63,7 +63,7 @@
 **Macau University of Science and Technology**  
 _Ph.D. Candidate_
 
-- **Duration:** January 2022 – Withdrawn
+- **Duration:** January 2022 – December 2022 (Withdrawn)
 - **Location:** Taipa, Macao SAR
 - **Interests:** Deep Learning, Blockchain, Software Engineering
 
@@ -83,13 +83,20 @@ _Bachelor of Engineering in Software Engineering_
 
 ## Work Experience
 
+**Shenzhen Yuewa Innovation Technology Company**
+
+- **Title:** AI Specialist & Scientist
+- **Duration:** Feb 2025 – Present
+- **Location:** Shenzhen, China
+- **Duties:** Research solutions for robotic control using LLMs and multi-agent systems
+
 **Institute of Intelligent Computing Technology, Suzhou, CAS**  
-**Suzhou Branch, Institute of Computing Technology, Chinese Academy of Sciences**
+_**Suzhou Branch, Institute of Computing Technology, Chinese Academy of Sciences**_
 
 - **Title:** Research Engineer & Team Lead
-- **Duration:** May 2020 – Present
+- **Duration:** May 2020 – Dec 2024
 - **Location:** D1, 88 Jinji Lake Avenue, Suzhou Industrial Park, Suzhou, Jiangsu, China
-- **Duties:** Conduct research in AI and blockchain; manage projects and teams
+- **Duties:** Conduct research on AI and blockchain; manage projects and teams
 
 **Shanghai LeMiao Network Technology Company**
 
