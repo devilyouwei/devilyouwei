@@ -19,10 +19,10 @@
 </p>
 
 <div class="intro" align="center">
-<p>I work as an <strong>AI Specialist & Scientist</strong> at <strong>Shenzhen Yuewa Innovation Technology LTD.</strong></p>
-<p>My primary research interests are <strong>Large Language Models (LLMs)</strong>, <strong>Robotics</strong>, and <strong>Software Engineering</strong>.</p>
-<p>I lead various projects aimed at bridging the gap between academic research and industrial applications.</p>
-<p>I actively contribute to open-source projects, publish academic papers, and file invention patents.</p>
+  <p>I am an <strong>AI Specialist & Scientist</strong> at <strong>Shenzhen Yuewa Innovation Technology LTD.</strong></p>
+  <p>My main research areas include <strong>Large Language Models (LLMs)</strong>, <strong>Robotics</strong>, and <strong>Web3</strong>.</p>
+  <p>I lead projects to bridge the gap between research and industrial applications.</p>
+  <p>I contribute to open-source projects, publish academic papers, and file invention patents.</p>
 </div>
 
 <div align="center">
