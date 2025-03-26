@@ -19,10 +19,10 @@
 </p>
 
 <div class="intro" align="center">
-  <p>I am an <strong>AI Specialist & Scientist</strong> at <strong>Shenzhen Yuewa Innovation Technology LTD.</strong></p>
+  <p>I am currently an <strong>AI Scientist</strong> at <strong>Shenzhen Yuewa Innovation Technology LTD.</strong></p>
   <p>My main research areas include <strong>Large Language Models (LLMs)</strong>, <strong>Robotics</strong>, and <strong>Web3</strong>.</p>
-  <p>I lead projects to bridge the gap between research and industrial applications.</p>
-  <p>I contribute to open-source projects, publish academic papers, and file invention patents.</p>
+  <p>I lead various projects to bridge the gap between academic research and industrial applications.</p>
+  <p>I actively contribute to open-source projects, publish academic papers, and file invention patents.</p>
 </div>
 
 <div align="center">
@@ -52,7 +52,7 @@
 - 👨 **Gender:** Male
 - 📅 **Birth Date:** April 23, 1995
 - 🌏 **Place of Birth:** Suzhou, China
-- 🏛️ **Business Address:**
+- 🏛️ **Business Address:** Shenzhen, China
 - 📧 **Email:** [devilyouwei@foxmail.com](mailto:devilyouwei@foxmail.com)
 - 😺 **GitHub:** <https://github.com/devilyouwei>
 - 🤖 **LLM Avatar:** <https://chat.devil.ren>
@@ -63,21 +63,21 @@
 **Macau University of Science and Technology**  
 _Ph.D. Candidate_
 
-- **Duration:** January 2022 – December 2022 (Withdrawn)
+- **Duration:** Jan 2022 – Jan 2023 (Withdrawn)
 - **Location:** Taipa, Macao SAR
 - **Interests:** Deep Learning, Blockchain, Software Engineering
 
 **Monmouth University**  
 _Master of Science in Software Engineering (ABET Accredited Program)_
 
-- **Duration:** September 2019 – August 2020
+- **Duration:** Sep 2019 – Aug 2020
 - **Location:** NJ, USA
 - **Interests:** Software Engineering, Web Development, Blockchain
 
 **Changshu Institute of Technology**  
 _Bachelor of Engineering in Software Engineering_
 
-- **Duration:** September 2013 – June 2018
+- **Duration:** Sep 2013 – Jun 2018
 - **Location:** Suzhou, China
 - One-year gap for **entrepreneurship**
 
@@ -88,22 +88,22 @@ _Bachelor of Engineering in Software Engineering_
 - **Title:** AI Specialist & Scientist
 - **Duration:** Feb 2025 – Present
 - **Location:** Shenzhen, China
-- **Duties:** Research solutions for robotic control using LLMs and multi-agent systems
+- **Duties:** Research and implement LLM-based multi-agent robot control
 
 **Institute of Intelligent Computing Technology, Suzhou, CAS**  
 _**Suzhou Branch, Institute of Computing Technology, Chinese Academy of Sciences**_
 
 - **Title:** Research Engineer & Team Lead
 - **Duration:** May 2020 – Dec 2024
-- **Location:** D1, 88 Jinji Lake Avenue, Suzhou Industrial Park, Suzhou, Jiangsu, China
-- **Duties:** Conduct research on AI and blockchain; manage projects and teams
+- **Location:** Suzhou, China
+- **Duties:** Conduct research on AI and blockchain
 
 **Shanghai LeMiao Network Technology Company**
 
 - **Title:** Software Engineer
-- **Duration:** June 2018 – August 2019
+- **Duration:** Jun 2018 – Aug 2019
 - **Location:** Shanghai, China
-- **Duties:** Developed web applications and games; implemented DevOps practices
+- **Duties:** Develop web applications and games
 
 ## Research & Projects
 
@@ -258,7 +258,7 @@ This invention offers a Bluetooth-based tracking system for monitoring short-ran
 
 <a style="float:right" href="https://arxiv.org/abs/2211.10724" target="_blank">Link</a>
 **Deep Smart Contract Intent Detection**  
-_**Youwei Huang**, Sen Fang, Jianwen Li, Jiachun Tao, Bin Hu, Tao Zhang_  
+_**Youwei Huang**, Sen Fang, Jianwen Li, Bin Hu, Jiachun Tao, Tao Zhang_  
 _Accepted, IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER), 2025_
 
 <a style="float:right" href="https://arxiv.org/abs/2211.13670" target="_blank">Link</a>
