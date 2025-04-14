@@ -166,6 +166,12 @@ This project applied big data to epidemic prevention efforts. We developed two c
 
 ### Patents
 
+**[A Retrieval Enhancement Method for Large Models Based on Knowledge Graph and Knowledge Representation](http://epub.cnipa.gov.cn/patent/CN119808914A)**  
+_Dapeng Zhang, **Youwei Huang**, Rui Wang, Ruobo Xu, Wanbin Li, Shiting Xu, Jiaru Wang_  
+_CN119808914A_
+
+This invention enhances retrieval in large models through knowledge graphs and representation. It parses user data to construct a knowledge graph, optimizes queries, and uses multi-level embeddings for precise and rapid retrieval in generative models.
+
 <img src='./imgs/CN119204179A.png' style="float:right">
 
 **[A Method, System, and Storage Medium for Enterprise Industry Chain Association](http://epub.cnipa.gov.cn/patent/CN119204179A)**  
@@ -256,13 +262,11 @@ This invention offers a Bluetooth-based tracking system for monitoring short-ran
 
 ### Papers
 
-<a style="float:right" href="https://arxiv.org/abs/2211.10724" target="_blank">Link</a>
-**Deep Smart Contract Intent Detection**  
+**[Deep Smart Contract Intent Detection](https://arxiv.org/abs/2211.10724)**  
 _**Youwei Huang**, Sen Fang, Jianwen Li, Bin Hu, Jiachun Tao, Tao Zhang_  
 _Accepted, IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER), 2025_
 
-<a style="float:right" href="https://arxiv.org/abs/2211.13670" target="_blank">Link</a>
-**SmartIntentNN: Towards Smart Contract Intent Detection**  
+**[SmartIntentNN: Towards Smart Contract Intent Detection](https://arxiv.org/abs/2211.13670)**  
 _**Youwei Huang**, Sen Fang, Jianwen Li, Bin Hu, Tao Zhang_  
 _arXiv preprint, 2022, arXiv:2211.13670_
 
@@ -270,18 +274,15 @@ _arXiv preprint, 2022, arXiv:2211.13670_
 _Bin Hu, **Youwei Huang**, Xiaolong Sang_  
 _Accepted, Chinese High Technology Letters, 2025_
 
-<a style="float:right" href="https://ieeexplore.ieee.org/document/9914539" target="_blank">Link</a>
-**Precise Epidemic Control based on GeoHash**  
+**[Precise Epidemic Control based on GeoHash](https://ieeexplore.ieee.org/document/9914539)**  
 _**Youwei Huang**, Feng Lu, Xiaolong Sang, Bin Hu, Jiachun Tao_  
 _IEEE 9th International Conference on Dependable Systems and Their Applications (DSA), 2022, Page 1040-1048_
 
-<a style="float:right" href="https://wf.pub/perios/article:rjdk201901007" target="_blank">Link</a>
-**Financial Data Forecasting System Based on Recurrent Neural Network**  
+**[Financial Data Forecasting System Based on Recurrent Neural Network](https://wf.pub/perios/article:rjdk201901007)**  
 _**Youwei Huang**, Yan Gao_  
 _Software Guide, 2019, Volume 18, Issue 1, Page 28-33_
 
-<a style="float:right" href="https://wf.pub/perios/article:jsjyyyj201508049" target="_blank">Link</a>
-**Hidden Markov Model-based Multi-node Fusion Decision Concurrent Troubleshooting**  
+**[Hidden Markov Model-based Multi-node Fusion Decision Concurrent Troubleshooting](https://wf.pub/perios/article:jsjyyyj201508049)**  
 _Jian Zhou, Genlin Zhao, **Youwei Huang**_  
 _Application Research of Computers, 2015, Volume 32, Issue 8, Page 2447-2449_
 
