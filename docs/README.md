@@ -168,97 +168,51 @@ This project applied big data to epidemic prevention efforts. We developed two c
 
 **[A Retrieval Enhancement Method for Large Models Based on Knowledge Graph and Knowledge Representation](http://epub.cnipa.gov.cn/patent/CN119808914A)**  
 _Dapeng Zhang, **Youwei Huang**, Rui Wang, Ruobo Xu, Wanbin Li, Shiting Xu, Jiaru Wang_  
-_CN119808914A_
-
-This invention enhances retrieval in large models through knowledge graphs and representation. It parses user data to construct a knowledge graph, optimizes queries, and uses multi-level embeddings for precise and rapid retrieval in generative models.
-
-<img src='./imgs/CN119204179A.png' style="float:right">
+_CN119808914A, 2024.12.19_
 
 **[A Method, System, and Storage Medium for Enterprise Industry Chain Association](http://epub.cnipa.gov.cn/patent/CN119204179A)**  
 _Yingying Cheng, Peng Yang, Xiang Ao, **Youwei Huang**, Chaochao Lu, Qing Lyu_  
-_CN119204179A_
-
-This invention provides a method for enterprise industry chain association by defining a basic industry chain graph and expanding it using a large language model to form an ultimate industry chain graph. It extracts enterprise labels from text data and associates them with the ultimate graph to identify relevant industry chain links, enabling precise and rapid enterprise industry chain association.
-
-<img src='./imgs/CN119210677A.png' style="float:right">
-
-**[A Blockchain-Based Method and System for Evidence Preservation](http://epub.cnipa.gov.cn/patent/CN119210677A)**  
-_**Youwei Huang**, Bin Hu, Xiaolong Sang, Xiaofang Zhao, zhong Zeng_  
-_CN119210677A_
-
-This invention presents a blockchain method for evidence preservation by encrypting data with a random password and then encrypting that password with a public key. Encrypted data and keys are stored on the blockchain using a smart contract. The authorized party obtains and decrypts these to access the original data, ensuring privacy and controlled sharing.
-
-<img src='./imgs/CN119205357A.png' style="float:right">
-
-**[A Blockchain-Based Medical Commercial Insurance Claim Method](http://epub.cnipa.gov.cn/patent/CN119205357A)**  
-_Bin Hu, **Youwei Huang**, Xiaofang Zhao, zhong Zeng, Xiaolong Sang_  
-_CN119205357A_
-
-This invention uses blockchain to streamline medical insurance claims by deploying specialized nodes for all participants. It enhances security and credibility with encryption cards and supervisory nodes. Smart contracts ensure traceable processes and immutable medical records.
-
-<img src='./imgs/CN118821849A.png' style="float:right">
-
-**[A Model Approach for Representing Smart Contracts](http://epub.cnipa.gov.cn/patent/CN118821849A)**  
-_**Youwei Huang**, Xiaofang Zhao_  
-_CN118821849A_
-
-This invention introduces a method for representing smart contracts by converting their function codes into embedding vectors. The process involves several steps: collecting a large dataset of smart contracts, structuring the code into a tree format, and performing unsupervised training on the function-level code using a masked language model (MLM). The final model is named SmartBERT.
-
-<img src='./imgs/CN118780853A.png' style="float:right">
+_CN119204179A, 2024.08.26_
 
 **[A Method of Supply and Demand Matching for Technological Achievements and Computer Program Product](http://epub.cnipa.gov.cn/patent/CN118780853A)**  
 _Peng Yang, **Youwei Huang**, Yingying Cheng, Runze Chen, Fangbin Ling, Xiang Ao_  
-_CN118780853A_
+_CN118780853A, 2024.07.23_
 
-The invention discloses a method and computer program for matching technology supply and demand, involving big data intelligent recommendation techniques. It includes obtaining target data, preprocessing it, extracting relevant technology and entity keywords, matching these with preset technical labels, and calculating the similarity between resulting tags to generate a recommendation report.
-
-<img src='./imgs/CN116662991A.png' style="float:right">
-
-**[Smart Contract Intent Detection Method Based on Artificial Intelligence](http://epub.cnipa.gov.cn/patent/CN116662991A)**  
+**[A Model Approach for Representing Smart Contracts](http://epub.cnipa.gov.cn/patent/CN118821849A)**  
 _**Youwei Huang**, Xiaofang Zhao_  
-_CN116662991A_
+_CN118821849A, 2024.06.04_
 
-This invention introduces an AI-based method for detecting intents in smart contracts. The process involves preprocessing and cleaning the smart contracts, as well as labeling risky code snippets and intent tags. It utilizes a smart contract encoder, a K-means-based intent highlighting model, and a multi-label classification deep neural network (DNN) to identify unsafe intents within the smart contracts.
-
-<img src='./imgs/CN117709505A.png' style="float:right">
+**[A Blockchain-Based Medical Commercial Insurance Claim Method](http://epub.cnipa.gov.cn/patent/CN119205357A)**  
+_Bin Hu, **Youwei Huang**, Xiaofang Zhao, zhong Zeng, Xiaolong Sang_  
+_CN119205357A, 2023.11.16_
 
 **[A Method and System for Analyzing Population and Venue Features based on Generic Wireless Bases](http://epub.cnipa.gov.cn/patent/CN117709505A)**  
 _**Youwei Huang**, Peiheng Zhang, Xiaofang Zhao, Hongjie Wang, Long Xu_  
-_CN117709505A_
+_CN117709505A, 2023.11.06_
 
-This invention presents a method and system for analyzing population and venue features using generic wireless technologies such as WiFi and Bluetooth. The method involves collecting historical communication data between individuals and wireless bases, labeling and classifying features of both, pre-training a model with sequences of historical data, and fine-tuning the model for downstream tasks.
+**[A Blockchain-Based Method and System for Evidence Preservation](http://epub.cnipa.gov.cn/patent/CN119210677A)**  
+_**Youwei Huang**, Bin Hu, Xiaolong Sang, Xiaofang Zhao, zhong Zeng_  
+_CN119210677A, 2023.11.06_
 
-<img src='./imgs/CN114201735A.png' style="float:right">
+**[Smart Contract Intent Detection Method Based on Artificial Intelligence](http://epub.cnipa.gov.cn/patent/CN116662991A)**  
+_**Youwei Huang**, Xiaofang Zhao_  
+_CN116662991A, 2023.03.29_
 
 **[NFT-based E-certificate Issuance and Verification Approach](http://epub.cnipa.gov.cn/patent/CN114201735A)**  
 _**Youwei Huang**_  
-_CN114201735A_
-
-This invention introduces a technology for the issuance and verification of e-certificates based on the design and implementation of blockchain smart contracts. It allows organizations to create units on the blockchain that generate and issue e-certificates through these contracts. Institutions can send e-certificates to designated wallet addresses. Users can securely store and verify their certificates.
-
-<img src='./imgs/CN112037924B.png' style="float:right">
-
-**[A Method for Medium and Long-Range Epidemic Monitoring and Safety Index Quantification](http://epub.cnipa.gov.cn/patent/CN112037924B)**  
-_**Youwei Huang**, Ze Zhou, Feng Lu, Huijuan Zhang, Peiheng Zhang_  
-_CN112037924B_
-
-This innovation presents a GeoHash-based method for analyzing medium- and long-range epidemic conditions. It dynamically divides a map into GeoHash blocks and conducts quantitative analyses to assess health and safety metrics for both the area and individuals in it.
-
-<img src='./imgs/CN113163336B.png' style="float:right">
+_CN114201735A, 2021.11.30_
 
 **[Contact Tracing Method for Constructing the Time-sequenced Directed Graph Based on Generic Base Stations](http://epub.cnipa.gov.cn/patent/CN113163336B)**  
 _**Youwei Huang**, Peiheng Zhang, Liuyi Zhang, Mengli Dang_  
-_CN113163336B_
-
-This invention introduces a contact tracing method that constructs a time-sequenced directed relationship network of generic bases. By accessing surrounding base stations, such as WiFi and Bluetooth, with a user's mobile phone, the method traces user contact relationships at specific time points by processing the associations between record bases and users.
-
-<img src='./imgs/CN112203229B.png' style="float:right">
+_CN113163336B, 2021.04.09_
 
 **[Method for Constructing a Short-Range Epidemic Transmission Network Based on Bluetooth Scanning](http://epub.cnipa.gov.cn/patent/CN112203229B)**  
 _Peiheng Zhang, **Youwei Huang**, Liuyi Zhang, Liyuan Liang, Feng Lu, Maolei Huang_  
-_CN112203229B_
+_CN112203229B, 2020.09.25_
 
-This invention offers a Bluetooth-based tracking system for monitoring short-range epidemics. It utilizes app-bound devices to collect contact data through Bluetooth scanning, which is then processed on a server and visualized as a network graph. This method assists health organizations such as the CDC in tracking and monitoring the spread of infectious diseases, including COVID-19.
+**[A Method for Medium and Long-Range Epidemic Monitoring and Safety Index Quantification](http://epub.cnipa.gov.cn/patent/CN112037924B)**  
+_**Youwei Huang**, Ze Zhou, Feng Lu, Huijuan Zhang, Peiheng Zhang_  
+_CN112037924B, 2020.07.24_
 
 ### Papers
 
