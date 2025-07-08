@@ -27,14 +27,15 @@
         "winston": "^3.17.0"
     },
     "devDependencies": {
-        "docsify": "^4.13.1",
-        "pm2": "^5.4.3",
         "@flydotio/dockerfile": "^0.7.8",
         "@types/json-fixer": "^1.6.2",
+        "@types/koa": "^2.15.0",
+        "docsify": "^4.13.1",
         "eslint": "^9.20.1",
-        "nodemon": "^3.1.9",
         "eslint-config-prettier": "^10.0.1",
         "eslint-plugin-prettier": "^5.2.3",
+        "nodemon": "^3.1.9",
+        "pm2": "^5.4.3",
         "prettier": "^3.5.1"
     }
 }
