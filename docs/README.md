@@ -111,7 +111,7 @@ _**Suzhou Branch, Institute of Computing Technology, Chinese Academy of Sciences
 _Mar 2023 – Present_  
 _Institute of Intelligent Computing Technology, Suzhou, CAS_
 
-LeChat is an AI-driven document parsing and chat platform utilizing multiple LLMs and knowledge graphs. It helps users comprehend document contexts efficiently and generate relevant content. LeChat features include parsing Office files, recognizing images, interpreting semantics, and generating text, images, and charts based on user prompts.
+LeChat is an LLM-driven document parsing and chat platform utilizing multiple models and knowledge graphs. It helps users comprehend document contexts efficiently and generate relevant content. LeChat features include parsing Office files, recognizing images, interpreting semantics, and generating text, images, and charts based on user prompts.
 
 - Launched **UniAI**, the backend technology of LeChat, integrating multiple LLMs and knowledge graphs
 - Transformed foundational technologies into three commercial projects
@@ -124,7 +124,6 @@ LeChat is an AI-driven document parsing and chat platform utilizing multiple LLM
 **AI for SE Research - Web3 Software Engineering**  
 _Jan 2022 – Present_  
 _Macau University of Science and Technology_  
-_Supervisor: [Associate Professor Tao Zhang](https://cszhangtao.github.io)_
 
 Traditional software engineering (SE) models, methods, and tools are increasingly inadequate for developing blockchain-based Web3 applications. Our research focuses on AI for Web3 SE, applying deep learning techniques to address challenges in Web3 development. We have just started our research on Web3 SE, currently focusing on the detection, repair, and generation of smart contracts.
 
@@ -139,7 +138,6 @@ Traditional software engineering (SE) models, methods, and tools are increasingl
 **Blockchain Project - Application of Blockchain in Medical Health**  
 _May 2021 – Oct 2023_  
 _Institute of Intelligent Computing Technology, Suzhou, CAS_  
-_Supervisor: [Professor Xiaofang Zhao](http://english.ict.cas.cn/people/scien/bln/202303/t20230314_328168.html)_
 
 We developed LeChain, a consortium blockchain specifically designed for healthcare applications. It establishes a trusted network among hospitals, patients, insurance companies, and health commissions. LeChain leverages blockchain's immutable and traceable features to ensure secure and reliable verification of medical data exchange.
 
@@ -153,14 +151,13 @@ We developed LeChain, a consortium blockchain specifically designed for healthca
 **Big Data Project - Precise Epidemic Prevention and Control**  
 _May 2020 – May 2021_  
 _Institute of Intelligent Computing Technology, Suzhou, CAS_  
-_Supervisor: [Professor Peiheng Zhang](https://scholar.google.com/citations?user=U022_aEAAAAJ&hl=en)_
 
 This project applied big data to epidemic prevention efforts. We developed two core technologies: First, we employed GeoHash to dynamically segment regions and quantify health and safety metrics for both areas and individuals. Second, we utilized Generic Wireless Base technologies, such as Bluetooth and WiFi, to construct anonymous contact networks for tracing virus transmission paths.
 
 - Supported government efforts during the COVID-19 pandemic
 - Published the paper **"Precise Epidemic Control based on GeoHash"** at DSA2022
-- Secured four invention patents, with three granted
 - Selected for the **"2021 Youth Talent Support Project of the Suzhou Association for Science and Technology"**
+- Secured four invention patents, with three granted
 
 ## Publications
 
