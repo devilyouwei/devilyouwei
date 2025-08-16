@@ -1,10 +1,8 @@
-<!-- @format -->
-
 # 🤗 Youwei Huang
 
 _Former Research Engineer at the Institute of Intelligent Computing Technology, Suzhou, CAS._
 
-🏠 **Website:** <https://www.devil.ren>  
+🏠 **Home Page:** <https://www.devil.ren>  
 🤖 **LLM Avatar:** <https://chat.devil.ren>
 
 🏛️ **Current Affiliation:** Shenzhen Yuewa Innovation Technology Company  

@@ -4,7 +4,6 @@
     "description": "<h1 align=\"center\" style=\"border: none\"> <img style=\"border-radius:100%;margin-right:10px\" src=\"./img/ava.jpg\" align=\"center\" width=100/> </h1>",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
         "dev": "nodemon app.js",
         "start": "pm2 start app.js",
         "restart": "pm2 restart app",
@@ -23,7 +22,7 @@
         "koa-parameter": "^3.0.1",
         "pdf2md-ts": "^1.1.1",
         "showdown": "^2.1.0",
-        "uniai": "^1.12.3",
+        "uniai": "^1.14.1",
         "winston": "^3.17.0"
     },
     "devDependencies": {
@@ -31,6 +30,7 @@
         "@types/json-fixer": "^1.6.2",
         "@types/koa": "^2.15.0",
         "docsify": "^4.13.1",
+        "docsify-cli": "^4.4.4",
         "eslint": "^9.20.1",
         "eslint-config-prettier": "^10.0.1",
         "eslint-plugin-prettier": "^5.2.3",

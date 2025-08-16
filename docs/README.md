@@ -1,5 +1,3 @@
-<!-- @format -->
-
 <header>
 <div align="center">
   <img class="avatar" src="./imgs/ava.jpg" />
@@ -52,7 +50,6 @@
 - 👨 **Gender:** Male
 - 📅 **Birth Date:** April 23, 1995
 - 🌏 **Place of Birth:** Suzhou, China
-- 🏛️ **Business Address:** Shenzhen, China
 - 📧 **Email:** [devilyouwei@foxmail.com](mailto:devilyouwei@foxmail.com)
 - 😺 **GitHub:** <https://github.com/devilyouwei>
 - 🤖 **LLM Avatar:** <https://chat.devil.ren>
@@ -63,7 +60,7 @@
 **Macau University of Science and Technology**  
 _Ph.D. Candidate_
 
-- **Duration:** Jan 2022 – Jan 2023 (Withdrawn)
+- **Duration:** Jan 2022 – Jan 2023 (Quit)
 - **Location:** Taipa, Macao SAR
 - **Interests:** Deep Learning, Blockchain, Software Engineering
 
@@ -83,81 +80,94 @@ _Bachelor of Engineering in Software Engineering_
 
 ## Work Experience
 
-**Shenzhen Yuewa Innovation Technology Company**
+**Shenzhen Yuewa Innovation Technology Company**  
+_Feb 2025 – Present_
 
 - **Title:** AI Specialist & Scientist
-- **Duration:** Feb 2025 – Present
 - **Location:** Shenzhen, China
-- **Duties:** Research and implement LLM-based multi-agent robot control
+- **Responsibilities:** Research LLM-driven robotic control algorithms; design and implement embodied systems
 
 **Institute of Intelligent Computing Technology, Suzhou, CAS**  
-_**Suzhou Branch, Institute of Computing Technology, Chinese Academy of Sciences**_
+**_Suzhou Branch, Institute of Computing Technology, Chinese Academy of Sciences_**  
+_May 2020 – Dec 2024_
 
 - **Title:** Research Engineer & Team Lead
-- **Duration:** May 2020 – Dec 2024
 - **Location:** Suzhou, China
-- **Duties:** Conduct research on AI and blockchain
+- **Responsibilities:** Lead blockchain and AI research projects; drive advanced technology industrialization
 
-**Shanghai LeMiao Network Technology Company**
+**Shanghai LeMiao Network Technology Company**  
+_Jun 2018 – Aug 2019_
 
 - **Title:** Software Engineer
-- **Duration:** Jun 2018 – Aug 2019
 - **Location:** Shanghai, China
-- **Duties:** Develop web applications and games
+- **Responsibilities:** Develop web applications and online games
 
 ## Research & Projects
 
-**LLM Project - LeChat: Document Parsing and Chat Platform**  
-_Mar 2023 – Present_  
-_Institute of Intelligent Computing Technology, Suzhou, CAS_
+**Robotics Project – CoCo: A Quadruped Spider-Like Robot**  
+_Feb 2025 – Present, Shenzhen Yuewa Innovation Technology Company_
 
-LeChat is an LLM-driven document parsing and chat platform utilizing multiple models and knowledge graphs. It helps users comprehend document contexts efficiently and generate relevant content. LeChat features include parsing Office files, recognizing images, interpreting semantics, and generating text, images, and charts based on user prompts.
+Designed and developed a human-like desktop companion robot for natural language interaction and **on-the-fly** actions.
+Proposed **GhostShell**, an LLM-driven streaming and concurrent embodied programming approach, featuring streaming function calls, multi-channel scheduling algorithms, and dynamic PE trees, integrated into our robot system.
 
-- Launched **UniAI**, the backend technology of LeChat, integrating multiple LLMs and knowledge graphs
+- Online Demonstration: <https://coco-robot.github.io/GhostShell>
+- Published paper: **“GhostShell: Streaming LLM Function Calls for Concurrent Embodied Programming”**
+
+---
+
+**LLM Project – LeChat: Document Parsing and Chat Platform**  
+_Mar 2023 – Dec 2024, Institute of Intelligent Computing Technology, Suzhou, CAS_
+
+Developed an **LLM-driven document parsing and conversational platform** integrating multiple models and knowledge graphs.
+LeChat supports parsing Office files, recognizing images, interpreting semantics, and generating text, images, and charts based on user prompts.
+
+- Launched **UniAI**, the backend integrating multi-LLM and knowledge graph technologies
 - Transformed foundational technologies into three commercial projects
-- Honored with the **"AIAC 2024 Outstanding Individual in Artificial Intelligence"** award in Beijing
-- **UniAI** repositories: <https://github.com/orgs/uniai-lab/repositories>
-- **LeChat Pro** website: <https://lechat.cas-ll.cn>
+- Awarded **“AIAC 2024 Outstanding Individual in Artificial Intelligence”**
+- **UniAI repositories:** <https://github.com/orgs/uniai-lab/repositories>
+- **LeChat Pro website:** <https://lechat.cas-ll.cn>
 
 ---
 
-**AI for SE Research - Web3 Software Engineering**  
-_Jan 2022 – Present_  
-_Macau University of Science and Technology_  
+**AI for Web3 Software Engineering – Smart Contract Security Analysis**  
+_Jan 2022 – Present, Macau University of Science and Technology_
 
-Traditional software engineering (SE) models, methods, and tools are increasingly inadequate for developing blockchain-based Web3 applications. Our research focuses on AI for Web3 SE, applying deep learning techniques to address challenges in Web3 development. We have just started our research on Web3 SE, currently focusing on the detection, repair, and generation of smart contracts.
+Conducting research on **AI for Web3 Software Engineering (SE)**, applying deep learning to support blockchain-based application development.
+Current work focuses on **detection, repair, and generation of smart contracts**.
 
-- **SmartIntentNN:** A deep learning model for detecting unsafe development intents in smart contracts
-- **SmartBERT:** A pre-trained programming language model for learning representations of smart contracts
-- Hugging Face: <https://huggingface.co/web3se/SmartBERT-v2>
+- **SmartIntentNN:** Deep learning model for detecting unsafe development intents in smart contracts
+- **SmartBERT:** Pre-trained language model for smart contract representation learning
+- HuggingFace Model: <https://huggingface.co/web3se/SmartBERT-v3>
 - GitHub Repository: <https://github.com/web3se-lab/web3-sekit>
-- Online Demo: <https://www.web3-se.com>
+- Online Demonstration: <https://www.web3-se.com>
 
 ---
 
-**Blockchain Project - Application of Blockchain in Medical Health**  
-_May 2021 – Oct 2023_  
-_Institute of Intelligent Computing Technology, Suzhou, CAS_  
+**Blockchain Project – Medical and Healthcare Applications**  
+_May 2021 – Oct 2023, Institute of Intelligent Computing Technology, Suzhou, CAS_
 
-We developed LeChain, a consortium blockchain specifically designed for healthcare applications. It establishes a trusted network among hospitals, patients, insurance companies, and health commissions. LeChain leverages blockchain's immutable and traceable features to ensure secure and reliable verification of medical data exchange.
+Developed **LeChain**, a consortium blockchain tailored for healthcare.
+The system builds a trusted network among hospitals, patients, insurers, and health authorities.
+Leveraging blockchain’s **immutability** and **traceability**, LeChain ensures secure and reliable medical data exchange.
 
-- Won the **"2022 Jiangsu Province Blockchain Industry Development Pilot Demonstration Project"** award
-- Published several technical white papers
-- Secured five invention patents
-- Incubated and developed a technology company: [Suzhou Zhongke Lelian Information Technology Co., Ltd](https://www.cas-ll.com/team)
+- Awarded **“2022 Jiangsu Province Blockchain Industry Development Pilot Demonstration Project”**
+- Published multiple technical white papers
+- Secured **five invention patents**
+- Incubated the startup [Suzhou Zhongke Lelian Information Technology Co., Ltd.](https://www.cas-ll.com)
 
 ---
 
-**Big Data Project - Precise Epidemic Prevention and Control**  
-_May 2020 – May 2021_  
-_Institute of Intelligent Computing Technology, Suzhou, CAS_  
+**Big Data Project – Precise Epidemic Prevention and Control**  
+_May 2020 – May 2021, Institute of Intelligent Computing Technology, Suzhou, CAS_
 
-This project applied big data to epidemic prevention efforts. We developed two core technologies: First, we employed GeoHash to dynamically segment regions and quantify health and safety metrics for both areas and individuals. Second, we utilized Generic Wireless Base technologies, such as Bluetooth and WiFi, to construct anonymous contact networks for tracing virus transmission paths.
+Applied big data for epidemic prevention and control. Developed two core technologies:
+(1) **GeoHash-based regional segmentation** to quantify health and safety metrics for areas and individuals;
+(2) **Using Generic Wireless Base (GWB) technology** to reconstruct anonymous epidemic contact networks and trace transmission paths, leveraging Bluetooth, WiFi, cellular base stations, and other signals.
 
-- Supported government efforts during the COVID-19 pandemic
-- Published the paper **"Precise Epidemic Control based on GeoHash"** at DSA2022
-- Selected for the **"2021 Youth Talent Support Project of the Suzhou Association for Science and Technology"**
-- Secured four invention patents, with three granted
+- Supported government response during the COVID-19 pandemic
+- Published paper: **“Precise Epidemic Control based on GeoHash”** (DSA 2022)
+- Selected for **“2021 Youth Talent Support Project, Suzhou Association for Science and Technology”**
+- Secured **four invention patents**, with three granted
 
 ## Publications
 
