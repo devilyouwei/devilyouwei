@@ -14,11 +14,13 @@
   <a href="https://devilyouwei.github.io/resume-cn.pdf" target="_blank">中文简历</a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://devilyouwei.github.io/resume-en.pdf" target="_blank">English CV</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=YM3HzbwAAAAJ&hl=en" target="_blank">Google Scholar</a>
 </p>
 
 <div class="intro" align="center">
-  <p>I am currently an <strong>AI Scientist</strong> at <strong>Shenzhen Yuewa Innovation Technology LTD.</strong></p>
-  <p>My main research areas include <strong>Large Language Models (LLMs)</strong>, <strong>Robotics</strong>, and <strong>Web3</strong>.</p>
+  <p>I am the <strong>AI Tech Director</strong> at <strong>Shenzhen Yuewa Innovation Technology Ltd.</strong></p>
+  <p>My research focuses on <strong>Large Language Models (LLMs)</strong>, <strong>Robotics</strong>, and <strong>Web3</strong>.</p>
   <p>I lead various projects to bridge the gap between academic research and industrial applications.</p>
   <p>I actively contribute to open-source projects, publish academic papers, and file invention patents.</p>
 </div>
@@ -83,9 +85,9 @@ _Bachelor of Engineering in Software Engineering_
 **Shenzhen Yuewa Innovation Technology Company**  
 _Feb 2025 – Present_
 
-- **Title:** AI Specialist & Scientist
+- **Title (Partner-level):** AI Technology Director & AI Scientist
 - **Location:** Shenzhen, China
-- **Responsibilities:** Research LLM-driven robotic control algorithms; design and implement embodied systems
+- **Responsibilities:** Research LLM-driven robotic control algorithms; design and implement embodied methods & systems
 
 **Institute of Intelligent Computing Technology, Suzhou, CAS**  
 **_Suzhou Branch, Institute of Computing Technology, Chinese Academy of Sciences_**  
@@ -108,7 +110,7 @@ _Jun 2018 – Aug 2019_
 _Feb 2025 – Present, Shenzhen Yuewa Innovation Technology Company_
 
 Designed and developed a human-like desktop companion robot for natural language interaction and **on-the-fly** actions.
-Proposed **GhostShell**, an LLM-driven streaming and concurrent embodied programming approach, featuring streaming function calls, multi-channel scheduling algorithms, and dynamic PE trees, integrated into our robot system.
+Proposed **GhostShell**, an LLM-driven streaming and concurrent embodied programming approach, featuring streaming function calls, multi-channel scheduling algorithms, and dynamic prompt trees, integrated into our robot system.
 
 - Online Demonstration: <https://coco-robot.github.io/GhostShell>
 - Published paper: **“GhostShell: Streaming LLM Function Calls for Concurrent Embodied Programming”**
@@ -223,13 +225,21 @@ _CN112037924B, 2020.07.24_
 
 ### Papers
 
+**[GhostShell: Streaming LLM Function Calls for Concurrent Embodied Programming](https://arxiv.org/abs/2508.05298)**  
+_Jian Gong, **Youwei Huang**, Bo Yuan, Ming Zhu, Zhou Liao, Jianhang Liang, Juncheng Zhan, Jinke Wang, Hang Shu, et al._  
+_ArXiv preprint, 2025, arXiv:2508.05298_
+
+**[Smart Contract Intent Detection with Pre-trained Programming Language Model](https://arxiv.org/abs/2508.20086)**  
+_**Youwei Huang**, Jianwen Li, Sen Fang, Yao Li, Peng Yang, Bin Hu, Tao Zhang_  
+_ArXiv preprint, 2025, arXiv:2508.20086_
+
 **[Deep Smart Contract Intent Detection](https://arxiv.org/abs/2211.10724)**  
 _**Youwei Huang**, Sen Fang, Jianwen Li, Bin Hu, Jiachun Tao, Tao Zhang_  
-_Accepted, IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER), 2025_
+_IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER), 2025_
 
 **[SmartIntentNN: Towards Smart Contract Intent Detection](https://arxiv.org/abs/2211.13670)**  
 _**Youwei Huang**, Sen Fang, Jianwen Li, Bin Hu, Tao Zhang_  
-_arXiv preprint, 2022, arXiv:2211.13670_
+_ArXiv preprint, 2022, arXiv:2211.13670_
 
 **A Chain Division-based Vertical Scalability Method of Hyperledger Fabric**  
 _Bin Hu, **Youwei Huang**, Xiaolong Sang_  
