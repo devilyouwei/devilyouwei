@@ -1,3 +1,4 @@
+<header>
 <div align="center">
   <img class="avatar" src="./imgs/ava.jpg" />
 </div>
