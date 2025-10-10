@@ -1,4 +1,3 @@
-<header>
 <div align="center">
   <img class="avatar" src="./imgs/ava.jpg" />
 </div>
@@ -230,7 +229,7 @@ _Jian Gong, **Youwei Huang**, Bo Yuan, Ming Zhu, Zhou Liao, Jianhang Liang, Junc
 _ArXiv preprint, 2025, arXiv:2508.05298_
 
 **[Smart Contract Intent Detection with Pre-trained Programming Language Model](https://arxiv.org/abs/2508.20086)**  
-_**Youwei Huang**, Jianwen Li, Sen Fang, Yao Li, Peng Yang, Bin Hu, Tao Zhang_  
+_**Youwei Huang**, Jianwen Li, Sen Fang, Yao Li, Peng Yang, Bin Hu_
 _ArXiv preprint, 2025, arXiv:2508.20086_
 
 **[Deep Smart Contract Intent Detection](https://arxiv.org/abs/2211.10724)**  
@@ -243,7 +242,7 @@ _ArXiv preprint, 2022, arXiv:2211.13670_
 
 **A Chain Division-based Vertical Scalability Method of Hyperledger Fabric**  
 _Bin Hu, **Youwei Huang**, Xiaolong Sang_  
-_Accepted, Chinese High Technology Letters, 2025_
+_Chinese High Technology Letters, 2025, Volume 35, Issue 9, Page 923-932_
 
 **[Precise Epidemic Control based on GeoHash](https://ieeexplore.ieee.org/document/9914539)**  
 _**Youwei Huang**, Feng Lu, Xiaolong Sang, Bin Hu, Jiachun Tao_  
