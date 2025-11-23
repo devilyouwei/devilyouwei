@@ -1,3 +1,5 @@
+<!-- @format -->
+
 <header>
 <div align="center">
   <img class="avatar" src="./imgs/ava.jpg" />
@@ -230,7 +232,7 @@ _Jian Gong, **Youwei Huang**, Bo Yuan, Ming Zhu, Zhou Liao, Jianhang Liang, Junc
 _ArXiv preprint, 2025, arXiv:2508.05298_
 
 **[Smart Contract Intent Detection with Pre-trained Programming Language Model](https://arxiv.org/abs/2508.20086)**  
-_**Youwei Huang**, Jianwen Li, Sen Fang, Yao Li, Peng Yang, Bin Hu_
+_**Youwei Huang**, Jianwen Li, Sen Fang, Yao Li, Peng Yang, Bin Hu_  
 _ArXiv preprint, 2025, arXiv:2508.20086_
 
 **[Deep Smart Contract Intent Detection](https://arxiv.org/abs/2211.10724)**  
@@ -241,7 +243,7 @@ _IEEE International Conference on Software Analysis, Evolution, and Reengineerin
 _**Youwei Huang**, Sen Fang, Jianwen Li, Bin Hu, Tao Zhang_  
 _ArXiv preprint, 2022, arXiv:2211.13670_
 
-**A Chain Division-based Vertical Scalability Method of Hyperledger Fabric**  
+**[A Chain Division-based Vertical Scalability Method of Hyperledger Fabric](https://www.cnki.com.cn/Article/CJFDTOTAL-GJSX202509001.htm)**  
 _Bin Hu, **Youwei Huang**, Xiaolong Sang_  
 _Chinese High Technology Letters, 2025, Volume 35, Issue 9, Page 923-932_
 
@@ -262,6 +264,7 @@ _Application Research of Computers, 2015, Volume 32, Issue 8, Page 2447-2449_
 ### Professional
 
 <a style="float:right" href="https://www.sohu.com/a/810347808_121345555" target="_blank">Link</a>
+
 **AIAC AI Excellence Award** - 2024 Outstanding Individual in Artificial Intelligence  
 _Individual Award, Sep 2024_  
 Organizing Committee of the Artificial Intelligence Application Conference (AIAC)
@@ -283,6 +286,7 @@ Suzhou Association for Science and Technology
 ### College
 
 <a style="float:right" href="https://www.monmouth.edu/news/computer-science-students-win-monmouths-techpitch-competition-with-sailing-app/" target="_blank">Link</a>
+
 **Monmouth University "TechPitch" Competition Second Place** - "Quick Bytes"  
 _Team Award, Oct 2019_  
 Leon Hess Business School at Monmouth University
@@ -298,6 +302,7 @@ _Team Award, 2015_
 Organizing Committee of the 5th China National Undergraduate E-commerce "Innovation, Creativity and Entrepreneurship" Challenge Jiangsu Provincial Selection Competition
 
 <a style="float:right" href="https://www.jsenews.com/news/gx/201511/t20151123_2528810.shtml" target="_blank">Link</a>
+
 **First Prize in the 2015 College Students' Entrepreneurship and Innovation Competition (Eastern Division)** - "Bright Career"  
 _Team Award, Sep 2015_  
 Suzhou Municipal Bureau of Human Resources and Social Security
