@@ -21,9 +21,9 @@
 </p>
 
 <div class="intro" align="center">
-  <p>I am the <strong>AI Tech Director</strong> at <strong>Shenzhen Yuewa Innovation Technology Ltd.</strong></p>
+  <p>I am the <strong>Technical Partner</strong> at <strong>Shenzhen Yuewa Innovation Technology Co., Ltd.</strong></p>
   <p>My research focuses on <strong>Large Language Models (LLMs)</strong>, <strong>Robotics</strong>, and <strong>Web3</strong>.</p>
-  <p>I lead various projects to bridge the gap between academic research and industrial applications.</p>
+  <p>I lead various projects that bridge the gap between academic research and industrial applications.</p>
   <p>I actively contribute to open-source projects, publish academic papers, and file invention patents.</p>
 </div>
 
@@ -84,12 +84,12 @@ _Bachelor of Engineering in Software Engineering_
 
 ## Work Experience
 
-**Shenzhen Yuewa Innovation Technology Company**  
+**Shenzhen Yuewa Innovation Technology Co., Ltd.**  
 _Feb 2025 – Present_
 
-- **Title (Partner-level):** AI Technology Director & AI Scientist
+- **Title:** Equity Partner & Head of Technology
 - **Location:** Shenzhen, China
-- **Responsibilities:** Research LLM-driven robotic control algorithms; design and implement embodied methods & systems
+- **Responsibilities:** Lead AI and robotics R&D, with a focus on embodied control methods and systems
 
 **Institute of Intelligent Computing Technology, Suzhou, CAS**  
 **_Suzhou Branch, Institute of Computing Technology, Chinese Academy of Sciences_**  
@@ -109,7 +109,7 @@ _Jun 2018 – Aug 2019_
 ## Research & Projects
 
 **Robotics Project – CoCo: A Quadruped Spider-Like Robot**  
-_Feb 2025 – Present, Shenzhen Yuewa Innovation Technology Company_
+_Feb 2025 – Present, Shenzhen Yuewa Innovation Technology Co., Ltd._
 
 Designed and developed a human-like desktop companion robot for natural language interaction and **on-the-fly** actions.
 Proposed **GhostShell**, an LLM-driven streaming and concurrent embodied programming approach, featuring streaming function calls, multi-channel scheduling algorithms, and dynamic prompt trees, integrated into our robot system.
