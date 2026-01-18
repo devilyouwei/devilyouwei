@@ -13,11 +13,21 @@
 </p>
 
 <p align="center">
-  <a href="https://devilyouwei.github.io/resume-cn.pdf" target="_blank">中文简历</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://devilyouwei.github.io/resume-en.pdf" target="_blank">English CV</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?user=YM3HzbwAAAAJ&hl=en" target="_blank">Google Scholar</a>
+  <span>👨 Male</span>
+  &nbsp;&nbsp;
+  <span>🌏 Suzhou, China</span>
+  &nbsp;&nbsp;
+  <span>📅 Apr 23, 1995</span>
+  &nbsp;&nbsp;
+  🐱 <a href="https://github.com/devilyouwei" target="_blank">GitHub</a>
+  &nbsp;&nbsp;
+  🎓 <a href="https://scholar.google.com/citations?user=YM3HzbwAAAAJ&hl=en" target="_blank">Google Scholar</a>
+  &nbsp;&nbsp;
+  🇺🇸 <a href="https://devilyouwei.github.io/resume-en.pdf" target="_blank">English CV</a>
+  &nbsp;&nbsp;
+  🇨🇳 <a href="https://devilyouwei.github.io/resume-cn.pdf" target="_blank">中文简历</a>
+  &nbsp;&nbsp;
+  ️✉️ <a href="mailto:devilyouwei@foxmail.com">Email</a>
 </p>
 
 <div class="intro" align="center">
@@ -30,6 +40,7 @@
 <div align="center">
   <img class="floating" src="./imgs/techstack.png">
 </div>
+
 <div class="tech">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
@@ -49,15 +60,7 @@
 </div>
 </header>
 
-## About
-
-- 👨 **Gender:** Male
-- 📅 **Birth Date:** April 23, 1995
-- 🌏 **Place of Birth:** Suzhou, China
-- 📧 **Email:** [devilyouwei@foxmail.com](mailto:devilyouwei@foxmail.com)
-- 😺 **GitHub:** <https://github.com/devilyouwei>
-- 🤖 **LLM Avatar:** <https://chat.devil.ren>
-- 🧑‍💻 **Tech Stack:** Linux, Vim, Node.js, Vue.js, Python, TensorFlow, Solidity, Java, PHP, Docker, SQL, _etc._
+<!-- About moved to header for compact display -->
 
 ## Education
 
@@ -111,11 +114,12 @@ _Jun 2018 – Aug 2019_
 **Robotics Project – CoCo: A Quadruped Spider-Like Robot**  
 _Feb 2025 – Present, Shenzhen Yuewa Innovation Technology Co., Ltd._
 
-Designed and developed a human-like desktop companion robot for natural language interaction and **on-the-fly** actions.
+Designed and developed a spider-like desktop companion robot for natural language interaction and **on-the-fly** actions.
 Proposed **GhostShell**, an LLM-driven streaming and concurrent embodied programming approach, featuring streaming function calls, multi-channel scheduling algorithms, and dynamic prompt trees, integrated into our robot system.
 
-- Online Demonstration: <https://coco-robot.github.io/GhostShell>
-- Published paper: **“GhostShell: Streaming LLM Function Calls for Concurrent Embodied Programming”**
+- Website: <https://coco-robot.github.io/GhostShell>
+- Paper: **“GhostShell: Streaming LLM Function Calls for Concurrent Embodied Programming”**
+- Videos: [Bilibili](https://space.bilibili.com/3546920081426738)
 
 ---
 
@@ -141,9 +145,9 @@ Current work focuses on **detection, repair, and generation of smart contracts**
 
 - **SmartIntentNN:** Deep learning model for detecting unsafe development intents in smart contracts
 - **SmartBERT:** Pre-trained language model for smart contract representation learning
-- HuggingFace Model: <https://huggingface.co/web3se/SmartBERT-v3>
-- GitHub Repository: <https://github.com/web3se-lab/web3-sekit>
-- Online Demonstration: <https://www.web3-se.com>
+- HuggingFace: <https://huggingface.co/web3se/SmartBERT-v3>
+- GitHub: <https://github.com/web3se-lab/web3-sekit>
+- Website: <https://web3se-lab.github.io>
 
 ---
 
@@ -174,6 +178,40 @@ Applied big data for epidemic prevention and control. Developed two core technol
 - Secured **four invention patents**, with three granted
 
 ## Publications
+
+### Papers
+
+**[GhostShell: Streaming LLM Function Calls for Concurrent Embodied Programming](https://arxiv.org/abs/2508.05298)**  
+_Jian Gong, **Youwei Huang**, Bo Yuan, Ming Zhu, Zhou Liao, Jianhang Liang, Juncheng Zhan, Jinke Wang, Hang Shu, et al._  
+_ArXiv preprint, 2025, arXiv:2508.05298_
+
+**[Smart Contract Intent Detection with Pre-trained Programming Language Model](https://arxiv.org/abs/2508.20086)**  
+_**Youwei Huang**, Jianwen Li, Sen Fang, Yao Li, Peng Yang, Bin Hu_  
+_ArXiv preprint, 2025, arXiv:2508.20086_
+
+**[A Chain Division-based Vertical Scalability Method of Hyperledger Fabric](https://www.cnki.com.cn/Article/CJFDTOTAL-GJSX202509001.htm)**  
+_Bin Hu, **Youwei Huang**, Xiaolong Sang_  
+_Chinese High Technology Letters, 2025, Volume 35, Issue 9, Page 923-932_
+
+**[Deep Smart Contract Intent Detection](https://arxiv.org/abs/2211.10724)**  
+_**Youwei Huang**, Sen Fang, Jianwen Li, Bin Hu, Jiachun Tao, Tao Zhang_  
+_IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER), 2025_
+
+**[SmartIntentNN: Towards Smart Contract Intent Detection](https://arxiv.org/abs/2211.13670)**  
+_**Youwei Huang**, Sen Fang, Jianwen Li, Bin Hu, Tao Zhang_  
+_ArXiv preprint, 2022, arXiv:2211.13670_
+
+**[Precise Epidemic Control based on GeoHash](https://ieeexplore.ieee.org/document/9914539)**  
+_**Youwei Huang**, Feng Lu, Xiaolong Sang, Bin Hu, Jiachun Tao_  
+_IEEE 9th International Conference on Dependable Systems and Their Applications (DSA), 2022, Page 1040-1048_
+
+**[Financial Data Forecasting System Based on Recurrent Neural Network](https://wf.pub/perios/article:rjdk201901007)**  
+_**Youwei Huang**, Yan Gao_  
+_Software Guide, 2019, Volume 18, Issue 1, Page 28-33_
+
+**[Hidden Markov Model-based Multi-node Fusion Decision Concurrent Troubleshooting](https://wf.pub/perios/article:jsjyyyj201508049)**  
+_Jian Zhou, Genlin Zhao, **Youwei Huang**_  
+_Application Research of Computers, 2015, Volume 32, Issue 8, Page 2447-2449_
 
 ### Patents
 
@@ -224,40 +262,6 @@ _CN112203229B, 2020.09.25_
 **[A Method for Medium and Long-Range Epidemic Monitoring and Safety Index Quantification](http://epub.cnipa.gov.cn/patent/CN112037924B)**  
 _**Youwei Huang**, Ze Zhou, Feng Lu, Huijuan Zhang, Peiheng Zhang_  
 _CN112037924B, 2020.07.24_
-
-### Papers
-
-**[GhostShell: Streaming LLM Function Calls for Concurrent Embodied Programming](https://arxiv.org/abs/2508.05298)**  
-_Jian Gong, **Youwei Huang**, Bo Yuan, Ming Zhu, Zhou Liao, Jianhang Liang, Juncheng Zhan, Jinke Wang, Hang Shu, et al._  
-_ArXiv preprint, 2025, arXiv:2508.05298_
-
-**[Smart Contract Intent Detection with Pre-trained Programming Language Model](https://arxiv.org/abs/2508.20086)**  
-_**Youwei Huang**, Jianwen Li, Sen Fang, Yao Li, Peng Yang, Bin Hu_  
-_ArXiv preprint, 2025, arXiv:2508.20086_
-
-**[Deep Smart Contract Intent Detection](https://arxiv.org/abs/2211.10724)**  
-_**Youwei Huang**, Sen Fang, Jianwen Li, Bin Hu, Jiachun Tao, Tao Zhang_  
-_IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER), 2025_
-
-**[SmartIntentNN: Towards Smart Contract Intent Detection](https://arxiv.org/abs/2211.13670)**  
-_**Youwei Huang**, Sen Fang, Jianwen Li, Bin Hu, Tao Zhang_  
-_ArXiv preprint, 2022, arXiv:2211.13670_
-
-**[A Chain Division-based Vertical Scalability Method of Hyperledger Fabric](https://www.cnki.com.cn/Article/CJFDTOTAL-GJSX202509001.htm)**  
-_Bin Hu, **Youwei Huang**, Xiaolong Sang_  
-_Chinese High Technology Letters, 2025, Volume 35, Issue 9, Page 923-932_
-
-**[Precise Epidemic Control based on GeoHash](https://ieeexplore.ieee.org/document/9914539)**  
-_**Youwei Huang**, Feng Lu, Xiaolong Sang, Bin Hu, Jiachun Tao_  
-_IEEE 9th International Conference on Dependable Systems and Their Applications (DSA), 2022, Page 1040-1048_
-
-**[Financial Data Forecasting System Based on Recurrent Neural Network](https://wf.pub/perios/article:rjdk201901007)**  
-_**Youwei Huang**, Yan Gao_  
-_Software Guide, 2019, Volume 18, Issue 1, Page 28-33_
-
-**[Hidden Markov Model-based Multi-node Fusion Decision Concurrent Troubleshooting](https://wf.pub/perios/article:jsjyyyj201508049)**  
-_Jian Zhou, Genlin Zhao, **Youwei Huang**_  
-_Application Research of Computers, 2015, Volume 32, Issue 8, Page 2447-2449_
 
 ## Honors & Credentials
 
