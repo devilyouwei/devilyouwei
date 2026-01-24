@@ -2559,10 +2559,10 @@ open@^6.4.0:
   dependencies:
     is-wsl "^1.1.0"
 
-openai@^5.16.0:
-  version "5.23.2"
-  resolved "https://registry.yarnpkg.com/openai/-/openai-5.23.2.tgz#f13e2dc2ef6b88aab6a9b97cdc68d41a1d083c68"
-  integrity sha512-MQBzmTulj+MM5O8SKEk/gL8a7s5mktS9zUtAkU257WjvobGc9nKcBuVwjyEEcb9SI8a8Y2G/mzn3vm9n1Jlleg==
+openai@^6.10.0:
+  version "6.16.0"
+  resolved "https://registry.npmjs.org/openai/-/openai-6.16.0.tgz#53661d9f6307dc7523e89637ff7c6ccd0be16c67"
+  integrity sha512-fZ1uBqjFUjXzbGc35fFtYKEOxd20kd9fDpFeqWtsOZWiubY8CZ1NAlXHW3iathaFvqmNtCWMIsosCuyeI7Joxg==
 
 opencollective-postinstall@^2.0.2:
   version "2.0.3"
@@ -3603,17 +3603,17 @@ undefsafe@^2.0.5:
   resolved "https://registry.yarnpkg.com/undefsafe/-/undefsafe-2.0.5.tgz#38733b9327bdcd226db889fb723a6efd162e6e2c"
   integrity sha512-WxONCrssBM8TSPRqN5EmsjVrsv4A8X12J4ArBiiayv3DyyG3ZlIg6yysuuSYdZsVz3TKcTg2fd//Ujd4CHV1iA==
 
-uniai@^1.14.1:
-  version "1.17.0"
-  resolved "https://registry.yarnpkg.com/uniai/-/uniai-1.17.0.tgz#30cbd03db222f772eb08bdf42a52d16756a07b7c"
-  integrity sha512-OxmtSnVF+7pus0MDVBF623M4gZWsVtGGyz4ahXOolxkhEW2lg27JZW5avo6mEcvwtMT/rbtAhxo25W7jmpLslg==
+uniai@^1.19.2:
+  version "1.19.2"
+  resolved "https://registry.npmjs.org/uniai/-/uniai-1.19.2.tgz#abf3a867bec21bbc80408d03f1a191748fb17c21"
+  integrity sha512-03i+UelEQIjBRLowhrjBRGM+VV87Ty7esAVuxdtbQQmkHDgfnzGsoB6iDgfFezllljhrZmZlXtf30J2FNY5l3Q==
   dependencies:
     "@server-sent-stream/node" "^1.0.5"
     "@streamparser/json-node" "^0.0.22"
     axios "^1.11.0"
     is-base64 "^1.1.0"
     node-localstorage "^3.0.5"
-    openai "^5.16.0"
+    openai "^6.10.0"
 
 unique-string@^2.0.0:
   version "2.0.0"

@@ -1,7 +1,7 @@
 {
     "name": "devilyouwei",
-    "version": "1.0.0",
-    "description": "<h1 align=\"center\" style=\"border: none\"> <img style=\"border-radius:100%;margin-right:10px\" src=\"./img/ava.jpg\" align=\"center\" width=100/> </h1>",
+    "version": "1.1.0",
+    "description": "https://www.devil.ren",
     "main": "index.js",
     "scripts": {
         "dev": "NODE_ENV=development nodemon app.js",
@@ -22,7 +22,7 @@
         "pino": "^10.0.0",
         "pino-pretty": "^13.1.2",
         "showdown": "^2.1.0",
-        "uniai": "^1.14.1"
+        "uniai": "^1.19.2"
     },
     "devDependencies": {
         "@flydotio/dockerfile": "^0.7.8",
