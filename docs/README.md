@@ -256,6 +256,33 @@ _CN112203229B, 2020.09.25_
 _**Youwei Huang**, Ze Zhou, Feng Lu, Huijuan Zhang, Peiheng Zhang_  
 _CN112037924B, 2020.07.24_
 
+## News
+
+**[Shenzhen: Building a Pioneer City for Artificial Intelligence](http://www.cfgw.net.cn/epaper/content/202506/06/content_71703.htm?cjecjmophdbimgln=)**  
+_**China Reform Daily (中国改革报)**, Paper Media, Jun 6, 2025_  
+_A central-level daily newspaper supervised by the National Development and Reform Commission (NDRC), dedicated to reporting on reform and development._  
+Featured Youwei Huang as the Technical Lead at **LeapWatt**, discussing Shenzhen's AI infrastructure and the future of **Embodied Intelligence**. The report highlighted his philosophy on bridging academic research with industrial applications, specifically citing his **Blue Gorilla PR AI** projects.
+
+**[Blockchain Smart Contract Hidden Risk Research Makes Latest Progress](http://epaper.zqcn.com.cn/content/2025-04/01/content_58589.htm#10006-weixin-1-52626-6b3bffd01fdde4900130bc5a2751b6d1)**  
+_**China Enterprise News (中国企业报)**, Paper Media, Apr 1, 2025_  
+_A central-level newspaper affiliated with the State-owned Assets Supervision and Administration Commission (SASAC), serving as a key platform for enterprises and entrepreneurs._  
+Reported on Youwei Huang's presentation at the **SANER 2025** international conference in Montreal. Detailed his research on **"Deep Smart Contract Intent Detection"**, recognizing his contribution to identifying hidden risks in blockchain systems.
+
+**[Huang Youwei: From Code to Honor, A Full-Stack Engineer's AI Innovation Journey](https://biznews.sohu.com/a/830899761_120932824)**  
+_**Sohu Business (搜狐财经)**, Digital Media, Nov 27, 2024_
+
+**[Huang Youwei: Multi-model Fusion and Knowledge Graph, Driving the New Wave of Large Model Industrialization](https://tech.china.com/article/20241031/102024_1596684.html)**  
+_**China.com (中华网)**, Digital Media, Oct 31, 2024_
+
+**[2024 AI Excellence Award Ceremony Held in Beijing](https://www.sohu.com/a/810347808_121345555)**  
+_**Sohu News (搜狐新闻)**, Digital Media, Sep 20, 2024_
+
+**[IICT Bioinformatics Team Visits Suzhou Institute of Systems Medicine](http://iict.ac.cn/newsinfo/1483257.html)**  
+_**IICT News (中科苏州智能计算技术研究院)**, Digital Media, May 17, 2021_
+
+**[Computer Science Students Win Monmouth’s ‘TechPitch’ Competition with Sailing App](https://www.monmouth.edu/news/computer-science-students-win-monmouths-techpitch-competition-with-sailing-app/)**  
+_**Monmouth University News**, Digital Media, Nov 12, 2019_
+
 ## Honors & Credentials
 
 ### Professional
