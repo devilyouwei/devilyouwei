@@ -87,26 +87,26 @@ _Bachelor of Engineering in Software Engineering_
 
 ## Work Experience
 
-**Shenzhen Yuewa Innovation Technology Co., Ltd.**  
+**Shenzhen Yuewa Innovation Technology Co., Ltd. ([LeapWatt](https://x.com/leapwatt))**  
 _Feb 2025 – Present_
 
 - **Title:** Equity Partner & Head of Technology
 - **Location:** Shenzhen, China
-- **Responsibilities:** Lead AI and robotics R&D, with a focus on embodied control methods and systems
+- **Responsibilities:** Lead technology strategy and company decisions; define AI and robotics roadmap with focus on LLM/VLM, multi-agent systems, and embodied intelligence for diverse platforms such as robotic arms and quadruped robots
 
 **Institute of Intelligent Computing Technology, Suzhou, CAS (IICT)**  
 _Suzhou Branch, Institute of Computing Technology, Chinese Academy of Sciences_  
 _May 2020 – Dec 2024_
 
-- **Title:** Research Engineer (Team Lead)
+- **Title:** Lead Research Engineer
 - **Location:** Suzhou, China
-- **Responsibilities:** Lead blockchain and AI research team; direct cross-disciplinary technology projects; oversee technology transfer and commercialization initiatives
+- **Responsibilities:** Incubate this blockchain technology company; lead technology and R&D project development; deploy blockchain research innovations into commercial healthcare applications 
 
 **Suzhou Zhongke Lelian Information Technology Co., Ltd.**  
 _Subsidiary incubated by IICT_  
 _Jan 2022 – Oct 2022_
 
-- **Title:** Project Manager, Director of Blockchain Technology (concurrent position)
+- **Title:** Director of Blockchain Technology
 - **Location:** Suzhou, China
 - **Responsibilities:** Lead blockchain technology development and productization; bridge research innovations from IICT to commercial applications; manage technical team and project delivery
 
