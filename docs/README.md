@@ -85,7 +85,7 @@ _May 2020 – Dec 2024_
 
 - **Title:** Lead Research Engineer
 - **Location:** Suzhou, China
-- **Responsibilities:** Incubate this blockchain technology company; lead technology and R&D project development; deploy blockchain research innovations into commercial healthcare applications
+- **Responsibilities:** Lead research team in Big Data, AI and blockchain innovation; drive technology transfer and commercialization initiatives; incubate technology subsidiary companies
 
 **Suzhou Zhongke Lelian Information Technology Co., Ltd.**  
 _Subsidiary incubated by IICT_  
@@ -93,7 +93,7 @@ _Jan 2022 – Oct 2022_
 
 - **Title:** Director of Blockchain Technology
 - **Location:** Suzhou, China
-- **Responsibilities:** Lead blockchain technology development and productization; bridge research innovations from IICT to commercial applications; manage technical team and project delivery
+- **Responsibilities:** Incubate this blockchain technology company; lead technology and R&D project development; deploy blockchain research innovations into commercial healthcare applications
 
 **Shanghai LeMiao Network Technology Company**  
 _Jun 2018 – Aug 2019_
