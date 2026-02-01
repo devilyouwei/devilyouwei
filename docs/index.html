@@ -1,153 +1,196 @@
-<!DOCTYPE html>
+<!-- @format -->
+
+<!doctype html>
 <html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Youwei Huang - Technical Partner at LeapWatt | AI, Robotics & Web3 Researcher</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <meta
+            name="description"
+            content="Youwei Huang is the Technical Partner & Head of Technology at LeapWatt. Expert in LLMs, Embodied Robotics (GhostShell), and Web3 security. Former Lead Researcher at CAS. Pioneering AI solutions for industry and investment."
+        />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
 
-<head>
-  <meta charset="UTF-8">
-  <title>Youwei Huang - HomePage</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description"
-    content="Research Engineer and Team Lead at the Institute of Intelligent Computing Technology (IICT), Suzhou, CAS">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+        <!-- SEO Enhancements -->
+        <meta name="robots" content="index, follow" />
+        <meta
+            name="keywords"
+            content="Youwei Huang, devilyouwei, Technical Partner, LeapWatt, AI Expert, Robotics, Embodied Intelligence, LLM, Web3, Smart Contracts, Blockchain, CAS, Chinese Academy of Sciences, Startup Founder, Tech Investment, GhostShell"
+        />
+        <meta property="og:title" content="Youwei Huang - Technical Partner & AI Researcher" />
+        <meta
+            property="og:description"
+            content="Technical Partner at LeapWatt. Leading innovations in LLMs, Robotics, and Web3. Former CAS Researcher with commercialized AI & Blockchain patents."
+        />
+        <meta property="og:type" content="profile" />
+        <meta property="og:url" content="https://www.devil.ren" />
+        <meta property="og:image" content="https://www.devil.ren/imgs/ava.jpg" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="Youwei Huang - Technical Partner & AI Architect" />
+        <meta
+            name="twitter:description"
+            content="Technical Partner at LeapWatt. Bridging Academic Research & Industrial AI in Robotics, LLMs, and Web3."
+        />
+        <meta name="twitter:image" content="https://www.devil.ren/imgs/ava.jpg" />
+        <link rel="canonical" href="https://www.devil.ren" />
 
-  <!-- SEO Enhancements -->
-  <meta name="robots" content="index, follow">
-  <meta name="keywords"
-    content="Youwei Huang, research engineer, ICT, IICT, CAS, LLM, Deep Learning, Blockchain, Web3, Software Engineering">
-  <meta property="og:title" content="Youwei Huang - HomePage">
-  <meta property="og:description"
-    content="Research Engineer and Team Lead at the Institute of Intelligent Computing Technology (IICT), Suzhou, CAS">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://www.devil.ren">
-  <meta property="og:image" content="https://www.devil.ren/imgs/ava.jpg">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Youwei Huang - HomePage">
-  <meta name="twitter:description"
-    content="Research Engineer and Team Lead at the Institute of Intelligent Computing Technology (IICT), Suzhou, CAS">
-  <meta name="twitter:image" content="https://www.devil.ren/imgs/ava.jpg">
-  <link rel="canonical" href="https://www.devil.ren">
+        <link rel="icon" href="/favicon.ico" />
+        <link href="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/themes/vue.min.css" rel="stylesheet" />
+        <style>
+            /* Global Adaptive Typography */
+            html {
+                font-size: clamp(13px, 0.8vw + 0.5rem, 15px);
+            }
 
-  <link rel="icon" href="/favicon.ico">
-  <link href="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/themes/vue.min.css" rel="stylesheet">
-  <!-- 
-  <link
-    href="https://fonts.googleapis.com/css2?family=Georgia:ital,wght@0,400;0,700;1,400;1,700&family=Palatino+Linotype&family=Times+New+Roman:ital,wght@0,400;0,700;1,400;1,700&family=Arial:wght@400;700&family=Verdana:wght@400;700&family=Roboto:wght@300;400;700&family=Merriweather:wght@300;400;700&display=swap"
-    rel="stylesheet">
-  Fonts -->
-  <style>
-    /*
-    body {
-      font-family: 'Merriweather', 'Georgia', 'Palatino Linotype', 'Times New Roman', 'Arial', 'Verdana', 'Roboto', serif;
-      font-size: small
-    }
-      */
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+                font-size: 1rem;
+                line-height: 1.6;
+                color: #333;
+            }
 
-    .content {
-      padding: 0;
-      margin: 0;
-    }
+            .content {
+                padding: 0;
+                margin: 0;
+            }
 
-    .markdown-section {
-      max-width: 920px;
-      padding: 50px 28px;
-    }
+            .markdown-section {
+                max-width: 1000px;
+                padding: 3rem 1.5rem;
+                margin: 0 auto;
+            }
 
-    .markdown-section header h1,
-    .markdown-section header h2,
-    .markdown-section header p {
-      margin: 1rem 0;
-    }
+            /* Optimized Header Styling */
+            .home-header {
+                margin: 0 auto;
+                text-align: center;
+            }
 
-    header .avatar {
-      border-radius: 100%;
-      width: 80px;
-      height: 80px;
-    }
+            .home-header .avatar-wrapper {
+                margin-bottom: 0.8rem;
+            }
 
+            .home-header .avatar {
+                border-radius: 50%;
+                width: 5.5rem; /* ~88px */
+                height: 5.5rem;
+                object-fit: cover;
+                border: 3px solid #fff;
+                box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+                transition: transform 0.3s ease;
+            }
 
-    header .button {
-      background-color: #4CAF50;
-      color: white;
-      padding: 8px 22px;
-      cursor: pointer;
-      border: none;
-      border-radius: 5px;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-      transition: box-shadow 0.3s ease, transform 0.3s ease;
-    }
+            .home-header .avatar:hover {
+                transform: scale(1.05);
+            }
 
-    header .button:hover {
-      box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
-      transform: translateY(-2px) scale(1.1);
-    }
+            .home-header .name {
+                font-size: 1.5rem; /* Reduced from 2rem */
+                margin-top: 0;
+                margin-bottom: 0.5rem;
+                font-weight: bold;
+                color: #333;
+            }
 
-    header .button:active {
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-      transform: translateY(0);
-    }
+            .home-header .cta-wrapper {
+                margin-bottom: 0.8rem;
+            }
 
-    header .name {
-      text-align: center;
-      border: none;
-    }
+            .home-header .button {
+                background-color: #4caf50;
+                color: white;
+                padding: 0.5rem 1.2rem;
+                font-weight: 600;
+                border: none;
+                border-radius: 50px;
+                cursor: pointer;
+                box-shadow: 0 4px 6px rgba(76, 175, 80, 0.3);
+                transition: all 0.3s ease;
+                display: inline-block;
+                text-decoration: none;
+            }
 
-    header .intro {
-      margin: 20px 0 10px 0;
-    }
+            .home-header .button:hover {
+                background-color: #43a047;
+                transform: translateY(-2px);
+                box-shadow: 0 6px 12px rgba(76, 175, 80, 0.4);
+            }
 
-    header .intro p {
-      margin: 0;
-      padding: 0;
-    }
+            /* Info & Social Links */
+            .home-header .info-wrapper {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+                gap: 12px;
+                margin-bottom: 0.8rem;
+                font-size: 0.9rem;
+                color: #666;
+            }
 
-    header .floating {
-      height: 50px;
-      transition: transform 0.3s ease;
-      animation: floating 1.5s ease-in-out infinite;
-    }
+            .home-header .info-wrapper span,
+            .home-header .info-wrapper a {
+                display: inline-flex;
+                align-items: center;
+                white-space: nowrap;
+            }
 
-    @keyframes floating {
-      0% {
-        transform: scale(1);
-        /* 初始状态，大小为1倍 */
-      }
+            .home-header .info-wrapper a.link {
+                text-decoration: none;
+                color: #444;
+                transition: color 0.2s;
+                font-weight: 500;
+                border-bottom: 1px solid transparent;
+            }
 
-      50% {
-        transform: scale(1.1);
-        /* 中间状态，放大为1.1倍 */
-      }
+            .home-header .info-wrapper a.link:hover {
+                color: #4caf50;
+                border-bottom-color: #4caf50;
+            }
 
-      100% {
-        transform: scale(1);
-        /* 最终状态，恢复原大小 */
-      }
-    }
+            /* Intro Text */
+            .home-header .intro {
+                text-align: center;
+                margin-bottom: 0.8rem;
+                color: #555;
+                margin-left: auto;
+                margin-right: auto;
+            }
 
-    header .tech {
-      display: flex;
-      justify-content: center;
-      gap: 10px;
-      overflow: auto;
-      flex-wrap: wrap;
-    }
+            .home-header .intro p {
+                margin: 0;
+            }
 
-    header .tech img {
-      height: 32px;
-    }
-  </style>
-</head>
+            /* Tech Stack */
+            .home-header .tech-stack {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+                gap: 0.6rem;
+            }
 
-<body id="particles-js">
-  <div id="app"></div>
-  <script>
-    window.$docsify = {
-      routerMode: 'history', // 设置路由模式为 history
-      name: 'Youwei Huang',
-      repo: 'https://github.com/devilyouwei'
-    }
-  </script>
-  <!-- Docsify v4 -->
-  <script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/docsify.min.js"></script>
-  <!--
+            .home-header .tech-stack img {
+                height: 1.3rem; /* ~24px */
+                transition: transform 0.2s;
+            }
+
+            .home-header .tech-stack img:hover {
+                transform: translateY(-2px);
+            }
+        </style>
+    </head>
+
+    <body id="particles-js">
+        <div id="app"></div>
+        <script>
+            window.$docsify = {
+                routerMode: 'history', // 设置路由模式为 history
+                name: 'Youwei Huang'
+            }
+        </script>
+        <!-- Docsify v4 -->
+        <script src="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.1/docsify.min.js"></script>
+        <!--
   <script src="https://cdn.bootcdn.net/ajax/libs/typed.js/2.1.0/typed.umd.min.js"></script>
   <script>
     window.onload = (event) => {
@@ -179,10 +222,12 @@
     }
   </script>
   -->
-  <div style="width:60px;position: fixed; right:10px; bottom:10px;">
-    <script type="text/javascript" id="clstr_globe"
-      src="//clustrmaps.com/globe.js?d=Cfir_0OQwh7fhjJrvjzKfRSSpJN3A04HYMjiMxkT6NU"></script>
-  </div>
-</body>
-
+        <div style="width: 60px; position: fixed; right: 10px; bottom: 10px">
+            <script
+                type="text/javascript"
+                id="clstr_globe"
+                src="//clustrmaps.com/globe.js?d=Cfir_0OQwh7fhjJrvjzKfRSSpJN3A04HYMjiMxkT6NU"
+            ></script>
+        </div>
+    </body>
 </html>

@@ -1,62 +1,47 @@
 <!-- @format -->
 
-<header>
-<div align="center">
-  <img class="avatar" src="./imgs/ava.jpg" />
+<header class="home-header">
+<div class="avatar-wrapper">
+  <img class="avatar" src="./imgs/ava.jpg" alt="Youwei Huang" />
 </div>
 <h2 class="name"> 🤗 Hello, I am Youwei Huang </h2>
 
-<p align="center">
+<div class="cta-wrapper">
   <a href="https://chat.devil.ren" target="_blank">
     <button class="button"> 👋 Ask My LLM </button>
   </a>
-</p>
+</div>
 
-<p align="center">
+<div class="info-wrapper">
   <span>👨 Male</span>
-  &nbsp;&nbsp;
   <span>🌏 Suzhou, China</span>
-  &nbsp;&nbsp;
   <span>📅 Apr 23, 1995</span>
-  &nbsp;&nbsp;
-  🐱 <a href="https://github.com/devilyouwei" target="_blank">GitHub</a>
-  &nbsp;&nbsp;
-  🎓 <a href="https://scholar.google.com/citations?user=YM3HzbwAAAAJ&hl=en" target="_blank">Google Scholar</a>
-  &nbsp;&nbsp;
-  🇺🇸 <a href="https://devilyouwei.github.io/resume-en.pdf" target="_blank">English CV</a>
-  &nbsp;&nbsp;
-  🇨🇳 <a href="https://devilyouwei.github.io/resume-cn.pdf" target="_blank">中文简历</a>
-  &nbsp;&nbsp;
-  ️✉️ <a href="mailto:devilyouwei@foxmail.com">Email</a>
-</p>
+  <a class="link" href="https://github.com/devilyouwei" target="_blank">🐱 GitHub</a>
+  <a class="link" href="https://scholar.google.com/citations?user=YM3HzbwAAAAJ&hl=en" target="_blank">🎓 Google Scholar</a>
+  <a class="link" href="https://devilyouwei.github.io/resume-en.pdf" target="_blank">🇺🇸 English CV</a>
+  <a class="link" href="https://devilyouwei.github.io/resume-cn.pdf" target="_blank">🇨🇳 中文简历</a>
+  <a class="link" href="mailto:devilyouwei@foxmail.com">️✉️ Email</a>
+</div>
 
-<div class="intro" align="center">
+<div class="intro">
   <p>I am the <strong>Technical Partner</strong> at <strong>Shenzhen Yuewa Innovation Technology Co., Ltd.</strong></p>
   <p>My research focuses on <strong>Large Language Models (LLMs)</strong>, <strong>Robotics</strong>, and <strong>Web3</strong>.</p>
   <p>I lead various projects that bridge the gap between academic research and industrial applications.</p>
   <p>I actively contribute to open-source projects, publish academic papers, and file invention patents.</p>
 </div>
 
-<div align="center">
-  <img class="floating" src="./imgs/techstack.png">
-</div>
-
-<div class="tech">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<div class="tech-stack">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/-Vim-019733?logo=vim" alt="Vim">
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity" alt="Solidity">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" alt="PHP">
 </div>
 </header>
 
@@ -100,7 +85,7 @@ _May 2020 – Dec 2024_
 
 - **Title:** Lead Research Engineer
 - **Location:** Suzhou, China
-- **Responsibilities:** Incubate this blockchain technology company; lead technology and R&D project development; deploy blockchain research innovations into commercial healthcare applications 
+- **Responsibilities:** Incubate this blockchain technology company; lead technology and R&D project development; deploy blockchain research innovations into commercial healthcare applications
 
 **Suzhou Zhongke Lelian Information Technology Co., Ltd.**  
 _Subsidiary incubated by IICT_  
