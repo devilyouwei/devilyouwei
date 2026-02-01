@@ -94,13 +94,21 @@ _Feb 2025 – Present_
 - **Location:** Shenzhen, China
 - **Responsibilities:** Lead AI and robotics R&D, with a focus on embodied control methods and systems
 
-**Institute of Intelligent Computing Technology, Suzhou, CAS**  
-**_Suzhou Branch, Institute of Computing Technology, Chinese Academy of Sciences_**  
+**Institute of Intelligent Computing Technology, Suzhou, CAS (IICT)**  
+_Suzhou Branch, Institute of Computing Technology, Chinese Academy of Sciences_  
 _May 2020 – Dec 2024_
 
-- **Title:** Research Engineer & Team Lead
+- **Title:** Research Engineer (Team Lead)
 - **Location:** Suzhou, China
-- **Responsibilities:** Lead blockchain and AI research projects; drive advanced technology industrialization
+- **Responsibilities:** Lead blockchain and AI research team; direct cross-disciplinary technology projects; oversee technology transfer and commercialization initiatives
+
+**Suzhou Zhongke Lelian Information Technology Co., Ltd.**  
+_Subsidiary incubated by IICT_  
+_Jan 2022 – Oct 2022_
+
+- **Title:** Project Manager, Director of Blockchain Technology (concurrent position)
+- **Location:** Suzhou, China
+- **Responsibilities:** Lead blockchain technology development and productization; bridge research innovations from IICT to commercial applications; manage technical team and project delivery
 
 **Shanghai LeMiao Network Technology Company**  
 _Jun 2018 – Aug 2019_
