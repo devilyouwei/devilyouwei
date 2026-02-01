@@ -90,7 +90,7 @@ _Bachelor of Engineering in Software Engineering_
 **Shenzhen Yuewa Innovation Technology Co., Ltd. ([LeapWatt](https://x.com/leapwatt))**  
 _Feb 2025 – Present_
 
-- **Title:** Equity Partner & Head of Technology
+- **Title:** Technical Partner, Equity Partner, Head of Technology
 - **Location:** Shenzhen, China
 - **Responsibilities:** Lead technology strategy and company decisions; define AI and robotics roadmap with focus on LLM/VLM, multi-agent systems, and embodied intelligence for diverse platforms such as robotic arms and quadruped robots
 
