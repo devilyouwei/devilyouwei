@@ -107,7 +107,7 @@ _Jun 2018 – Aug 2019_
 **Robotics Project – CoCo: A Quadruped Spider-Like Robot**  
 _Feb 2025 – Present, Shenzhen Yuewa Innovation Technology Co., Ltd._
 
-Designed and developed a spider-like desktop companion robot for natural language interaction and **on-the-fly** actions.
+Designed and developed a spider-like desktop robot for natural language interaction and **on-the-fly** actions.
 Proposed **GhostShell**, an LLM-driven streaming and concurrent embodied programming approach, featuring streaming function calls, multi-channel scheduling algorithms, and dynamic prompt trees, integrated into our robot system.
 
 - Website: <https://coco-robot.github.io/GhostShell>
