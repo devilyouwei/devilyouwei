@@ -70,7 +70,7 @@ _Bachelor of Engineering in Software Engineering_
 - **Location:** Suzhou, China
 - One-year gap for **entrepreneurship**
 
-## Work Experience
+## Professional Experience
 
 **Shenzhen Yuewa Innovation Technology Co., Ltd. ([LeapWatt](https://x.com/leapwatt))**  
 _Feb 2025 – Present_
