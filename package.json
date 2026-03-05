@@ -9,6 +9,7 @@
         "restart": "pm2 restart app",
         "stop": "pm2 stop app",
         "delete": "pm2 delete app",
+        "status": "pm2 status",
         "doc": "docsify serve ./docs"
     },
     "author": "devilyouwei",
