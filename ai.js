@@ -31,8 +31,8 @@ const ai = new UniAI({
     Other: { api: GLM_API }
 })
 
-let CV_CN = ''
-let CV_EN = ''
+const CV_EN = readFileSync(`${ROOT_PATH}/docs/README.md`, 'utf-8')
+const PROMPT = readFileSync(`${ROOT_PATH}/docs/system-prompt.md`, 'utf-8').replace('{{RESUME}}', CV_EN)
 
 async function chat(req) {
     const { input, stream, temperature, top, maxLength } = req.body
@@ -43,13 +43,7 @@ async function chat(req) {
 
     if (!Array.isArray(input)) throw new Error('Input is not array')
 
-    if (!CV_CN) CV_CN = (await pdf2md(readFileSync(`${ROOT_PATH}/docs/resume-cn.pdf`))).join('\n')
-    if (!CV_EN) CV_EN = readFileSync(`${ROOT_PATH}/docs/README.md`, 'utf-8')
-
-    const prompt = readFileSync(`${ROOT_PATH}/docs/system-prompt.md`, 'utf-8')
-    const content = prompt.replace('{{RESUME}}', CV_EN)
-
-    input.unshift({ role: ChatRoleEnum.SYSTEM, content })
+    input.unshift({ role: ChatRoleEnum.SYSTEM, content: PROMPT })
 
     const res = await ai.chat(input, { provider, model, stream, temperature, top, maxLength })
 
