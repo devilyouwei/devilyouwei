@@ -110,8 +110,8 @@ _Feb 2025 – Present, Shenzhen Yuewa Innovation Technology Co., Ltd._
 Designed and developed a spider-like desktop robot for natural language interaction and **on-the-fly** actions.
 Proposed **GhostShell**, an LLM-driven streaming and concurrent embodied programming approach, featuring streaming function calls, multi-channel scheduling algorithms, and dynamic prompt trees, integrated into our robot system.
 
-- Website: <https://coco-robot.github.io/GhostShell>
-- Paper: **“GhostShell: Streaming LLM Function Calls for Concurrent Embodied Programming”**
+- Demo website: <https://coco-robot.github.io/GhostShell>
+- Published paper: **“GhostShell: Streaming LLM Function Calls for Concurrent Embodied Programming”**
 - Videos: [Bilibili](https://space.bilibili.com/3546920081426738)
 
 ---
@@ -127,11 +127,12 @@ LeChat supports parsing Office files, recognizing images, interpreting semantics
 - Awarded **“AIAC 2024 Outstanding Individual in Artificial Intelligence”**
 - **UniAI repositories:** <https://github.com/orgs/uniai-lab/repositories>
 - **LeChat Pro website:** <https://lechat.cas-ll.cn>
+- Secured **3 invention patents**
 
 ---
 
 **AI for Web3 Software Engineering – Smart Contract Security Analysis**  
-_Jan 2022 – Present, Macau University of Science and Technology_
+_Jan 2022 – Dec 2025, Macau University of Science and Technology_
 
 Conducting research on **AI for Web3 Software Engineering (SE)**, applying deep learning to support blockchain-based application development.
 Current work focuses on **detection, repair, and generation of smart contracts**.
@@ -153,7 +154,7 @@ Leveraging blockchain’s **immutability** and **traceability**, LeChain ensures
 
 - Awarded **“2022 Jiangsu Province Blockchain Industry Development Pilot Demonstration Project”**
 - Published multiple technical white papers
-- Secured **five invention patents**
+- Secured **5 invention patents**
 - Incubated the startup [Suzhou Zhongke Lelian Information Technology Co., Ltd.](https://www.cas-ll.com)
 
 ---
@@ -168,7 +169,7 @@ Applied big data for epidemic prevention and control. Developed two core technol
 - Supported government response during the COVID-19 pandemic
 - Published paper: **“Precise Epidemic Control based on GeoHash”** (DSA 2022)
 - Selected for **“2021 Youth Talent Support Project, Suzhou Association for Science and Technology”**
-- Secured **four invention patents**, with three granted
+- Secured **4 invention patents**
 
 ## Publications
 
