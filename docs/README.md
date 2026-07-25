@@ -25,7 +25,7 @@
 
 <div class="intro">
   <p>I am the <strong>Technical Partner</strong> at <strong>Shenzhen Yuewa Innovation Technology Co., Ltd.</strong></p>
-  <p>My research focuses on <strong>Large Language Models (LLMs)</strong>, <strong>Robotics</strong>, and <strong>Web3</strong>.</p>
+  <p>My research focuses on <strong>Multimodal LLMs</strong>, <strong>Robotics</strong>, and <strong>Web3</strong>.</p>
   <p>I lead various projects that bridge the gap between academic research and industrial applications.</p>
   <p>I actively contribute to open-source projects, publish academic papers, and file invention patents.</p>
 </div>
@@ -77,7 +77,7 @@ _Feb 2025 – Present_
 
 - **Title:** Technical Partner, Board Member
 - **Location:** Shenzhen, China
-- **Responsibilities:** Lead technology strategy and company decisions; define AI and robotics roadmap with focus on LLM/VLM, multi-agent systems, and embodied intelligence for diverse platforms such as robotic arms and quadruped robots
+- **Responsibilities:** Lead technology strategy and company decisions; define AI and robotics roadmap with focus on multimodal LLMs, multi-agent systems, and embodied intelligence for diverse platforms such as robotic arms and quadruped robots
 
 **Institute of Intelligent Computing Technology, Suzhou, CAS (IICT)**  
 _Suzhou Branch, Institute of Computing Technology, Chinese Academy of Sciences_  
@@ -110,8 +110,8 @@ _Feb 2025 – Present, Shenzhen Yuewa Innovation Technology Co., Ltd._
 Designed and developed a spider-like desktop robot for natural language interaction and **on-the-fly** actions.
 Proposed **GhostShell**, an LLM-driven streaming and concurrent embodied programming approach, featuring streaming function calls, multi-channel scheduling algorithms, and dynamic prompt trees, integrated into our robot system.
 
-- Demo website: <https://coco-robot.github.io/GhostShell>
-- Published paper: **“GhostShell: Streaming LLM Function Calls for Concurrent Embodied Programming”**
+- Demos: <https://coco-robot.github.io/GhostShell>
+- Paper: **[GhostShell: Streaming LLM Function Calls for Concurrent Embodied Programming](https://arxiv.org/abs/2508.05298)**
 - Videos: [Bilibili](https://space.bilibili.com/3546920081426738)
 
 ---
@@ -177,7 +177,7 @@ Applied big data for epidemic prevention and control. Developed two core technol
 
 **[Detecting Malicious Intents in Smart Contracts with Pre-trained Programming Language Models](https://arxiv.org/abs/2508.20086)**  
 _**Youwei Huang**, Jianwen Li, Sen Fang, Yao Li, Peng Yang, Bin Hu_  
-_Accepted by International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE), 2026_
+_International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE), 2026_
 
 **[GhostShell: Streaming LLM Function Calls for Concurrent Embodied Programming](https://arxiv.org/abs/2508.05298)**  
 _Jian Gong, **Youwei Huang**, Bo Yuan, Ming Zhu, Zhou Liao, Jianhang Liang, Juncheng Zhan, Jinke Wang, Hang Shu, et al._  
