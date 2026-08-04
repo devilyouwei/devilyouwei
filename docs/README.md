@@ -24,7 +24,7 @@
 </div>
 
 <div class="intro">
-  <p>I am the <strong>Technical Partner</strong> at <strong>Shenzhen Yuewa Innovation Technology Co., Ltd.</strong></p>
+  <p>I am the <strong>Technology Director</strong> at <strong>Shenzhen Yuewa Innovation Technology Co., Ltd.</strong></p>
   <p>My research focuses on <strong>Multimodal LLMs</strong>, <strong>Robotics</strong>, and <strong>Web3</strong>.</p>
   <p>I lead various projects that bridge the gap between academic research and industrial applications.</p>
   <p>I actively contribute to open-source projects, publish academic papers, and file invention patents.</p>
@@ -75,7 +75,7 @@ _Bachelor of Engineering in Software Engineering_
 **Shenzhen Yuewa Innovation Technology Co., Ltd. ([LeapWatt](https://x.com/leapwatt))**  
 _Feb 2025 – Present_
 
-- **Title:** Technical Partner, Board Member
+- **Title:** Tech Director, Supervisory Board Member
 - **Location:** Shenzhen, China
 - **Responsibilities:** Lead technology strategy and company decisions; define AI and robotics roadmap with focus on multimodal LLMs, multi-agent systems, and embodied intelligence for diverse platforms such as robotic arms and quadruped robots
 
@@ -261,11 +261,11 @@ _CN112037924B, 2020.07.24_
 
 **[Shenzhen: Building a Pioneer City for Artificial Intelligence](http://www.cfgw.net.cn/epaper/content/202506/06/content_71703.htm?cjecjmophdbimgln=)**  
 _**China Reform Daily (中国改革报)**, Paper Media, Jun 6, 2025_  
-_A central-level daily newspaper supervised by the National Development and Reform Commission (NDRC), dedicated to reporting on reform and development._  
+_A central-level daily newspaper supervised by the National Development and Reform Commission (NDRC), dedicated to reporting on reform and development._
 
 **[Blockchain Smart Contract Hidden Risk Research Makes Latest Progress](http://epaper.zqcn.com.cn/content/2025-04/01/content_58589.htm#10006-weixin-1-52626-6b3bffd01fdde4900130bc5a2751b6d1)**  
 _**China Enterprise News (中国企业报)**, Paper Media, Apr 1, 2025_  
-_A central-level newspaper affiliated with the State-owned Assets Supervision and Administration Commission (SASAC), serving as a key platform for enterprises and entrepreneurs._  
+_A central-level newspaper affiliated with the State-owned Assets Supervision and Administration Commission (SASAC), serving as a key platform for enterprises and entrepreneurs._
 
 **[Huang Youwei: From Code to Honor, A Full-Stack Engineer's AI Innovation Journey](https://biznews.sohu.com/a/830899761_120932824)**  
 _**Sohu Business (搜狐财经)**, Digital Media, Nov 27, 2024_
