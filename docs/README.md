@@ -24,7 +24,7 @@
 </div>
 
 <div class="intro">
-  <p>I am the <strong>Technology Director</strong> at <strong>Shenzhen Yuewa Innovation Technology Co., Ltd.</strong></p>
+  <p>I am the <strong>Tech Director</strong> at <strong>Shenzhen Yuewa Innovation Technology Co., Ltd.</strong></p>
   <p>My research focuses on <strong>Multimodal LLMs</strong>, <strong>Robotics</strong>, and <strong>Web3</strong>.</p>
   <p>I lead various projects that bridge the gap between academic research and industrial applications.</p>
   <p>I actively contribute to open-source projects, publish academic papers, and file invention patents.</p>
@@ -75,9 +75,10 @@ _Bachelor of Engineering in Software Engineering_
 **Shenzhen Yuewa Innovation Technology Co., Ltd. ([LeapWatt](https://x.com/leapwatt))**  
 _Feb 2025 – Present_
 
-- **Title:** Tech Director, Supervisory Board Member
-- **Location:** Shenzhen, China
-- **Responsibilities:** Lead technology strategy and company decisions; define AI and robotics roadmap with focus on multimodal LLMs, multi-agent systems, and embodied intelligence for diverse platforms such as robotic arms and quadruped robots
+- **Title:** Technology Director, Supervisory Board Member
+- **Location:** Shenzhen, China; Hong Kong SAR
+- **Contributions:** Led the development of two key products, the CoCoWa quadruped robot and an AI photography robotic arm, securing the company's angel round from top-tier investors including Meituan Strategic Investments, XVC, and Plum Ventures
+- **Responsibilities:** Lead the AI Department of our company, define core technical solutions and roadmaps, and overcome challenges in running LLMs, VLMs, VLAs, and diverse vision models on NPU edge devices, including quantization, pruning, and operator-level optimization
 
 **Institute of Intelligent Computing Technology, Suzhou, CAS (IICT)**  
 _Suzhou Branch, Institute of Computing Technology, Chinese Academy of Sciences_  
