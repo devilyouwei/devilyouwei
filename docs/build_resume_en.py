@@ -1,4 +1,5 @@
 from pathlib import Path
+import html
 import re
 from reportlab.lib import colors
 from reportlab.lib.enums import TA_CENTER
@@ -12,16 +13,16 @@ ROOT = Path(__file__).resolve().parent
 SOURCE, PHOTO, OUTPUT = ROOT / "resume-en.md", ROOT / "favicon.ico", ROOT / "resume-en.pdf"
 BLUE, CYAN, TEXT, MUTED, RULE = (colors.HexColor(value) for value in ("#123B5D", "#168AAD", "#24313A", "#596773", "#D6E1E8"))
 
-base = ParagraphStyle("base", parent=getSampleStyleSheet()["BodyText"], fontName="Helvetica", fontSize=7.6, leading=9.15, textColor=TEXT, spaceAfter=1.3)
+base = ParagraphStyle("base", parent=getSampleStyleSheet()["BodyText"], fontName="Helvetica", fontSize=7.85, leading=9.4, textColor=TEXT, spaceAfter=1.25)
 STYLES = {
     "name": ParagraphStyle("name", parent=base, fontName="Helvetica-Bold", fontSize=21, leading=22, alignment=TA_CENTER, textColor=BLUE, spaceAfter=1),
     "tagline": ParagraphStyle("tagline", parent=base, fontName="Helvetica-Bold", fontSize=9.8, leading=11.5, alignment=TA_CENTER, textColor=CYAN, spaceAfter=2),
-    "contact": ParagraphStyle("contact", parent=base, fontSize=7.6, leading=9, alignment=TA_CENTER, textColor=MUTED, spaceAfter=1),
+    "contact": ParagraphStyle("contact", parent=base, fontSize=7.75, leading=9.15, alignment=TA_CENTER, textColor=MUTED, spaceAfter=1),
     "section": ParagraphStyle("section", parent=base, fontName="Helvetica-Bold", fontSize=10.7, leading=12.4, textColor=BLUE, spaceBefore=6.1, spaceAfter=2.5),
-    "role": ParagraphStyle("role", parent=base, fontName="Helvetica-Bold", fontSize=8.25, leading=9.7, spaceBefore=4.2, spaceAfter=.5),
-    "affiliation": ParagraphStyle("affiliation", parent=base, fontName="Helvetica-BoldOblique", fontSize=7.2, leading=8.4, textColor=BLUE, spaceAfter=.35),
-    "meta": ParagraphStyle("meta", parent=base, fontName="Helvetica-Oblique", fontSize=7.1, leading=8.2, textColor=MUTED, spaceAfter=.6),
-    "bullet": ParagraphStyle("bullet", parent=base, leftIndent=8, firstLineIndent=-5, bulletIndent=1.5, spaceAfter=.45),
+    "role": ParagraphStyle("role", parent=base, fontName="Helvetica-Bold", fontSize=8.4, leading=9.85, spaceBefore=4.6, spaceAfter=.7),
+    "affiliation": ParagraphStyle("affiliation", parent=base, fontName="Helvetica-BoldOblique", fontSize=7.35, leading=8.55, textColor=BLUE, spaceAfter=.3),
+    "meta": ParagraphStyle("meta", parent=base, fontName="Helvetica-Oblique", fontSize=7.25, leading=8.35, textColor=MUTED, spaceAfter=.55),
+    "bullet": ParagraphStyle("bullet", parent=base, leftIndent=8, firstLineIndent=-5, bulletIndent=1.5, spaceAfter=1.0),
     "numbered": ParagraphStyle("numbered", parent=base, leftIndent=9, firstLineIndent=-9, spaceAfter=.55),
 }
 
@@ -50,7 +51,19 @@ class CircularPhoto(Flowable):
 
 
 def markup(value):
-    value = value.replace("&", "&amp;")
+    value = html.escape(value, quote=True)
+    # Markdown links and autolinks are converted before inline emphasis so that
+    # ReportLab emits PDF /Link annotations for every displayed URL.
+    value = re.sub(
+        r"\[([^\]]+)\]\((https?://[^)\s]+|mailto:[^)\s]+)\)",
+        r'<a href="\2" color="#168AAD">\1</a>',
+        value,
+    )
+    value = re.sub(
+        r"&lt;(https?://[^\s&]+)&gt;",
+        r'<a href="\1" color="#168AAD">\1</a>',
+        value,
+    )
     value = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", value)
     return re.sub(r"(?<!\*)\*([^*]+?)\*", r"<i>\1</i>", value)
 
@@ -110,6 +123,7 @@ def page_chrome(canvas, doc):
     canvas.setFont("Helvetica", 6.8)
     canvas.setFillColor(MUTED)
     canvas.drawString(15 * mm, 6.2 * mm, "Youwei Huang · https://www.devil.ren/")
+    canvas.linkURL("https://www.devil.ren/", (15 * mm, 4.7 * mm, 68 * mm, 8.4 * mm), relative=0)
     canvas.drawRightString(width - 15 * mm, 6.2 * mm, str(doc.page))
     canvas.restoreState()
 

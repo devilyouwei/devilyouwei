@@ -26,8 +26,7 @@
 <div class="intro">
   <p>I am the <strong>Tech Director</strong> at <strong>Shenzhen Yuewa Innovation Technology Co., Ltd.</strong></p>
   <p>My research focuses on <strong>Multimodal LLMs</strong>, <strong>Robotics</strong>, and <strong>Web3</strong>.</p>
-  <p>I lead various projects that bridge the gap between academic research and industrial applications.</p>
-  <p>I actively contribute to open-source projects, publish academic papers, and file invention patents.</p>
+  <p>I continuously contribute to open-source projects, file invention patents, and publish academic papers, bridging research and industry.</p>
 </div>
 
 <div class="tech-stack">
@@ -77,8 +76,8 @@ _Feb 2025 – Present_
 
 - **Title:** Technology Director, Supervisory Board Member
 - **Location:** Shenzhen, China; Hong Kong SAR
-- **Contributions:** As an early core technical member, led the development of two key products, the **CoCoWa quadruped robot** and an **AI photography robotic arm**, securing the company's **angel round** from top-tier investors including Meituan Strategic Investments, XVC, and Plum Ventures
-- **Responsibilities:** Lead the AI Department of our company, define core technical solutions and roadmaps, and overcome challenges in running LLMs, VLMs, VLAs, and diverse vision models on NPU edge devices, including quantization, pruning, and operator-level optimization
+- **Contributions:** As an early technical leader, led the development of the **CoCoWa quadruped robot** and an **AI photography robotic arm**; secured the company's **angel round** from **top-tier investors** including **Meituan Strategic Investments**, **XVC**, and **Plum Ventures**
+- **Responsibilities:** Lead the company's AI Department; define core technical solutions and roadmaps; overcome deployment and runtime challenges for LLMs, VLMs, VLAs, and diverse CV models on NPU-based edge devices, including quantization, pruning, and operator-level optimization
 
 **Institute of Intelligent Computing Technology, Suzhou, CAS (IICT)**  
 _Suzhou Branch, Institute of Computing Technology, Chinese Academy of Sciences_  
@@ -86,22 +85,22 @@ _May 2020 – Dec 2024_
 
 - **Title:** Lead Research Engineer
 - **Location:** Suzhou, China
-- **Responsibilities:** Led a research team conducting research in blockchain, big data, and AI, developing innovative invention patents, publishing academic papers, and translating technologies into commercially viable outcomes
+- **Responsibilities:** Led a research team advancing blockchain, big data, and AI, resulting in invention patents and academic publications; translated research outcomes into industrial applications
 
 **Suzhou Zhongke Lelian Information Technology Co., Ltd.**  
-_Subsidiary incubated by IICT_  
+_IICT-incubated portfolio company_  
 _Jan 2022 – Oct 2022_
 
 - **Title:** Director of Blockchain Technology
 - **Location:** Suzhou, China
-- **Responsibilities:** Incubate this blockchain technology company; lead technology and R&D project development; deploy blockchain research innovations into commercial healthcare applications
+- **Responsibilities:** Led blockchain technology R&D and commercial project development
 
 **Shanghai LeMiao Network Technology Company**  
 _Jun 2018 – Aug 2019_
 
 - **Title:** Software Engineer
 - **Location:** Shanghai, China
-- **Responsibilities:** Develop web applications and online games
+- **Responsibilities:** Developed web applications and online games
 
 ## Research & Projects
 
