@@ -18,8 +18,8 @@
   <span>📅 Apr 23, 1995</span>
   <a class="link" href="https://github.com/devilyouwei" target="_blank">🐱 GitHub</a>
   <a class="link" href="https://scholar.google.com/citations?user=YM3HzbwAAAAJ&hl=en" target="_blank">🎓 Google Scholar</a>
-  <a class="link" href="https://devilyouwei.github.io/resume-en.pdf" target="_blank">🇺🇸 English CV</a>
-  <a class="link" href="https://devilyouwei.github.io/resume-cn.pdf" target="_blank">🇨🇳 中文简历</a>
+  <a class="link" href="https://www.devil.ren/resume-en.pdf" target="_blank">🇺🇸 English CV</a>
+  <a class="link" href="https://www.devil.ren/resume-cn.pdf" target="_blank">🇨🇳 中文简历</a>
   <a class="link" href="mailto:devilyouwei@foxmail.com">️✉️ Email</a>
 </div>
 
@@ -61,7 +61,7 @@ _Master of Science in Software Engineering (ABET Accredited Program)_
 
 - **Duration:** Sep 2019 – Aug 2020
 - **Location:** NJ, USA
-- **Interests:** Software Engineering, Web Development, Blockchain
+- **Interests:** Software Engineering, DevOps, Blockchain
 
 **Changshu Institute of Technology**  
 _Bachelor of Engineering in Software Engineering_
@@ -77,7 +77,7 @@ _Feb 2025 – Present_
 
 - **Title:** Technology Director, Supervisory Board Member
 - **Location:** Shenzhen, China; Hong Kong SAR
-- **Contributions:** Led the development of two key products, the CoCoWa quadruped robot and an AI photography robotic arm, securing the company's angel round from top-tier investors including Meituan Strategic Investments, XVC, and Plum Ventures
+- **Contributions:** As an early core technical member, led the development of two key products, the **CoCoWa quadruped robot** and an **AI photography robotic arm**, securing the company's **angel round** from top-tier investors including Meituan Strategic Investments, XVC, and Plum Ventures
 - **Responsibilities:** Lead the AI Department of our company, define core technical solutions and roadmaps, and overcome challenges in running LLMs, VLMs, VLAs, and diverse vision models on NPU edge devices, including quantization, pruning, and operator-level optimization
 
 **Institute of Intelligent Computing Technology, Suzhou, CAS (IICT)**  
