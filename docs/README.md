@@ -86,7 +86,7 @@ _May 2020 – Dec 2024_
 
 - **Title:** Lead Research Engineer
 - **Location:** Suzhou, China
-- **Responsibilities:** Lead research team in Big Data, AI and blockchain innovation; drive technology transfer and commercialization initiatives; incubate technology subsidiary companies
+- **Responsibilities:** Led a research team conducting research in blockchain, big data, and AI, developing innovative invention patents, publishing academic papers, and translating technologies into commercially viable outcomes
 
 **Suzhou Zhongke Lelian Information Technology Co., Ltd.**  
 _Subsidiary incubated by IICT_  
