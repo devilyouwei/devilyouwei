@@ -76,7 +76,7 @@ _Feb 2025 – Present_
 
 - **Title:** Technology Director, Supervisory Board Member
 - **Location:** Shenzhen, China; Hong Kong SAR
-- **Contributions:** As an early technical leader, led the development of the **CoCoWa quadruped robot** and an **AI photography robotic arm**; secured the company's **angel round** from **top-tier investors** including **Meituan Strategic Investments**, **XVC**, and **Plum Ventures**
+- **Contributions:** As an early technical leader, led the development of two flagship products, the **CoCoWa quadruped robot** and an **AI photography robotic arm**; secured the company's **angel round** from **top-tier investors** including **Meituan Strategic Investments**, **XVC**, and **Plum Ventures**
 - **Responsibilities:** Lead the company's AI Department; define core technical solutions and roadmaps; overcome deployment and runtime challenges for LLMs, VLMs, VLAs, and diverse CV models on NPU-based edge devices, including quantization, pruning, and operator-level optimization
 
 **Institute of Intelligent Computing Technology, Suzhou, CAS (IICT)**  
@@ -93,7 +93,7 @@ _Jan 2022 – Oct 2022_
 
 - **Title:** Director of Blockchain Technology
 - **Location:** Suzhou, China
-- **Responsibilities:** Led blockchain technology R&D and commercial project development
+- **Responsibilities:** Led the company's blockchain R&D for commercial applications in healthcare
 
 **Shanghai LeMiao Network Technology Company**  
 _Jun 2018 – Aug 2019_
