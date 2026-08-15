@@ -174,9 +174,9 @@ Applied big data for epidemic prevention and control. Developed two core technol
 
 ### Papers
 
-**[Detecting Malicious Intents in Smart Contracts with Pre-trained Programming Language Models](https://arxiv.org/abs/2508.20086)**  
-_**Youwei Huang**, Jianwen Li, Sen Fang, Yao Li, Peng Yang, Bin Hu_  
-_International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE), 2026_
+**[Detecting Malicious Intents in Smart Contracts with Pre-trained Programming Language Models](https://dl.acm.org/doi/10.1145/3803846.3807464)**<br>
+_**Youwei Huang**, Jianwen Li, Bin Hu, Sen Fang, Yao Li, Peng Yang_<br>
+_22nd International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE), 2026, Pages 41-50_
 
 **[GhostShell: Streaming LLM Function Calls for Concurrent Embodied Programming](https://arxiv.org/abs/2508.05298)**  
 _Jian Gong, **Youwei Huang**, Bo Yuan, Ming Zhu, Zhou Liao, Jianhang Liang, Juncheng Zhan, Jinke Wang, Hang Shu, et al._  
