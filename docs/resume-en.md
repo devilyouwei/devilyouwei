@@ -6,7 +6,7 @@ Suzhou, China | [devilyouwei@foxmail.com](mailto:devilyouwei@foxmail.com) | [git
 
 ## Profile
 
-I am the Technology Director at Shenzhen Yuewa Innovation Technology Co., Ltd. My research focuses on multimodal LLMs, robotics, and Web3. I continuously contribute to open-source projects, file invention patents, and publish academic papers, bridging research and industry.
+I am the Technology Director at Shenzhen Yuewa Innovation Technology Co., Ltd. My research focuses on multimodal LLMs, robotics, and Web3. I continuously contribute to open-source projects, invention patents, and academic papers, bridging the gap between research and industry.
 
 ## Professional Experience
 
@@ -21,7 +21,7 @@ Suzhou Branch, Institute of Computing Technology, Chinese Academy of Sciences
 
 May 2020–Dec 2024 | Suzhou, China
 
-- **Responsibilities:** Led a research team advancing blockchain, big data, and AI, resulting in invention patents and academic publications; translated research outcomes into industrial applications.
+- **Responsibilities:** Led a research team advancing blockchain, big data, and AI; co-authored patent applications and academic publications; translated research outcomes into industrial applications.
 
 ### Suzhou Zhongke Lelian Information Technology Co., Ltd. — Director of Blockchain Technology
 IICT-incubated portfolio company
@@ -79,7 +79,7 @@ May 2020–May 2021 | Institute of Intelligent Computing Technology, Suzhou, CAS
 
 ## Selected Publications
 
-1. Y. Huang, J. Li, S. Fang, et al. “[Detecting Malicious Intents in Smart Contracts with Pre-trained Programming Language Models](https://arxiv.org/abs/2508.20086).” PROMISE 2026.
+1. Y. Huang, J. Li, B. Hu, et al. “[Detecting Malicious Intents in Smart Contracts with Pre-trained Programming Language Models](https://dl.acm.org/doi/10.1145/3803846.3807464).” ACM PROMISE 2026, pp. 41-50.
 2. J. Gong, Y. Huang, B. Yuan, et al. “[GhostShell: Streaming LLM Function Calls for Concurrent Embodied Programming](https://arxiv.org/abs/2508.05298).” arXiv:2508.05298, 2025.
 3. B. Hu, Y. Huang, and X. Sang. “[A Chain Division-based Vertical Scalability Method of Hyperledger Fabric](https://www.cnki.com.cn/Article/CJFDTOTAL-GJSX202509001.htm).” Chinese High Technology Letters 35(9), 2025.
 4. Y. Huang, S. Fang, J. Li, et al. “[Deep Smart Contract Intent Detection](https://arxiv.org/abs/2211.10724).” IEEE SANER 2025.
@@ -111,6 +111,6 @@ Co-inventor on 12 published invention patents spanning knowledge-graph retrieval
 
 ## Technical Skills
 
-AI/ML: Multimodal Learning, Computer Vision, Edge Intelligence, Heterogeneous Computing, Multi-Agent Systems, Robot Control  
-Software: Python, TypeScript, JavaScript, Node.js, SQL, Kotlin, PHP, Linux, Vim  
+AI/ML: PyTorch, ONNX, TensorFlow, Hugging Face, OpenCV, CUDA, Multimodal Learning, Computer Vision, Edge Intelligence
+Software & Robotics: Linux, Vim, Python, TypeScript, JavaScript, ROS 2
 Web3: Solidity, smart-contract analysis, Hyperledger Fabric, consortium blockchain
