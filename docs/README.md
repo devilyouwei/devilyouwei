@@ -26,21 +26,20 @@
 <div class="intro">
   <p>I am the <strong>Tech Director</strong> at <strong>Shenzhen Yuewa Innovation Technology Co., Ltd.</strong></p>
   <p>My research focuses on <strong>Multimodal LLMs</strong>, <strong>Robotics</strong>, and <strong>Web3</strong>.</p>
-  <p>I continuously contribute to open-source projects, file invention patents, and publish academic papers, bridging research and industry.</p>
+  <p>I continuously contribute to open-source projects, invention patents, and academic papers, bridging the gap between research and industry.</p>
 </div>
 
 <div class="tech-stack">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/-Vim-019733?logo=vim" alt="Vim">
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/-Solidity-363636?logo=solidity" alt="Solidity">
-  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity">
 </div>
 </header>
 
@@ -85,7 +84,7 @@ _May 2020 – Dec 2024_
 
 - **Title:** Lead Research Engineer
 - **Location:** Suzhou, China
-- **Responsibilities:** Led a research team advancing blockchain, big data, and AI, resulting in invention patents and academic publications; translated research outcomes into industrial applications
+- **Responsibilities:** Led a research team advancing blockchain, big data, and AI; co-authored patent applications and academic publications; translated research outcomes into industrial applications
 
 **Suzhou Zhongke Lelian Information Technology Co., Ltd.**  
 _IICT-incubated portfolio company_  
