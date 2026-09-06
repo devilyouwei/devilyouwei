@@ -2,14 +2,14 @@
 
 # 🤗 Youwei Huang
 
-_Former Research Engineer at the Institute of Intelligent Computing Technology, Suzhou, CAS._
+_Former Lead Research Engineer at the Institute of Intelligent Computing Technology, Suzhou, CAS._
 
 🏠 **Home Page:** <https://www.devil.ren>  
 🤖 **LLM Avatar:** <https://chat.devil.ren>
 
 🏛️ **Current Affiliation:** Shenzhen Yuewa Innovation Technology Co., Ltd.  
-👨‍💻 **Job Title:** Technical Partner  
-👨‍🔬 **Research Interests:** Large Language Models, Robotics, Web3
+👨‍💻 **Job Title:** Technology Director, Supervisory Board Member  
+👨‍🔬 **Research Interests:** Multimodal LLMs, Robotics, Web3
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim)
@@ -25,7 +25,7 @@ _Former Research Engineer at the Institute of Intelligent Computing Technology, 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
 💼 I founded the organizations **[uniai-lab](https://github.com/uniai-lab)** and **[web3se-lab](https://github.com/web3se-lab)**, which host innovative projects such as [UniAI](https://github.com/uniai-lab/uniai), [LeChat](https://github.com/uniai-lab/lechat-pro), and [Web3SE Kit](https://github.com/web3se-lab/web3-sekit).  
-🔬 My current research focuses on **robotic control** using LLMs and multi-agent systems.  
+🔬 My current research has shifted to **multimodal models**, **robotics**, **multi-agent systems**, and **edge AI infrastructure**.  
 🌐 I also explore **Web3** and **blockchain**. If you're interested, let's collaborate on open-source projects.  
 🎓 I am seeking **PhD** or **RA** opportunities and am eager to co-author papers with fellow researchers.
 
