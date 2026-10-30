@@ -1,0 +1,16 @@
+/** @format */
+
+{
+    "$schema": "node_modules/wrangler/config-schema.json",
+    "name": "devilyouwei-api",
+    "main": "app.js",
+    "compatibility_date": "2026-09-20",
+    "rules": [{ "type": "Text", "globs": ["**/*.md"], "fallthrough": true }],
+    "observability": { "enabled": true },
+    "vars": {
+        "AI_PROTOCOL": "chat_completions",
+        "MAX_HISTORY_MESSAGES": "12",
+        "MAX_INPUT_CHARS": "24000",
+        "MAX_OUTPUT_TOKENS": "1024"
+    }
+}

@@ -1,0 +1,6 @@
+# Copy to .dev.vars for local development. Never commit your real API key.
+# Use the provider's API base path, or its complete /responses URL.
+AI_PROTOCOL="chat_completions"
+AI_BASE_URL="https://open.bigmodel.cn/api/paas/v4"
+AI_API_KEY="replace-with-your-provider-key"
+AI_MODEL="glm-4-flash"

@@ -1,3 +1,5 @@
+/** @format */
+
 import js from '@eslint/js'
 import prettier from 'eslint-plugin-prettier/recommended'
 import globals from 'globals'
@@ -8,7 +10,7 @@ export default [
     {
         languageOptions: {
             ecmaVersion: 'latest',
-            sourceType: 'commonjs',
+            sourceType: 'module',
             globals: {
                 ...globals.node
             }

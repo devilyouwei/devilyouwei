@@ -7,6 +7,8 @@ _Former Lead Research Engineer at the Institute of Intelligent Computing Technol
 🏠 **Home Page:** <https://www.devil.ren>  
 🤖 **LLM Avatar:** <https://chat.devil.ren>
 
+Backend setup: [Cloudflare Workers + Responses API](./BACKEND.md).
+
 🏛️ **Current Affiliation:** Shenzhen Yuewa Innovation Technology Co., Ltd.  
 👨‍💻 **Job Title:** Technology Director, Supervisory Board Member  
 👨‍🔬 **Research Interests:** Multimodal LLMs, Robotics, Web3
