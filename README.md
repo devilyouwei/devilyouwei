@@ -9,8 +9,9 @@ _Former Lead Research Engineer at the Institute of Intelligent Computing Technol
 
 Backend setup: [Cloudflare Workers + Responses API](./BACKEND.md).
 
-🏛️ **Current Affiliation:** Shenzhen Yuewa Innovation Technology Co., Ltd.  
-👨‍💻 **Job Title:** Technology Director, Supervisory Board Member  
+🏛️ **Current Affiliation:** Shenzhen Yuewa Innovation Technology Co., Ltd.\
+_Feb 2025 – Oct 2026 (Supervisor retained)_\
+👨‍💻 **Title:** Tech Director, Supervisor\
 👨‍🔬 **Research Interests:** Multimodal LLMs, Robotics, Web3
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)

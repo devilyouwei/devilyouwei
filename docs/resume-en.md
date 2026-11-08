@@ -1,38 +1,43 @@
 # Youwei Huang
 
-Technology Director | Multimodal LLMs, Robotics & Web3
+Multimodal LLMs, Robotics & Web3
 
 Suzhou, China | [devilyouwei@foxmail.com](mailto:devilyouwei@foxmail.com) | [github.com/devilyouwei](https://github.com/devilyouwei) | [Google Scholar](https://scholar.google.com/citations?user=YM3HzbwAAAAJ&hl=en) | [devil.ren](https://www.devil.ren/)
 
 ## Profile
 
-I am the Technology Director at Shenzhen Yuewa Innovation Technology Co., Ltd. My research focuses on multimodal LLMs, robotics, and Web3. I continuously contribute to open-source projects, invention patents, and academic papers, bridging the gap between research and industry.
+My research focuses on multimodal LLMs, robotics, and Web3. I contribute to open-source projects, invention patents, and academic papers, bridging the gap between research and industry.
 
 ## Professional Experience
 
-### Shenzhen Yuewa Innovation Technology Co., Ltd. ([LeapWatt](https://x.com/leapwatt)) — Technology Director, Supervisory Board Member
-Feb 2025–Present | Shenzhen, China; Hong Kong SAR
+### Shenzhen Yuewa Innovation Technology Co., Ltd. ([LeapWatt](https://x.com/leapwatt))
+Feb 2025 - Oct 2026 (Supervisor retained) | Shenzhen, China; Hong Kong SAR
 
+- **Title:** Tech Director, Supervisor
 - **Contributions:** As an early technical leader, led the development of the **CoCoWa quadruped robot** and an **AI photography robotic arm**; secured the company's **angel round** from **top-tier investors** including **Meituan Strategic Investments, XVC, and Plum Ventures**.
-- **Responsibilities:** Lead the company's AI Department; define core technical solutions and roadmaps; overcome deployment and runtime challenges for LLMs, VLMs, VLAs, and diverse CV models on NPU-based edge devices, including quantization, pruning, and operator-level optimization.
+- **Financing:** The final investment Yuewa received during my tenure as Tech Director came from **[Vision Plus Capital](https://www.visionpluscapital.com/)**.
+- **Responsibilities as Tech Director:** Led the company's AI Department, defined core technical solutions and roadmaps, and addressed deployment and runtime challenges for LLMs, VLMs, VLAs, and diverse CV models on NPU-based edge devices, including quantization, pruning, and operator-level optimization.
 
-### Institute of Intelligent Computing Technology, Suzhou, CAS — Lead Research Engineer
+### Institute of Intelligent Computing Technology, Suzhou, CAS
 Suzhou Branch, Institute of Computing Technology, Chinese Academy of Sciences
 
-May 2020–Dec 2024 | Suzhou, China
+May 2020 - Dec 2024 | Suzhou, China
 
+- **Title:** Lead Research Engineer
 - **Responsibilities:** Led a research team advancing blockchain, big data, and AI; co-authored patent applications and academic publications; translated research outcomes into industrial applications.
 
-### Suzhou Zhongke Lelian Information Technology Co., Ltd. — Director of Blockchain Technology
+### Suzhou Zhongke Lelian Information Technology Co., Ltd.
 IICT-incubated portfolio company
 
-Jan 2022–Oct 2022 | Suzhou, China
+Jan 2022 - Oct 2022 | Suzhou, China
 
+- **Title:** Director of Blockchain Technology
 - **Responsibilities:** Led blockchain technology R&D and commercial project development.
 
-### Shanghai LeMiao Network Technology Company — Software Engineer
-Jun 2018–Aug 2019 | Shanghai, China
+### Shanghai LeMiao Network Technology Company
+Jun 2018 - Aug 2019 | Shanghai, China
 
+- **Title:** Software Engineer
 - **Responsibilities:** Developed web applications and online games.
 
 ## Education
@@ -44,7 +49,7 @@ Jun 2018–Aug 2019 | Shanghai, China
 ## Selected Research & Projects
 
 ### CoCo / GhostShell — Concurrent Embodied Programming
-Feb 2025–Present | Shenzhen Yuewa Innovation Technology Co., Ltd.
+Started in Feb 2025 | Shenzhen Yuewa Innovation Technology Co., Ltd.
 
 - Designed and developed CoCo, a spider-like desktop quadruped for natural-language interaction and on-the-fly actions.
 - Proposed GhostShell, an LLM-driven streaming and concurrent embodied programming approach using streaming function calls, multi-channel scheduling, and dynamic prompt trees.

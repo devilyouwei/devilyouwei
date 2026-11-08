@@ -7,7 +7,7 @@ from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import ParagraphStyle, getSampleStyleSheet
 from reportlab.lib.units import mm
 from reportlab.lib.utils import ImageReader
-from reportlab.platypus import BaseDocTemplate, Flowable, Frame, KeepTogether, PageTemplate, Paragraph, Table, TableStyle
+from reportlab.platypus import BaseDocTemplate, Flowable, Frame, PageTemplate, Paragraph, Table, TableStyle
 
 ROOT = Path(__file__).resolve().parent
 SOURCE, PHOTO, OUTPUT = ROOT / "resume-en.md", ROOT / "favicon.ico", ROOT / "resume-en.pdf"
@@ -103,7 +103,9 @@ while index < len(lines):
             else:
                 block.append(Paragraph(markup(next_line), STYLES["meta"]))
                 index = next_index
-        story.append(KeepTogether(block))
+        for paragraph in block:
+            paragraph.keepWithNext = True
+        story.extend(block)
     elif re.match(r"^\d+\. ", line):
         story.append(Paragraph(markup(line), STYLES["numbered"]))
     elif line.startswith("- "):
