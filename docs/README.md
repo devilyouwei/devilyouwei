@@ -24,49 +24,23 @@
 </div>
 
 <div class="intro">
-  <p>I was the <strong>Tech Director</strong> at <strong>Shenzhen Yuewa Innovation Technology Co., Ltd.</strong></p>
-  <p>My research focuses on <strong>Multimodal LLMs</strong>, <strong>Robotics</strong>, and <strong>Web3</strong>.</p>
-  <p>I continuously contribute to open-source projects, invention patents, and academic papers, bridging the gap between research and industry.</p>
+  <p>Former <strong>Tech Director</strong> at <strong>Shenzhen Yuewa Innovation Technology Co., Ltd.</strong></p>
+  <p>Research interests include <strong>multimodal LLMs</strong>, <strong>robotics</strong>, and <strong>Web3</strong>.</p>
 </div>
 
 <div class="tech-stack">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" alt="ONNX">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity">
 </div>
 </header>
 
 <!-- About moved to header for compact display -->
-
-## Education
-
-**Macau University of Science and Technology**  
-_Ph.D. Candidate_
-
-- **Duration:** Jan 2022 – Jan 2023 (Quit)
-- **Location:** Taipa, Macao SAR
-- **Interests:** Deep Learning, Blockchain, Software Engineering
-
-**Monmouth University**  
-_Master of Science in Software Engineering (ABET Accredited Program)_
-
-- **Duration:** Sep 2019 – Aug 2020
-- **Location:** NJ, USA
-- **Interests:** Software Engineering, DevOps, Blockchain
-
-**Changshu Institute of Technology**  
-_Bachelor of Engineering in Software Engineering_
-
-- **Duration:** Sep 2013 – Jun 2018
-- **Location:** Suzhou, China
-- One-year gap for **entrepreneurship**
 
 ## Professional Experience
 
@@ -75,8 +49,7 @@ _Feb 2025 – Oct 2026 (Supervisor retained)_
 
 - **Title:** Tech Director, Supervisor
 - **Location:** Shenzhen, China; Hong Kong SAR
-- **Contributions:** As an early technical leader, led the development of two flagship products, the **CoCoWa quadruped robot** and an **AI photography robotic arm**; secured the company's **angel round** from **top-tier investors** including **Meituan Strategic Investments**, **XVC**, and **Plum Ventures**
-- **Financing:** The final investment Yuewa received during my tenure as Tech Director came from **[Vision Plus Capital](https://www.visionpluscapital.com/)**.
+- **Contributions:** As an early technical leader, led the development of two flagship products, the **CoCoWa quadruped robot** and an **AI photography robotic arm**. Secured **angel and Pre-A financing** from **top-tier investors** including **XVC**, **Meituan Strategic Investments**, **Plum Ventures**, and [**Vision Plus Capital**](https://www.visionpluscapital.com/).
 - **Responsibilities as Tech Director:** Led the company's AI Department, defined core technical solutions and roadmaps, and addressed deployment and runtime challenges for LLMs, VLMs, VLAs, and diverse CV models on NPU-based edge devices, including quantization, pruning, and operator-level optimization
 
 **Institute of Intelligent Computing Technology, Suzhou, CAS (IICT)**  
@@ -101,6 +74,29 @@ _Jun 2018 – Aug 2019_
 - **Title:** Software Engineer
 - **Location:** Shanghai, China
 - **Responsibilities:** Developed web applications and online games
+
+## Education
+
+**Macau University of Science and Technology**  
+_Ph.D. Candidate_
+
+- **Duration:** Jan 2022 – Jan 2023 (Quit)
+- **Location:** Taipa, Macao SAR
+- **Interests:** Deep Learning, Blockchain, Software Engineering
+
+**Monmouth University**  
+_Master of Science in Software Engineering (ABET Accredited Program)_
+
+- **Duration:** Sep 2019 – Aug 2020
+- **Location:** NJ, USA
+- **Interests:** Software Engineering, DevOps, Blockchain
+
+**Changshu Institute of Technology**  
+_Bachelor of Engineering in Software Engineering_
+
+- **Duration:** Sep 2013 – Jun 2018
+- **Location:** Suzhou, China
+- One-year gap for **entrepreneurship**
 
 ## Research & Projects
 

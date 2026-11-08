@@ -14,8 +14,7 @@ My research focuses on multimodal LLMs, robotics, and Web3. I contribute to open
 Feb 2025 - Oct 2026 (Supervisor retained) | Shenzhen, China; Hong Kong SAR
 
 - **Title:** Tech Director, Supervisor
-- **Contributions:** As an early technical leader, led the development of the **CoCoWa quadruped robot** and an **AI photography robotic arm**; secured the company's **angel round** from **top-tier investors** including **Meituan Strategic Investments, XVC, and Plum Ventures**.
-- **Financing:** The final investment Yuewa received during my tenure as Tech Director came from **[Vision Plus Capital](https://www.visionpluscapital.com/)**.
+- **Contributions:** As an early technical leader, led the development of two flagship products, the **CoCoWa quadruped robot** and an **AI photography robotic arm**. Secured **angel and Pre-A financing** from **top-tier investors** including **XVC**, **Meituan Strategic Investments**, **Plum Ventures**, and [**Vision Plus Capital**](https://www.visionpluscapital.com/).
 - **Responsibilities as Tech Director:** Led the company's AI Department, defined core technical solutions and roadmaps, and addressed deployment and runtime challenges for LLMs, VLMs, VLAs, and diverse CV models on NPU-based edge devices, including quantization, pruning, and operator-level optimization.
 
 ### Institute of Intelligent Computing Technology, Suzhou, CAS
