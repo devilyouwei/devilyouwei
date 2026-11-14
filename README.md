@@ -7,11 +7,9 @@ _Former Lead Research Engineer at the Institute of Intelligent Computing Technol
 🏠 **Home Page:** <https://www.devil.ren>  
 🤖 **LLM Avatar:** <https://chat.devil.ren>
 
-Backend setup: [Cloudflare Workers + Responses API](./BACKEND.md).
-
-🏛️ **Current Affiliation:** Shenzhen Yuewa Innovation Technology Co., Ltd.\
-_Feb 2025 – Oct 2026 (Supervisor retained)_\
-👨‍💻 **Title:** Tech Director, Supervisor\
+🏛️ **Current Affiliation:** Shenzhen Yuewa Innovation Technology Co., Ltd. (LeapWatt)  
+_Feb 2025 – Oct 2026 (Supervisor retained)_  
+👨‍💻 **Title:** Tech Director, Supervisor  
 👨‍🔬 **Research Interests:** Multimodal LLMs, Robotics, Web3
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
@@ -28,9 +26,8 @@ _Feb 2025 – Oct 2026 (Supervisor retained)_\
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
 💼 I founded the organizations **[uniai-lab](https://github.com/uniai-lab)** and **[web3se-lab](https://github.com/web3se-lab)**, which host innovative projects such as [UniAI](https://github.com/uniai-lab/uniai), [LeChat](https://github.com/uniai-lab/lechat-pro), and [Web3SE Kit](https://github.com/web3se-lab/web3-sekit).  
-🔬 My current research has shifted to **multimodal models**, **robotics**, **multi-agent systems**, and **edge AI infrastructure**.  
-🌐 I also explore **Web3** and **blockchain**. If you're interested, let's collaborate on open-source projects.  
-🎓 I am seeking **PhD** or **RA** opportunities and am eager to co-author papers with fellow researchers.
+🔬 My research focus has shifted to **multimodal models**, **robotics**, **multi-agent systems**, and **edge AI infra**.  
+🌐 I also explore **Web3** and **blockchain**. If you're interested, let's collaborate on open-source projects.
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devilyouwei&layout=compact&theme=tokyonight)
