@@ -18,10 +18,8 @@
   <span>📅 Apr 23, 1995</span>
   <a class="link" href="https://github.com/devilyouwei" target="_blank">🐱 GitHub</a>
   <a class="link" href="https://scholar.google.com/citations?user=YM3HzbwAAAAJ&hl=en" target="_blank">🎓 Google Scholar</a>
-  <a class="link resume-pdf" href="./resume-en.pdf" target="_blank" rel="noopener">View English CV</a>
-  <a class="link resume-pdf" href="./resume-en.pdf" download="resume-en.pdf">Download English CV</a>
-  <a class="link resume-pdf" href="./resume-cn.pdf" target="_blank" rel="noopener">View Chinese CV</a>
-  <a class="link resume-pdf" href="./resume-cn.pdf" download="resume-cn.pdf">Download Chinese CV</a>
+  <a class="link resume-pdf" href="./resume-en.pdf" target="_blank" rel="noopener">🇺🇸 English CV</a>
+  <a class="link resume-pdf" href="./resume-cn.pdf" target="_blank" rel="noopener">🇨🇳 中文简历</a>
   <a class="link" href="mailto:devilyouwei@foxmail.com">️✉️ Email</a>
 </div>
 
