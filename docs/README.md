@@ -256,7 +256,7 @@ _CN112037924B, 2020.07.24_
 
 ## News
 
-**[Shenzhen: Building a Pioneer City for Artificial Intelligence](http://www.cfgw.net.cn/epaper/content/202506/06/content_71703.htm?cjecjmophdbimgln=)**  
+**[Shenzhen: Building a Pioneer City for Artificial Intelligence](http://www.cfgw.net.cn/epaper/content/202506/06/content_71703.htm)**<br>
 _**China Reform Daily (中国改革报)**, Paper Media, Jun 6, 2025_  
 _A central-level daily newspaper supervised by the National Development and Reform Commission (NDRC), dedicated to reporting on reform and development._
 
