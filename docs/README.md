@@ -280,6 +280,9 @@ _**IICT News (中科苏州智能计算技术研究院)**, Digital Media, May 17,
 **[Computer Science Students Win Monmouth’s ‘TechPitch’ Competition with Sailing App](https://www.monmouth.edu/news/computer-science-students-win-monmouths-techpitch-competition-with-sailing-app/)**  
 _**Monmouth University News**, Digital Media, Nov 12, 2019_
 
+**[Bright Career Wins First Prize at the Suzhou College Student Innovation and Entrepreneurship Competition](https://www.jsenews.com/news/gx/201511/t20151123_2528810.shtml)**<br>
+_**Jiangsu Education News**, Digital Media, Nov 23, 2015_
+
 ## Honors & Credentials
 
 ### Professional
