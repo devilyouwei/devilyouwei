@@ -18,8 +18,10 @@
   <span>📅 Apr 23, 1995</span>
   <a class="link" href="https://github.com/devilyouwei" target="_blank">🐱 GitHub</a>
   <a class="link" href="https://scholar.google.com/citations?user=YM3HzbwAAAAJ&hl=en" target="_blank">🎓 Google Scholar</a>
-  <a class="link" href="https://www.devil.ren/resume-en.pdf" target="_blank">🇺🇸 English CV</a>
-  <a class="link" href="https://www.devil.ren/resume-cn.pdf" target="_blank">🇨🇳 中文简历</a>
+  <a class="link resume-pdf" href="./resume-en.pdf" target="_blank" rel="noopener">View English CV</a>
+  <a class="link resume-pdf" href="./resume-en.pdf" download="resume-en.pdf">Download English CV</a>
+  <a class="link resume-pdf" href="./resume-cn.pdf" target="_blank" rel="noopener">View Chinese CV</a>
+  <a class="link resume-pdf" href="./resume-cn.pdf" download="resume-cn.pdf">Download Chinese CV</a>
   <a class="link" href="mailto:devilyouwei@foxmail.com">️✉️ Email</a>
 </div>
 
@@ -91,7 +93,8 @@ _Master of Science in Software Engineering (ABET Accredited Program)_
 - **Location:** NJ, USA
 - **Interests:** Software Engineering, DevOps, Blockchain
 
-**Changshu Institute of Technology**  
+**Suzhou University of Technology**<br>
+<small class="former-school-name">(formerly Changshu Institute of Technology)</small><br>
 _Bachelor of Engineering in Software Engineering_
 
 - **Duration:** Sep 2013 – Jun 2018
@@ -313,7 +316,8 @@ Leon Hess Business School at Monmouth University
 **Second Prize for Outstanding Undergraduate Graduation Project (Thesis)**  
 Design and Implementation of a Price Trend Forecasting System Based on E-commerce Big Data  
 _Individual Award, Jun 2018_  
-Changshu Institute of Technology
+Suzhou University of Technology<br>
+<small class="former-school-name">(formerly Changshu Institute of Technology)</small>
 
 **The 5th National Undergraduate E-commerce "Innovation, Creativity and Entrepreneurship" Challenge Competition Grand Prize**  
 Jiangsu Provincial Selection Competition - "Bright Career"  

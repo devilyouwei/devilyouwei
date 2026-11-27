@@ -23,6 +23,7 @@ STYLES = {
     "affiliation": ParagraphStyle("affiliation", parent=base, fontName="Helvetica-BoldOblique", fontSize=7.35, leading=8.55, textColor=BLUE, spaceAfter=.3),
     "meta": ParagraphStyle("meta", parent=base, fontName="Helvetica-Oblique", fontSize=7.25, leading=8.35, textColor=MUTED, spaceAfter=.55),
     "bullet": ParagraphStyle("bullet", parent=base, leftIndent=8, firstLineIndent=-5, bulletIndent=1.5, spaceAfter=1.0),
+    "note": ParagraphStyle("note", parent=base, leftIndent=12, fontSize=7.1, leading=8.35, textColor=MUTED),
     "numbered": ParagraphStyle("numbered", parent=base, leftIndent=9, firstLineIndent=-9, spaceAfter=.55),
 }
 
@@ -110,6 +111,9 @@ while index < len(lines):
         story.append(Paragraph(markup(line), STYLES["numbered"]))
     elif line.startswith("- "):
         story.append(Paragraph("• " + markup(line[2:]), STYLES["bullet"]))
+    elif note := re.fullmatch(r"<small\b[^>]*>(.+)</small>", line):
+        story[-1].keepWithNext = True
+        story.append(Paragraph(markup(note[1]), STYLES["note"]))
     else:
         story.append(Paragraph(markup(line), base))
     index += 1

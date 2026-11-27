@@ -61,6 +61,10 @@
                 margin: 0 auto;
             }
 
+            .former-school-name {
+                color: #596773;
+            }
+
             /* Optimized Header Styling */
             .home-header {
                 margin: 0 auto;
@@ -183,6 +187,11 @@
     <body id="particles-js">
         <div id="app"></div>
         <script>
+            // Keep Docsify's window click handler from routing PDF links as pages.
+            document.addEventListener('click', (event) => {
+                if (event.target.closest('a.resume-pdf')) event.stopPropagation()
+            })
+
             window.$docsify = {
                 routerMode: 'history', // 设置路由模式为 history
                 name: 'Youwei Huang'

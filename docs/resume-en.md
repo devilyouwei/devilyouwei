@@ -43,7 +43,8 @@ Jun 2018 - Aug 2019 | Shanghai, China
 
 - Macau University of Science and Technology — Ph.D. Candidate, Jan 2022–Jan 2023 (withdrew). Research: deep learning, blockchain, and software engineering.
 - Monmouth University — M.S. in Software Engineering, Sep 2019–Aug 2020. ABET-accredited program.
-- Changshu Institute of Technology — B.Eng. in Software Engineering, Sep 2013–Jun 2018; one-year entrepreneurship gap.
+- **Suzhou University of Technology** — B.Eng. in Software Engineering, Sep 2013–Jun 2018; one-year entrepreneurship gap.
+  <small style="display: block; color: #596773">(formerly Changshu Institute of Technology)</small>
 
 ## Selected Research & Projects
 
