@@ -110,7 +110,7 @@ Co-inventor on 12 published invention patents spanning knowledge-graph retrieval
 ## Selected Media Coverage
 
 - [“Shenzhen: Building a Pioneer City for Artificial Intelligence”](http://www.cfgw.net.cn/epaper/content/202506/06/content_71703.htm?cjecjmophdbimgln=), China Reform Daily, Jun 2025.
-- [“Blockchain Smart Contract Hidden Risk Research Makes Latest Progress”](http://epaper.zqcn.com.cn/content/2025-04/01/content_58589.htm#10006-weixin-1-52626-6b3bffd01fdde4900130bc5a2751b6d1), China Enterprise News, Apr 2025.
+- [“Blockchain Smart Contract Hidden Risk Research Makes Latest Progress”](http://epaper.zqbao.com.cn/content/2025-04/01/content_58589.htm), China Enterprise News, Apr 2025.
 - [“Huang Youwei: From Code to Honor, A Full-Stack Engineer's AI Innovation Journey”](https://biznews.sohu.com/a/830899761_120932824), Sohu Business, Nov 2024.
 - [“Multi-model Fusion and Knowledge Graph, Driving the New Wave of Large Model Industrialization”](https://tech.china.com/article/20241031/102024_1596684.html), China.com, Oct 2024.
 

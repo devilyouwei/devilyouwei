@@ -260,7 +260,7 @@ _CN112037924B, 2020.07.24_
 _**China Reform Daily (中国改革报)**, Paper Media, Jun 6, 2025_  
 _A central-level daily newspaper supervised by the National Development and Reform Commission (NDRC), dedicated to reporting on reform and development._
 
-**[Blockchain Smart Contract Hidden Risk Research Makes Latest Progress](http://epaper.zqcn.com.cn/content/2025-04/01/content_58589.htm#10006-weixin-1-52626-6b3bffd01fdde4900130bc5a2751b6d1)**  
+**[Blockchain Smart Contract Hidden Risk Research Makes Latest Progress](http://epaper.zqbao.com.cn/content/2025-04/01/content_58589.htm)**<br>
 _**China Enterprise News (中国企业报)**, Paper Media, Apr 1, 2025_  
 _A central-level newspaper affiliated with the State-owned Assets Supervision and Administration Commission (SASAC), serving as a key platform for enterprises and entrepreneurs._
 
