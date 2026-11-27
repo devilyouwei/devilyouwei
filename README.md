@@ -5,7 +5,6 @@
 _Former Lead Research Engineer at the Institute of Intelligent Computing Technology, Suzhou, CAS._
 
 🏠 **Home Page:** <https://www.devil.ren>  
-🤗 **Hugging Face:** <https://huggingface.co/devilyouwei><br>
 🤖 **LLM Avatar:** <https://chat.devil.ren>
 
 🏛️ **Current Affiliation:** Shenzhen Yuewa Innovation Technology Co., Ltd. (LeapWatt)  
